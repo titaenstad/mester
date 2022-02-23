@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.0.0' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/data/digibok_2008041100031/digibok_2008041100031_0004.jp2"; bbox 0 0 1840 2968; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 68 2 2072">
+    <p class='ocr_par' id='par_1_1' lang='nno-nor' title="bbox 0 68 2 2072">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 68 2 2072; baseline 0 0; x_size 1002; x_descenders -501; x_ascenders 501">
+      <span class='ocrx_word' id='word_1_1' title='bbox 0 68 2 2072; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 684 1133 1280 1161">
+    <p class='ocr_par' id='par_1_2' lang='nno-nor' title="bbox 684 1133 1280 1161">
+     <span class='ocr_line' id='line_1_2' title="bbox 684 1133 1280 1161; baseline -0.015 0; x_size 24.484848; x_descenders 6.121212; x_ascenders 6.121212">
+      <span class='ocrx_word' id='word_1_2' title='bbox 684 1138 1055 1161; x_wconf 0'>TL2VSmRERTIAVITn</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 1082 1129 1120 1167; x_wconf 0'>KTL</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 1126 1133 1280 1154; x_wconf 60'>ITELSEN</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 660 1194 1316 1313">
+    <p class='ocr_par' id='par_1_3' lang='nno-nor' title="bbox 660 1194 1316 1313">
+     <span class='ocr_line' id='line_1_3' title="bbox 786 1194 1187 1219; baseline -0.017 0; x_size 32.5; x_descenders 5.5; x_ascenders 7.5">
+      <span class='ocrx_word' id='word_1_5' title='bbox 786 1199 943 1219; x_wconf 92'>PRINTED</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 968 1197 1004 1216; x_wconf 92'>IN</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 1031 1194 1187 1215; x_wconf 38'>NORWAY</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 660 1240 1316 1274; baseline -0.018 -4; x_size 32.5; x_descenders 5.5; x_ascenders 7.5">
+      <span class='ocrx_word' id='word_1_8' title='bbox 660 1250 788 1270; x_wconf 92'>BRØDR.</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 816 1233 1037 1278; x_wconf 88'>JØRGENSENS</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 1061 1240 1316 1262; x_wconf 55'>BOKTRYKKER</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 1302 1233 1320 1278; x_wconf 12'>I</span>
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 871 1283 1113 1313; baseline -0.017 0; x_size 31.358974; x_descenders 5.3589745; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_12' title='bbox 871 1283 1113 1313; x_wconf 0'>oso928</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

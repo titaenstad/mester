@@ -1,0 +1,31 @@
+
+
+AABB AABC = 3/4
+AABB ABCD
+
+2 interannotator agreement scores:
+1 fullstending match: lett, mindre presis -> høy = veldig bra  
+[0, 1, 0, 0, 1]
+
+1 dele opp i antall linjer: matche linje for linje (AABB AABC = 3/4)
+(tar ikke høyde for forholdet mellom linjene)
+[0.6, 0.75, 0, 1 ]
+
+krippendorff's alpha (for flere enn 2 
+
+cohens kappa 
+https://scikit-learn.org/stable/modules/generated/sklearn.metrics.cohen_kappa_score.html
+
+A og B annoterer samme
+C og D annoterer samme
+
+A+C B+D
+
+
+forholdet mellom linjene er det vi egentlig måler 
+hvis vi tar unike tegn for 
+
+skrive litt dialekt. 
+
+vektet utvalg av topp 10 mest frekvente rimmønster: feks 2\%
+

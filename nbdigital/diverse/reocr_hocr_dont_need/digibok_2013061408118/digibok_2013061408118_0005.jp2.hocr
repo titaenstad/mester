@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.0.0' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/data/digibok_2013061408118/digibok_2013061408118_0005.jp2"; bbox 0 0 1779 2768; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 411 429 1100 496">
+    <p class='ocr_par' id='par_1_1' lang='nno-nor' title="bbox 411 429 1100 496">
+     <span class='ocr_line' id='line_1_1' title="bbox 411 429 1100 496; baseline 0.006 -17; x_size 64; x_descenders 13; x_ascenders 14">
+      <span class='ocrx_word' id='word_1_1' title='bbox 411 429 568 480; x_wconf 93'>Laura</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 607 430 820 494; x_wconf 91'>Ringdal</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 863 431 1100 496; x_wconf 92'>Bratager</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 137 658 1385 773">
+    <p class='ocr_par' id='par_1_2' lang='nno-nor' title="bbox 137 658 1385 773">
+     <span class='ocr_line' id='line_1_2' title="bbox 137 658 1385 773; baseline 0.005 -24; x_size 116; x_descenders 23; x_ascenders 33">
+      <span class='ocrx_word' id='word_1_4' title='bbox 137 659 385 773; x_wconf 92'>Digte</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 431 658 499 770; x_wconf 85'>*</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 547 663 1385 759; x_wconf 80'>Smaafortællinger</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 548 911 947 1754">
+    <p class='ocr_par' id='par_1_3' lang='nno-nor' title="bbox 548 911 947 1754">
+     <span class='ocr_line' id='line_1_3' title="bbox 548 911 947 1754; baseline 0 1014; x_size 249.33334; x_descenders 62.333336; x_ascenders 62.333328">
+      <span class='ocrx_word' id='word_1_7' title='bbox 548 911 947 1754; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 529 2310 976 2427">
+    <p class='ocr_par' id='par_1_4' lang='nno-nor' title="bbox 529 2310 976 2427">
+     <span class='ocr_line' id='line_1_4' title="bbox 529 2310 976 2363; baseline 0.009 -14; x_size 52; x_descenders 13; x_ascenders 12">
+      <span class='ocrx_word' id='word_1_8' title='bbox 529 2310 819 2363; x_wconf 89'>Minneapolis,</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 846 2313 976 2353; x_wconf 91'>Minn.</span>
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 697 2388 799 2427; baseline 0.02 -11; x_size 53.5; x_descenders 13.5; x_ascenders 12.5">
+      <span class='ocrx_word' id='word_1_10' title='bbox 697 2388 799 2427; x_wconf 50'>I1910</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

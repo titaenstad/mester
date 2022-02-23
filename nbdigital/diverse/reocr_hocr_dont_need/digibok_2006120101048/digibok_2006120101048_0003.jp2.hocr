@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.0.0' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/data/digibok_2006120101048/digibok_2006120101048_0003.jp2"; bbox 0 0 2328 3408; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 296 352 1988 554">
+    <p class='ocr_par' id='par_1_1' lang='nno-nor' title="bbox 296 352 1988 555">
+     <span class='ocr_line' id='line_1_1' title="bbox 296 352 1988 554; baseline -0.007 -37; x_size 274.25; x_descenders 48.5; x_ascenders 75.25">
+      <span class='ocrx_word' id='word_1_1' title='bbox 296 363 954 519; x_wconf 92'>NORSK</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 1064 352 1988 554; x_wconf 92'>DIKTNING</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 780 607 1581 713">
+    <p class='ocr_par' id='par_1_2' lang='nno-nor' title="bbox 780 607 1581 713">
+     <span class='ocr_line' id='line_1_2' title="bbox 780 607 1581 713; baseline -0.006 0; x_size 134.19048; x_descenders 33.547619; x_ascenders 33.547619">
+      <span class='ocrx_word' id='word_1_3' title='bbox 780 611 1187 713; x_wconf 92'>EFTER</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 1261 607 1581 711; x_wconf 89'>1814</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 377 884 1917 964">
+    <p class='ocr_par' id='par_1_3' lang='nno-nor' title="bbox 377 884 1917 964">
+     <span class='ocr_line' id='line_1_3' title="bbox 377 884 1917 964; baseline -0.007 0; x_size 91.851852; x_descenders 22.962963; x_ascenders 22.962963">
+      <span class='ocrx_word' id='word_1_5' title='bbox 377 893 844 964; x_wconf 92'>LESEVERK</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 895 891 1070 961; x_wconf 92'>FOR</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 1119 884 1917 960; x_wconf 92'>UNGDOMSSKOLEN</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 417 1126 1879 1589">
+    <p class='ocr_par' id='par_1_4' lang='nno-nor' title="bbox 417 1126 1879 1589">
+     <span class='ocr_line' id='line_1_4' title="bbox 1116 1126 1168 1194; baseline 0.019 -1; x_size 93; x_descenders 25; x_ascenders 18">
+      <span class='ocrx_word' id='word_1_8' title='bbox 1116 1126 1168 1194; x_wconf 75'>II</span>
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 1094 1358 1200 1392; baseline 0 0; x_size 46.5; x_descenders 12.5; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_9' title='bbox 1094 1358 1200 1392; x_wconf 91'>VED</span>
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 417 1473 1879 1533; baseline -0.005 0; x_size 72.485291; x_descenders 19.485294; x_ascenders 14.029412">
+      <span class='ocrx_word' id='word_1_10' title='bbox 417 1479 724 1533; x_wconf 92'>MARIUS</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 763 1476 1148 1531; x_wconf 91'>HÆGSTAD</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 1187 1502 1242 1528; x_wconf 75'>oc</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 1281 1473 1575 1528; x_wconf 92'>MATIAS</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 1613 1473 1879 1528; x_wconf 91'>SKARD</span>
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 638 1558 1746 1589; baseline -0.005 0; x_size 46.5; x_descenders 12.5; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_15' title='bbox 638 1563 865 1589; x_wconf 90'>PROFESSOR</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 1414 1558 1746 1585; x_wconf 90'>SKOLEDIREKTØR</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 956 1874 1345 1912">
+    <p class='ocr_par' id='par_1_5' lang='nno-nor' title="bbox 956 1874 1345 1912">
+     <span class='ocr_line' id='line_1_8' title="bbox 956 1874 1345 1912; baseline -0.01 0; x_size 46.555557; x_descenders 11.638889; x_ascenders 11.638889">
+      <span class='ocrx_word' id='word_1_17' title='bbox 956 1876 1145 1912; x_wconf 91'>SJETTE</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 1174 1874 1345 1910; x_wconf 91'>OPLAG</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 795 2125 932 2289">
+    <p class='ocr_par' id='par_1_6' lang='nno-nor' title="bbox 795 2125 932 2289">
+     <span class='ocr_line' id='line_1_9' title="bbox 795 2125 932 2289; baseline 0 1119; x_size 206.25; x_descenders 51.5625; x_ascenders 51.5625">
+      <span class='ocrx_word' id='word_1_19' title='bbox 795 2125 932 2289; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 947 2224 1578 2364">
+    <p class='ocr_par' id='par_1_7' lang='nno-nor' title="bbox 842 2212 1578 2364">
+     <span class='ocr_line' id='line_1_10' title="bbox 947 2224 1578 2299; baseline 0.015 -15.431; x_size 82; x_descenders 12; x_ascenders 26">
+      <span class='ocrx_word' id='word_1_20' title='bbox 842 2212 1578 2312; x_wconf 0'> Nasjonalbiblioteket</span>
+     </span>
+     <span class='ocr_line' id='line_1_11' title="bbox 952 2312 1358 2364; baseline 0.015 -10; x_size 51; x_descenders 9; x_ascenders 11">
+      <span class='ocrx_word' id='word_1_21' title='bbox 952 2312 1358 2364; x_wconf 91'>Depotbiblioteket</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_8' title="bbox 931 2685 1377 3040">
+    <p class='ocr_par' id='par_1_8' lang='nno-nor' title="bbox 931 2685 1377 3040">
+     <span class='ocr_line' id='line_1_12' title="bbox 1068 2685 1251 2736; baseline -0.005 0; x_size 60; x_descenders 14; x_ascenders 14">
+      <span class='ocrx_word' id='word_1_22' title='bbox 1068 2685 1251 2736; x_wconf 0'>p</span>
+     </span>
+     <span class='ocr_line' id='line_1_13' title="bbox 1075 2741 1243 2823; baseline 0.018 -16; x_size 90; x_descenders 22; x_ascenders 18">
+      <span class='ocrx_word' id='word_1_23' title='bbox 1075 2741 1243 2823; x_wconf 35'>WN</span>
+     </span>
+     <span class='ocr_line' id='line_1_14' title="bbox 1130 2824 1189 2854; baseline 0 0; x_size 60; x_descenders 14; x_ascenders 14">
+      <span class='ocrx_word' id='word_1_24' title='bbox 1130 2824 1189 2854; x_wconf 60'>Co</span>
+     </span>
+     <span class='ocr_line' id='line_1_15' title="bbox 1093 2865 1246 2913; baseline -0.013 -24; x_size 30.125; x_descenders 6.125; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_25' title='bbox 1093 2865 1194 2899; x_wconf 0'>Q1872</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 1210 2877 1246 2913; x_wconf 10'>ø</span>
+     </span>
+     <span class='ocr_line' id='line_1_16' title="bbox 931 2997 1377 3040; baseline 0 -1; x_size 53.47826; x_descenders 12.478261; x_ascenders 12.47826">
+      <span class='ocrx_word' id='word_1_27' title='bbox 931 2997 1377 3040; x_wconf 89'>KRISTIANIA</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_9' title="bbox 350 3078 1961 3185">
+    <p class='ocr_par' id='par_1_9' lang='nno-nor' title="bbox 350 3078 1961 3185">
+     <span class='ocr_line' id='line_1_17' title="bbox 350 3078 1961 3126; baseline -0.002 -9; x_size 46.561405; x_descenders 11.640351; x_ascenders 11.640351">
+      <span class='ocrx_word' id='word_1_28' title='bbox 350 3081 647 3117; x_wconf 90'>FORLAGT</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 684 3081 762 3115; x_wconf 70'>AV.</span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 800 3080 847 3115; x_wconf 70'>H.</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 886 3079 1276 3115; x_wconf 89'>ASCHEHOUG</span>
+      <span class='ocrx_word' id='word_1_32' title='bbox 1315 3080 1348 3114; x_wconf 46'>&amp;</span>
+      <span class='ocrx_word' id='word_1_33' title='bbox 1386 3079 1471 3115; x_wconf 77'>CO.</span>
+      <span class='ocrx_word' id='word_1_34' title='bbox 1511 3079 1592 3124; x_wconf 91'>(W.</span>
+      <span class='ocrx_word' id='word_1_35' title='bbox 1630 3078 1961 3126; x_wconf 85'>NYGAARD)</span>
+     </span>
+     <span class='ocr_line' id='line_1_18' title="bbox 1112 3150 1203 3185; baseline -0.011 0; x_size 46.561405; x_descenders 11.640351; x_ascenders 11.640351">
+      <span class='ocrx_word' id='word_1_36' title='bbox 1112 3150 1203 3185; x_wconf 93'>1922</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

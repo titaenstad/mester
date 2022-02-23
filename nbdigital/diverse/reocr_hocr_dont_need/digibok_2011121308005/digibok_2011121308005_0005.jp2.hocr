@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.0.0' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/data/digibok_2011121308005/digibok_2011121308005_0005.jp2"; bbox 0 0 2301 3641; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 106 337 2104 1289">
+    <p class='ocr_par' id='par_1_1' lang='nno-nor' title="bbox 106 337 2104 1131">
+     <span class='ocr_line' id='line_1_1' title="bbox 387 337 1786 465; baseline 0 0; x_size 139.08109; x_descenders 15.08108; x_ascenders 31.27928">
+      <span class='ocrx_word' id='word_1_1' title='bbox 387 338 1190 465; x_wconf 64'>PETTER</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 1278 337 1786 465; x_wconf 50'>DASS</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 106 620 2104 802; baseline -0.003 -2; x_size 249; x_descenders 27; x_ascenders 56">
+      <span class='ocrx_word' id='word_1_3' title='bbox 106 627 1406 802; x_wconf 92'>HERRENS</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 1520 620 2104 800; x_wconf 91'>BØN</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 315 908 1905 1289; baseline -0.001 -161; x_size 246.83734; x_descenders 26.837349; x_ascenders 55">
+      <span class='ocrx_word' id='word_1_5' title='bbox 315 908 1252 1289; x_wconf 89'>FADER</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 1352 956 1905 1131; x_wconf 92'>VOR</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 937 1230 1255 1787">
+    <p class='ocr_par' id='par_1_2' lang='nno-nor' title="bbox 937 1230 1255 1787">
+     <span class='ocr_line' id='line_1_4' title="bbox 937 1230 1255 1787; baseline 0 1854; x_size 697.5; x_descenders 174.375; x_ascenders 174.375">
+      <span class='ocrx_word' id='word_1_7' title='bbox 937 1230 1255 1787; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 482 1947 1711 2204">
+    <p class='ocr_par' id='par_1_3' lang='nno-nor' title="bbox 482 1947 1711 2204">
+     <span class='ocr_line' id='line_1_5' title="bbox 595 1947 1595 2053; baseline 0.001 -3; x_size 136.83333; x_descenders 34.208332; x_ascenders 34.208332">
+      <span class='ocrx_word' id='word_1_8' title='bbox 595 1947 1595 2053; x_wconf 70'>FORFATTET</span>
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 482 2097 1711 2204; baseline 0 -4; x_size 136.83333; x_descenders 34.208332; x_ascenders 34.208332">
+      <span class='ocrx_word' id='word_1_9' title='bbox 482 2098 800 2200; x_wconf 91'>UDI</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 872 2099 1069 2203; x_wconf 92'>NI</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 1139 2097 1711 2204; x_wconf 87'>SANGE</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 296 2823 1933 3014">
+    <p class='ocr_par' id='par_1_4' lang='nno-nor' title="bbox 296 2823 1933 3014">
+     <span class='ocr_line' id='line_1_7' title="bbox 616 2823 1574 2886; baseline 0.001 -3; x_size 81.555557; x_descenders 20.388889; x_ascenders 20.388889">
+      <span class='ocrx_word' id='word_1_12' title='bbox 616 2823 1281 2885; x_wconf 88'>FORENING</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 1353 2825 1574 2886; x_wconf 88'>FOR</span>
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 296 2948 1933 3014; baseline 0.003 -5; x_size 81.555557; x_descenders 20.388889; x_ascenders 20.388889">
+      <span class='ocrx_word' id='word_1_14' title='bbox 296 2948 719 3011; x_wconf 92'>NORSK</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 811 2950 1513 3013; x_wconf 76'>BOKKUDNST</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 1599 2952 1933 3014; x_wconf 78'> 1956</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.0.0' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/data/digibok_2010061806033/digibok_2010061806033_0015.jp2"; bbox 0 0 1928 2937; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 632 1026 1277 1081">
+    <p class='ocr_par' id='par_1_1' lang='nno-nor' title="bbox 632 1026 1277 1081">
+     <span class='ocr_line' id='line_1_1' title="bbox 632 1026 1277 1081; baseline -0.005 -1; x_size 69.333336; x_descenders 17.333334; x_ascenders 17.333334">
+      <span class='ocrx_word' id='word_1_1' title='bbox 632 1027 989 1081; x_wconf 36'>SELVBIO</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 1018 1022 1277 1101; x_wconf 36'>GRAFI</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 907 1108 1004 1142">
+    <p class='ocr_par' id='par_1_2' lang='nno-nor' title="bbox 907 1108 1004 1142">
+     <span class='ocr_line' id='line_1_2' title="bbox 907 1108 1004 1142; baseline 0 -7; x_size 44.75; x_descenders 6.5; x_ascenders 12.75">
+      <span class='ocrx_word' id='word_1_3' title='bbox 907 1108 1004 1142; x_wconf 90'>(1841)</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 476 2934 1864 2936">
+    <p class='ocr_par' id='par_1_3' lang='nno-nor' title="bbox 476 2934 1864 2936">
+     <span class='ocr_line' id='line_1_3' title="bbox 476 2934 1864 2936; baseline 0 0; x_size 1; x_descenders -0.5; x_ascenders 0.5">
+      <span class='ocrx_word' id='word_1_4' title='bbox 476 2934 1864 2936; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

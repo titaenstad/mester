@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.0.0' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/data/digibok_2007060701064/digibok_2007060701064_I1.jp2"; bbox 0 0 1770 2992; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 0 1770 1165">
+    <p class='ocr_par' id='par_1_1' lang='nno-nor' title="bbox 0 0 1770 1165">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 0 1770 524; baseline 0 -39; x_size 647.33331; x_descenders 161.83333; x_ascenders 161.83333">
+      <span class='ocrx_word' id='word_1_1' title='bbox 0 0 1770 524; x_wconf 95'>    </span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 0 524 95 1165; baseline 0 -77; x_size 647.33331; x_descenders 161.83333; x_ascenders 161.83333">
+      <span class='ocrx_word' id='word_1_2' title='bbox 0 524 95 1165; x_wconf 95'>   </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 441 422 1447 596">
+    <p class='ocr_par' id='par_1_2' lang='nno-nor' title="bbox 441 422 1447 596">
+     <span class='ocr_line' id='line_1_3' title="bbox 628 422 1243 490; baseline 0.02 -31; x_size 59; x_descenders 14; x_ascenders 17">
+      <span class='ocrx_word' id='word_1_3' title='bbox 628 429 837 479; x_wconf 33'>&quot;9usyoa</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 874 437 953 483; x_wconf 15'>1oj3</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 990 422 1243 490; x_wconf 33'>Surjpay</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 441 522 1447 596; baseline 0.022 -21; x_size 69.70652; x_descenders 16.706522; x_ascenders 20.163044">
+      <span class='ocrx_word' id='word_1_6' title='bbox 441 522 1111 589; x_wconf 16'>”ILLOIT4Iq1IO4</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 1155 538 1447 596; x_wconf 0'>MIAEVN</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 794 1107 1497 1292">
+    <p class='ocr_par' id='par_1_3' lang='nno-nor' title="bbox 794 1107 1497 1292">
+     <span class='ocr_line' id='line_1_5' title="bbox 1183 1107 1314 1146; baseline 0.015 -12; x_size 57.5; x_descenders 15.125; x_ascenders 11.5">
+      <span class='ocrx_word' id='word_1_8' title='bbox 1183 1107 1209 1146; x_wconf 84'>T</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 1248 1107 1314 1146; x_wconf 0'>Xxo</span>
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 859 1161 1497 1220; baseline 0.014 -9; x_size 70.595139; x_descenders 19.595142; x_ascenders 11">
+      <span class='ocrx_word' id='word_1_10' title='bbox 859 1161 1068 1214; x_wconf 46'>F18a4n</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 1111 1176 1136 1215; x_wconf 75'>I</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 1179 1177 1313 1219; x_wconf 72'>1110</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 1433 1179 1497 1220; x_wconf 44'>8B</span>
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 794 1235 1495 1292; baseline 0.023 -21; x_size 56; x_descenders 15; x_ascenders 11">
+      <span class='ocrx_word' id='word_1_14' title='bbox 794 1238 857 1285; x_wconf 26'>&quot;</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 902 1243 960 1285; x_wconf 50'>P</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 1008 1235 1314 1291; x_wconf 0'>tuasqooep</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 1464 1253 1495 1292; x_wconf 82'>q</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

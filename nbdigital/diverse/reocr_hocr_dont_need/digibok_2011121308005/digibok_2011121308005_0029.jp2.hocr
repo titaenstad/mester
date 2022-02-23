@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.0.0' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/data/digibok_2011121308005/digibok_2011121308005_0029.jp2"; bbox 0 0 2301 3641; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 104 2082 2156">
+    <p class='ocr_par' id='par_1_1' lang='nno-nor' title="bbox 0 104 2082 2156">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 104 2082 2156; baseline 0 0; x_size 1026; x_descenders -513; x_ascenders 513">
+      <span class='ocrx_word' id='word_1_1' title='bbox 0 104 2082 2156; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 619 2275 1424 2392">
+    <p class='ocr_par' id='par_1_2' lang='nno-nor' title="bbox 619 2275 1424 2392">
+     <span class='ocr_caption' id='line_1_2' title="bbox 619 2275 1424 2392; baseline -0.002 -32; x_size 97.366333; x_descenders 13.366337; x_ascenders 34">
+      <span class='ocrx_word' id='word_1_2' title='bbox 619 2280 829 2360; x_wconf 92'>Den</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 879 2275 1152 2360; x_wconf 92'>fierde</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 1201 2277 1424 2392; x_wconf 93'>Sang</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 113 2498 1934 3120">
+    <p class='ocr_par' id='par_1_3' lang='nno-nor' title="bbox 113 2498 1934 3120">
+     <span class='ocr_line' id='line_1_3' title="bbox 113 2498 1265 2647; baseline -0.012 -2; x_size 159.30138; x_descenders 14.301371; x_ascenders 61">
+      <span class='ocrx_word' id='word_1_5' title='bbox 113 2499 481 2645; x_wconf 93'>Skee</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 536 2498 748 2644; x_wconf 92'>din</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 839 2498 1265 2647; x_wconf 92'>Villie</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 118 2736 1934 2942; baseline -0.004 -60; x_size 159.5; x_descenders 14.5; x_ascenders 59.833332">
+      <span class='ocrx_word' id='word_1_8' title='bbox 118 2791 381 2942; x_wconf 89'>paa</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 424 2736 1001 2934; x_wconf 91'>Jorden,</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 1056 2795 1371 2881; x_wconf 93'>som</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 1438 2735 1613 2880; x_wconf 90'>den</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 1795 2794 1934 2878; x_wconf 93'>er</span>
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 124 2974 1099 3120; baseline 0.001 -5; x_size 158.47162; x_descenders 14.471624; x_ascenders 59">
+      <span class='ocrx_word' id='word_1_13' title='bbox 124 2978 170 3115; x_wconf 77'>1</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 225 2974 1099 3120; x_wconf 91'>Himmelen</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

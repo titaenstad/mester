@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.0.0' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/data/digibok_2008041100031/digibok_2008041100031_0177.jp2"; bbox 0 0 1864 2952; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 574 800 1142 869">
+    <p class='ocr_par' id='par_1_1' lang='nno-nor' title="bbox 574 800 1142 869">
+     <span class='ocr_caption' id='line_1_1' title="bbox 574 800 1142 869; baseline 0.005 -4; x_size 86.666664; x_descenders 21.666666; x_ascenders 21.666666">
+      <span class='ocrx_word' id='word_1_1' title='bbox 574 800 1142 869; x_wconf 89'>SMAAVERS</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 557 1044 1232 1562">
+    <p class='ocr_par' id='par_1_2' lang='nno-nor' title="bbox 557 1044 1232 1562">
+     <span class='ocr_line' id='line_1_2' title="bbox 557 1044 1232 1562; baseline 0 1390; x_size 216; x_descenders 54; x_ascenders 53.999996">
+      <span class='ocrx_word' id='word_1_2' title='bbox 557 1044 1232 1562; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1862 1010 1864 1344">
+    <p class='ocr_par' id='par_1_3' lang='nno-nor' title="bbox 1862 1010 1864 1344">
+     <span class='ocr_line' id='line_1_3' title="bbox 1862 1010 1864 1344; baseline 0 0; x_size 167; x_descenders -83.5; x_ascenders 83.5">
+      <span class='ocrx_word' id='word_1_3' title='bbox 1862 1010 1864 1344; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 869 2950 1799 2952">
+    <p class='ocr_par' id='par_1_4' lang='nno-nor' title="bbox 869 2950 1799 2952">
+     <span class='ocr_line' id='line_1_4' title="bbox 869 2950 1799 2952; baseline 0 0; x_size 1; x_descenders -0.5; x_ascenders 0.5">
+      <span class='ocrx_word' id='word_1_4' title='bbox 869 2950 1799 2952; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

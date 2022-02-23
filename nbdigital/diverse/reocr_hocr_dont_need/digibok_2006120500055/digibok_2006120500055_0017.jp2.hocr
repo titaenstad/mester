@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.0.0' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/data/digibok_2006120500055/digibok_2006120500055_0017.jp2"; bbox 0 0 1944 3000; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 482 334 1066 605">
+    <p class='ocr_par' id='par_1_1' lang='nno-nor' title="bbox 483 334 910 394">
+     <span class='ocr_line' id='line_1_1' title="bbox 483 334 910 394; baseline 0 -13; x_size 60; x_descenders 13; x_ascenders 18">
+      <span class='ocrx_word' id='word_1_1' title='bbox 483 334 670 394; x_wconf 34'>meægtig</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 696 352 759 394; x_wconf 91'>og</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 785 334 910 381; x_wconf 91'>hvid.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_2' lang='nno-nor' title="bbox 484 406 841 463">
+     <span class='ocr_line' id='line_1_2' title="bbox 484 406 841 463; baseline 0 -11; x_size 57; x_descenders 11; x_ascenders 18">
+      <span class='ocrx_word' id='word_1_4' title='bbox 484 406 573 453; x_wconf 92'>Liv</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 602 406 716 452; x_wconf 93'>eller</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 746 406 841 463; x_wconf 92'>død</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_3' lang='nno-nor' title="bbox 482 475 1066 605">
+     <span class='ocr_line' id='line_1_3' title="bbox 483 475 1014 536; baseline 0 -13; x_size 61; x_descenders 13; x_ascenders 18">
+      <span class='ocrx_word' id='word_1_7' title='bbox 483 494 568 524; x_wconf 92'>var</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 602 477 694 533; x_wconf 91'>det,</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 732 477 815 523; x_wconf 92'>der</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 848 475 1014 536; x_wconf 92'>gjaldt,</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 482 545 1066 605; baseline -0.002 -11; x_size 60; x_descenders 12; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_11' title='bbox 482 565 598 594; x_wconf 92'>naar</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 626 545 898 605; x_wconf 91'>braatsjøen</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 930 546 1066 593; x_wconf 92'>faldt.</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

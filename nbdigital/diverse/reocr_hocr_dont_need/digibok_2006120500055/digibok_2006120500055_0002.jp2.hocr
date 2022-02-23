@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.0.0' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/data/digibok_2006120500055/digibok_2006120500055_0002.jp2"; bbox 0 0 1968 3008; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 909 1348 1349 1473">
+    <p class='ocr_par' id='par_1_1' lang='nno-nor' title="bbox 909 1348 1349 1473">
+     <span class='ocr_line' id='line_1_1' title="bbox 961 1348 1296 1381; baseline 0.003 -5; x_size 33.5; x_descenders 5.5; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_1' title='bbox 961 1348 1143 1380; x_wconf 88'>Copyright,</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 1161 1350 1235 1381; x_wconf 92'>1915,</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 1255 1350 1296 1381; x_wconf 92'>by</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 909 1397 1349 1430; baseline 0.009 -6; x_size 34; x_descenders 5.5; x_ascenders 9.5">
+      <span class='ocrx_word' id='word_1_4' title='bbox 909 1397 1055 1425; x_wconf 92'>JULIUS</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 1073 1398 1108 1426; x_wconf 92'>B.</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 1127 1398 1349 1430; x_wconf 89'>BAUMANN,</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1008 1442 1253 1473; baseline 0.008 -4; x_size 32.210526; x_descenders 5.2105265; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_7' title='bbox 1008 1442 1142 1473; x_wconf 92'>Carlton,</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 1155 1443 1253 1471; x_wconf 92'>Minn.</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

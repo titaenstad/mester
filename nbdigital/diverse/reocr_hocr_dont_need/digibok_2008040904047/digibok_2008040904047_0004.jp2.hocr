@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.0.0' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/data/digibok_2008040904047/digibok_2008040904047_0004.jp2"; bbox 0 0 1696 2944; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 545 1228 1322 1256">
+    <p class='ocr_par' id='par_1_1' lang='nno-nor' title="bbox 545 1228 1322 1256">
+     <span class='ocr_line' id='line_1_1' title="bbox 545 1228 1322 1256; baseline -0.008 -2; x_size 26.912281; x_descenders 6.7280703; x_ascenders 6.7280703">
+      <span class='ocrx_word' id='word_1_1' title='bbox 545 1234 778 1256; x_wconf 91'>VIGNETTERNE</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 797 1232 950 1253; x_wconf 91'>TEGNEDE</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 971 1231 1011 1251; x_wconf 91'>AF</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 1035 1230 1117 1250; x_wconf 92'>AAGE</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 1135 1228 1322 1256; x_wconf 90'>JØRGENSEN</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 614 1302 1273 1381">
+    <p class='ocr_par' id='par_1_2' lang='nno-nor' title="bbox 614 1302 1273 1381">
+     <span class='ocr_line' id='line_1_2' title="bbox 842 1302 1036 1324; baseline -0.01 0; x_size 26.277779; x_descenders 6.5694447; x_ascenders 6.5694447">
+      <span class='ocrx_word' id='word_1_6' title='bbox 842 1303 949 1324; x_wconf 92'>TRYKT</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 971 1302 1036 1323; x_wconf 91'>HOS</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 614 1349 1273 1381; baseline -0.011 -7; x_size 26.277779; x_descenders 6.5694447; x_ascenders 6.5694447">
+      <span class='ocrx_word' id='word_1_8' title='bbox 614 1355 639 1381; x_wconf 88'>J.</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 657 1352 850 1380; x_wconf 91'>JØRGENSEN</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 873 1350 892 1373; x_wconf 92'>&amp;</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 919 1349 975 1370; x_wconf 91'>CO.</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 997 1355 1012 1370; x_wconf 0'>m</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 1036 1349 1112 1369; x_wconf 78'>IVAR</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 1130 1349 1273 1377; x_wconf 86'>JANTZEN</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 246 2942 990 2944">
+    <p class='ocr_par' id='par_1_3' lang='nno-nor' title="bbox 246 2942 990 2944">
+     <span class='ocr_line' id='line_1_4' title="bbox 246 2942 990 2944; baseline 0 0; x_size 1; x_descenders -0.5; x_ascenders 0.5">
+      <span class='ocrx_word' id='word_1_15' title='bbox 246 2942 990 2944; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 541 2942 990 2944">
+    <p class='ocr_par' id='par_1_4' lang='nno-nor' title="bbox 541 2942 990 2944">
+     <span class='ocr_line' id='line_1_5' title="bbox 541 2942 990 2944; baseline 0 0; x_size 1; x_descenders -0.5; x_ascenders 0.5">
+      <span class='ocrx_word' id='word_1_16' title='bbox 541 2942 990 2944; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

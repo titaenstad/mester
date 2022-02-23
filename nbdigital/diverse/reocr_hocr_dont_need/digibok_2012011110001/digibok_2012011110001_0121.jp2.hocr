@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.0.0' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/data/digibok_2012011110001/digibok_2012011110001_0121.jp2"; bbox 0 0 1280 2064; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 448 20 1267 141">
+    <p class='ocr_par' id='par_1_1' lang='nno-nor' title="bbox 448 20 1267 141">
+     <span class='ocr_line' id='line_1_1' title="bbox 448 20 1234 73; baseline 0.003 -12; x_size 56; x_descenders 14; x_ascenders 14">
+      <span class='ocrx_word' id='word_1_1' title='bbox 448 31 542 66; x_wconf 15'>Forfte</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 561 31 677 73; x_wconf 26'>Sonag</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 697 31 706 59; x_wconf 72'>i</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 725 31 844 61; x_wconf 32'>Aent.</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 1119 20 1121 22; x_wconf 62'>-</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 1184 34 1234 63; x_wconf 3'>d1</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 867 93 1267 141; baseline 0.005 -16; x_size 44.592918; x_descenders 10.592919; x_ascenders 13">
+      <span class='ocrx_word' id='word_1_7' title='bbox 867 96 952 126; x_wconf 31'>udb.</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 974 96 1018 125; x_wconf 18'>M.</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 1038 97 1199 141; x_wconf 29'>Lindentan.</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 723 77 829 82">
+    <p class='ocr_par' id='par_1_2' lang='nno-nor' title="bbox 723 77 829 82">
+     <span class='ocr_line' id='line_1_3' title="bbox 723 77 829 82; baseline 0 0; x_size 2.5; x_descenders -1.25; x_ascenders 1.25">
+      <span class='ocrx_word' id='word_1_10' title='bbox 723 77 829 82; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 977 79 1063 82">
+    <p class='ocr_par' id='par_1_3' lang='nno-nor' title="bbox 977 79 1063 82">
+     <span class='ocr_line' id='line_1_4' title="bbox 977 79 1063 82; baseline 0 0; x_size 1.5; x_descenders -0.75; x_ascenders 0.75">
+      <span class='ocrx_word' id='word_1_11' title='bbox 977 79 1063 82; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1066 78 1207 84">
+    <p class='ocr_par' id='par_1_4' lang='nno-nor' title="bbox 1066 78 1207 84">
+     <span class='ocr_line' id='line_1_5' title="bbox 1066 78 1207 84; baseline 0 0; x_size 3; x_descenders -1.5; x_ascenders 1.5">
+      <span class='ocrx_word' id='word_1_12' title='bbox 1066 78 1207 84; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 76 133 1241 567">
+    <p class='ocr_par' id='par_1_5' lang='nno-nor' title="bbox 76 133 1241 567">
+     <span class='ocr_line' id='line_1_6' title="bbox 76 133 1241 567; baseline 0 -395; x_size 494.0625; x_descenders 123.51562; x_ascenders 123.51562">
+      <span class='ocrx_word' id='word_1_13' title='bbox 76 133 1241 567; x_wconf 95'>   </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 48 591 1280 1992">
+    <p class='ocr_par' id='par_1_6' lang='nno-nor' title="bbox 48 591 1280 1992">
+     <span class='ocr_line' id='line_1_7' title="bbox 48 591 1280 1992; baseline 0 0; x_size 700.5; x_descenders -350.25; x_ascenders 350.25">
+      <span class='ocrx_word' id='word_1_14' title='bbox 48 591 1280 1992; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

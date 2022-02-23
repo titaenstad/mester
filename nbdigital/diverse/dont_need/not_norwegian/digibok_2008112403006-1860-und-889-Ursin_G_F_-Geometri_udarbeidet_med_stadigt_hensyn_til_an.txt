@@ -1,0 +1,1549 @@
+Geometri)
+udarbeidet
+med stadigt Hensyn til Anvendelsen
+, '
+Annster og Daandbmkn
+af
+Autoriseret til Brug for Eleverne af det kongelige Akademi for de sljenne Kunster,
+Kjsbenhavn.
+Forlagt af Georg Chr. Ur sin.
+G. S. Wibes Bogtrylkeri.
+1860.
+50,
+Fortale
+til fjerde Oplag.
+3^)ed min Ansccttelse som offenlig Lcever ved det kongelige Akademi for d e skjenne Kunster, blev det mig paalagt, at lcrgge til Grund for Undervisningen sammesteds en Lcerebog;  som passende til dette Brug kunde jeg ligesaa lidet ansee min Lcrrebog i den rcne Mathematik i to Dele, som nogen anden af de Lcerebsger, vi eie i Mathematiken, og modtog gjerne den Opfordring at udarbeide en Geometri, afpassct fornemme ligen ester Kunstakademiets Elevers Tarv. Da mit Manuscript har circulcret i Akademiet, og mine crrede Colleger have meddeelt mig flere Vink og praktiske Bemerkninger, tsr jeg haabe, at Skriftet, saaledes som det nu fremtrcedcr, vil svare til sin Hensigt.
+En stcdse tiltagende Afscctning af de tre foregaaende temmeligen store Oplag af dette Skrift har viist, at ovenstaaendeDnske  er opfyldt. Forfatteren blev derved opmuntret til at bearbeide Arithmetiken, ligcledes elementært, dog videnskabeligt,  og saaledes udkom Aar 1841: ?Arithmctik, udarbeidet  med Hensyn til den praktiske Anvendelse." Dette Skrift indeholder tillige Arithmetikens og Algebraens Anvendelse  paa Geometrien, i det samme fremsetter Regler og Formler for Figurers ogLegemers Udregning. Ogsaa heraf er en ny Udgave bleven fornoden og vil snart udkomme. Saaledes haaber jeg, at begge Skrifter i Forening fremdeles ville tjene til Grundlag for den i enhver Borgerskole, der fortjener dette Navn, fornsdne Underviisning i Mathematik.
+Scptbr. 1847.
+G. F. Urfin.
+I. Plammetli.
+I. Forklaringer, Linier og Vinkler.
+1. &lt;&lt;)et Rum, en Gjenstand indtager, og hvoraf dens Stsrrelse er afhcengig, kaldes et geometriskt Legeme;
+Legemet er paa alle Sider begrcendset; dets Grcendser faae Navn af Fl a der;
+Fladerne ere atter begrcendsede af Linier;
+Linierne af Puncter.
+Heraf fslger: at et Punct i ingen Heenfeende er udstrakt,  og at det ingen Dele har; en Linie er udstrakt blot i een Henseende, eller har ene Lcengde; en Flade i to Henseender, eller har baade Lcengde og Brede; et Legeme er udstrakt i tre Henseender, eller har Lcengde, Brede og Tykkelse.
+Vi tale stundom om en Gjenstands Hside, isar naar vi staae nedenfor dens svcrste Deel, f. Ex. vi sige: en Bygning er 24 Alen hoi, men da tale vi ei om samme Gjenstands Tykkelse. Ligclcdes sige vi f. Ex. en Grav er syv Fod dyb, idet vi staae ovenfor og see ned i Graven, men tale da kun tillige om Gravens Lcengde og Brede; saaledes har Legemet stcdse kun tre Udstroekninger, Fladen to, Linicn  ccn.
+Da det, vi bctragte i Geometrien ene er en Gjenstand for Tanken, indscc vi, at enhver sandsclig Fremstilling (en Modcl eller Tegning) af Legemer, Fladcr, Linicr og Puncter er ufuldkommen , og blot bliver et Villede af det, som ved denne stal fremstilles. Vi be- tegne saalcdcs et Punct med en Prik, denne Prik har baade Lcengde
+Ursins Geometri, 7de Oplag. 1
+og Vrede, ja endog Tykkelse, thi ellers blev den ei synlig, men vi forestille os den, som uden al Lcengde og Brede og Tykkelse, og vi gjme den just derfor muligst fun. Ligeledcs betegne vi en Lime med en Streg; ihvorvel denne, f. Ex. en Kridtsticg eller en Vlyantsstreg, har en ofte ikke übetydelig Brede, men vi tagc ene Hensyn til Lcengden, cftcrsom Stregen betydcr en Linie. Vi bcdcekke en Deel as Papiret med et tyndt Farvelag for at betegne en Flade; men, toge vi Hensyn til Farvelagets ringe Tykkelse, foruden dets Vrede og Loengde, da betragtede  vi et Legeme. Selv ved Legemet maae vi betjene os af en sandselig Fremstilling; thi hvah Materie det Legeme, vi fremstille for os, er af, er i Geometrien ligcgyldigt. Taler jeg om en Kugle, da er det for Gcometreren det Samme, om den er af Guld, Marmor eller Trce; han spsrgcr kun om dens Stsrrelse, og altsaa bliver den Kugle, man giver ham at beregne, blot en Prove eller en Model as denne Stsrrelse. Opgavcs der mig at udmaale det indvendige Ruin af et Vcrrelfe, og jeg tcenkte mig en Stcenblok just ligesaa lang, ligesaa bred og ligcsaa hsi, da blev Beregningen eens for begge, ihvorvcl jeg vecd, at Vcerelset er fyldt med Luft, hvortil jeg ligesaa lidet tåger Hensyn, som til den i Stecnblokken vcercnde Steenmasse. Det er imidlertid  ikke nogct Nyt, som her lcercs. Hvor ofte har ikke Bygmoesteren tegnet og udrcgnct en Dsr-Forkloedning, udcn just at have afgjort, om den stal udfsrcs af denne eller hiin Stecnart? Spsrge vi ikke, hvormegct  Tsi vi brugc til Kloeder, hvor langt og hvor bredt det maa vare, men ikke hvor tykt, og saaledes tanke os den blotte Flade? Naar vi tale om cet Steds Afstand fra et andet, da tcenke vi os vel et Maa! anbmgt imcllcm begge Steder, men spsrge ikke om dette Maal er en Snor, en Maalcstok af denne eller hiin Tykkelse. Det stjsnne Spil af Lystfyrvcrrkeriet bcstaaer i, at en Ildmasse hurtigcn dreies om i en Kreds; denne Kreds danner et Ildhjul, hvis Stsirclse jeg kan angive, ihvorvel jeg vced, at det kun er den bedragedc Sands, der har givct mig Forestillingen om samme. Bomben slynges ud af Morteren i en Bane, som den kyndige Artillerist vccd at beregne, stjsndt intet Spor af Veien er tilbage, uden paa det Punct, hvorfra den udfksdcs, og paa det Sted, hvor den i sit Fald udbredte Vdcloeggelse. Dog vi ville stroebe at gjore vort Billede af de geometriske Stsrrclscr muligst tro; vi ville gjere vore Stregcr saa smalle, som muligt, saa at de blot kunne sees, naar vi betegne Linicr, vore Prikker muligst fine, naar vi betegne Punctcr, men stcdse vil Tegningen staae tilbage, og vi kunne for Tanken og ved Beregningen fremstille Storrelser, hvoraf Kunsten ikke formaaer at give nogct Billede.
+2. Have vi to Puncter  og L givne, da kaldes den korteste Lime som kan drages imellem  dem, en ret Linie;
+enhver anden Linie,
+bliver en krum Linie,
+eller ogsaa en brcekket
+Linie, en Sammensetning as flere rette Linier
+Imellem to Puncter vil det kun vcere muligt at drage en eneste ret Linie, derimod et vilkaarligt Antal krumme Linier.
+En aldeles udspcendt Snor danner en ret Linie; thi forst, naar Snoren er spcendt, findes saa lidet, som muligt, as den imcllem Endepuncterne,  den angiver saaledes den korteste Vei. Det er meget oste, at vi anvende en saadan Snor i Kunsterne og Haandvcrrkerne; vi bsr tåge den muligst fiin, da ellers dens egen Voegt let, iscer naar dens Endcpuncter ligge i en vandret Retning, vil forhindre Spcendingcn og altsaa gjore, at Snoren fremstiller en krum Linie (denne krumme Linie kaldes Snorlinien eller Kjcedelinien, og er mcrrkelig for Architcctcn, eftcisom Theorien for Hvelvinger og murede Buer viser, at disse, for at verre stccrkest, bsr dannes ester denne). Ogsaa Lysstraalernc  gaae, i det Mindste i den Afstand, vi scrdvanligcn her paa Jorden bctragtc, frem i rette Linier. Det er paa Grund heraf, at Landmaalercn, ved Hjwlp af Stokke, udstikker rette Linier paa Marken; det er hcrpaa, at hele Lceren om Pcrspectiv stolter sig.
+3. Vcelge vi aldeles vilkaarligt to Puncter i en Flade og der imellem drages en ret Linie, saa, hvis denne ligger aldeles i Fladen, og dette fremdeles er Tilfceldet for alle Puncter, vi vcelge, kaldes Fladen en plan Flade eller et Plan, enhver anden Flade derimod en krum Flade.
+De krumme Flader kunne atter enten vcere heelkrumme, naar vi paa intet Sted i dem kunne drage rette Limer, f. Ex. Overfladen af en Kugle, eller halvkrumme, naar vi vel paa nogle, men ikke paa alle Steder i dem kunne drage rette Linier, f. Ex. Overfladen af en Valse.
+Vi prove et Plan ved paa forskjellige Steder at passe dertil en ret Linie. f. Ex. om Kalkbcdcekningen eller Kalkpudsen paa en Muur er aldeles plan, ved dcrimod at holde en lang Lineal (Rctholt, Richtschcit). 
+En Li ne al proves ved paa et Plan imellem to Puncter at drage ester den en Linie og dcrpaa vende Linealcn om, og efter samme Kant as den imcllcm samme Puncter atter at drage en Linie; falde begge Limer aldeles sammen, da er Kanten af Linealen en ret Linie; ellers er den krum.
+I forskjellige Kunster krcrves det at frembringe et muligst noiag. tigt Plan. I Almindelighed steer det ved en Rakke as Forssg, i det man under Arbeidet jcrvnligen piover paa alle Steder med Linialen, eller ogsaa ved Vicmaalet, der hos den svede Arbeider ofte er meget sikkert. Hvor det kan fkee, slibes gjerne to Plader sammen, f. E. Steenfliser.  Glas i Speilfabrikkerne :c., da derved begges Ujcrvnhedcr afslibes.
+4. Den Aabning, som er imellem to i eet Punct sammenstsdende rette Limer og kaldes en Vinkel. Sammenstsdnings-Punctet  kaldes  Vinklens Toppunct,
+de rette Luner og
+Vinklens Veen.
+En Vinkel betegnes i Almindelighed med tre Bogstaver, der dog stedse noevnes saaledes, at Toftvuncts-Bogstavet staaer i Midten, f. Ex. den ovenstaaende Vinkel L^O eller d^L, eller, hvor Forvirring ikke kan opstaae, ene med Tovpuncts- Bogstavet, eller ogsaa med smaa Bogstaver, som skrives inden i Vinklen.
+Iscer naar Vinklen betegnes med tre Bogstaver, strides foran samme Tegnet &lt;&lt;.
+Vinklens Størrelse er ene afhcengig af Aabningen imellem dens Been, ikke af disses Lcengde.
+Vinklen fremstilles ved to forbundne Lincaler, der danne det Red som kaldes Hceldingsmaal (Schmiege, Mal).
+stab
+5. Alle de enkelte
+Vinkler, OLN og NLV, som ligge i eet Plan paa een Side as en ret Lime og have
+samme ToppunctL, kaldes l&gt; Nabovinkler.
+Ere der kun to Nabo-
+vinkler, og disse ere ligestore, da kaldes de rette Vinkler.
+Vi kalde faaledes en ret Vinkel, hvis dens
+Nabovinkel der
+ovstaaer, naar L for-
+langes, er ligestor med
+At en Vinkel er ret,
+betegnes med Bogstavet li; vi strive saaledes
+K, hvor Tegnet - er Liigheds-Tegnet, som tilkjende-
+giver, at de Størrelser, imellem hvilke det staaer, ere ligestore.
+Vinkel fremstilles ved Vinkelhagen. Vi prove en
+Dcn rette
+Vinkelhagc n, ei ved at drage paa en Plan fsrst en ret Linie N?
+H- derncest lceggc Vinkelkagen
+mod Linien med den ene Kant, og, ester den anden Kant, drage Limen 6H; vende vi nu Vinkclhagen aei om, saa at den faacr Stillingen 6sl, Icegge atter den ene Rand mod N? og Topvunctet i 6 og da finde, at dcn anden Rand just falder sammen med
+&lt;32, saa er Vinkelhagen dannet ester en ret Vinkel, eller er rigtig. Andre Methoder, hvorved vi danne en ret Vinkel og altsaa kunne prsve Vinkelhagen, fremscrttes siden.
+6. Enhver Vinkel der ikke er ret, kaldes skjev; den er spids, naar den er mindre end en ret, stump, naar den er sterre end en ret.
+Det invsees let, at den stumpe Vinkel er sterre end sin
+Nabovinkel, den spidse mindre.
+Saaledes, hvis &gt; R, d. e. er en stump Vinkel, da er &gt; OLD (Tegnet &gt;, som her er anvendt, lceses „ sterre end", ligesom -&lt;
+0
+saa scettes stedse Spidsen
+mod det Mindre, Aabningen mod det Sterre).
+7. En Linie siges at staae lodret (perpendiculcert) paa en anden, naar den med samme danner rette Vinkler.
+For at tilkjendegive, at en Linie staaer lodret paa en anden, anvende vi Tegnet _^. Saaledes lceses OD ?^L lodret paa 00".
+En Linie eller et Plan, som falder sammen med et stillestaaende  Vands Overstade, kalde vi vandret (horizontal).
+Lodret paa en saadan vandret Linie eller Flade vilde den rette Linie vcere, som en Snor, betynget as et Lod, angiver,  hvoraf ogsaa Navnet lodret kommer, som imidlertid bruges, overensstemmende med Forklaringen, om enhver Linie, der danner rette Vinkler med en anden.
+Fra et Punct i W Linie staaer kun een Linie lodret. Er saaledes _I_ CD , vil enhver anden Linie LN danne
+skjeve Vinkler med OD, ncemlig eller en stump Vinkel; eller en spids Vinkel.
+Vi indsee saaledes, at den sedvanlige Van dretter (Waterpas) ved sit Lod tjener til at undcissge. om en Linie eller et Plan er vandret.  Vandrettcrcn maae forst prsvcs; jo langcre Lodlinien er, desto nsiagtigcre er Rcdskabct. til saare noiagtige Afveiningcr anvendes Spiritus-Vandretteren, som er et Glasror, fyldt ncesten aldeles med Viinaand eller Naphta og lukket i begge Onder, Luftboblen bliver i Midten kun da, naar Rorets nederste Dcel er aldeles vandret. Denne Vandrettcr gjsres mindre fslsom, naar Roret gives en lidcn Boimng  opad; dette vil stedse vcere nodvendigt, hvis vi ville anvende dette Redstab i Kunster og Haandvcrrker, da vi kun formaae at frembringe og tillige ere tilfredse med et paa det Ncermeste vandret Plan; et altfor  fslsomt Rcdstab vilde just, ved sin til saadant Brug for store Noiagtighed, blive übrugcligt. Spiritus -Vandretteren, der provcs ligesom den scrdvanligc Vandrcttcr med Lod, ved at stilles paa en Linie, saaledcs at den angiver samme som vandret, og dcrncest omvendes for at see, om den atter viser vandret, har det Fortrin, at den kun er liden, ei udsat for Vindens Paavirkning, men dog derhos saa noiagtig, som man onffcr det, altsaa svarer til et Lod af flere Fods Lcengde.
+8. Dreier en ret Linie sig i et Plan, om sit ene Endepunct L, indtil den atter faaer sin fsrste Stilling, da kaldes den Deel af Planet, som den rette Linie har gjennemlsbet,  en Cirkel.
+Cirklen bliver saaledes  en Plan-Figur (et vaa alle Sider begrcendset Plan), der er indestuttet
+af en eneste krum Lime, i hvilken ethvert Punct er lige langt borte fra et Punct inden i Figuren. Dette Punct V kaldes Midtpunct (Centrum).
+Vi maae vel skjelne imellem Cirklen, der er en Plan-Figur, og Cirkellinien  (Perivherien), der begrcendser samme.
+En ret Linie dragen fra Cirklens Midtpunct ud
+til Cirkellinien, kaldes Cirklens Radius. I samme Cirkler ere alle Radier ligestore.
+Cirklens Stsrrelse er afhcengig af dens Radius ; jo sterre denne er, desto stsrre er Cirklen. Cirkler, beskrevne med samme Radier, ere ligestore, og omvendt ligestore Cirkler have ligestore Radier.
+En Deel af Cirkellinien kaldes en Cirkelbue.
+En Cirkel beskrives paa et Plan med en udspcendt Snor, hvis ene Endepunct er fastgjort, eller ogsaa med Stangpasseren eller den scrduanlige Passer (som almindeligcn, men mindre rigtigt, kaldcs Cirklcn), hvilket fidste Instrument dog egcnligen, mcdcns den ene Fod forblivci i Cirklcns Midtpunct, med den anden bestrivcr Cirkcllinien.  Vcggt Instrumenter tjene ogsaa til at afscettc en ret Linic, ligestor med en anden.
+9. To Cirkler skcere hinanden, naar den ene tildeels ligger indenfor, tildeels ligger udenfor den andens Cirkellinie. Cirkler bersre hinanden, naar deres Cirkelliuier kun have eet Punct tilfcelles; de kunne enten bersre hinanden udvendigen eller indvendigen.
+Have vi en Lime og vcelge i den et vilkaarligt Punct 0, beskrive derncest med Radierne og d!L to Cirkler,
+da berme disse hinanden udvendigen
+Tåge vi derimod som Radius i en Cirkel, fra Midtpunctet V, og en Deel, af den som Radius i den anden Cirkel,  der beskrives fra Midtpunctet 0, da bersre disse Cirkler hinanden indvendigen.
+Eccent riske kaldes de Cirkler, der ere beskrevne fra forskjellige Midtvuncter; concentriske de, der have samme Midtpunct, og som tillige have forskjellige Radier.
+Skulle vi paa Papiret fra samme Midtpunct beskrive flere Cirkler,  da bliver dette let gjennemstukkct og faaer et stort Hul, som dcels vanzirer Tegningen og dcels gjor Midtpunctet übestcmti for at forebygge dette kan man anskaffe sig en liden Mcssingplade, i hvis Midte er en Huulning, og som er heftet til en ligclcdcs i Midten an« bragt fiin, kort Naal; Naalen scettcs nu i.Midlpunctct, og man lader Passcrspidsen gaae i den i Pladen anbragte Huulning. Papiret er da.
+naar Messingpladen borttages, aldeles «beskadiget. En andm Maadc at fkaane Midtpunctet, ei at paalime en lidcn Plade af Pergament eller Horn, som da siden kan borttages.
+10. At udmaale er at sammenligne en übekjendt Størrelse med en ligeartet bekjendt og underssge, hvor ofte denne indeholdes i hun.
+Som Maal for Limer anvende vi altsaa en Lime af en bestemt Swrrelse, nemlig Foden; Foden deles atter i Tommer, Tommen i Lin i er. Ogfaa forekommer Maalet Alen, forn udgjsr 2 Fod; Favnen er 3 Alen.
+Almindeligen deles Foden i 12 Tommer, Tommen i 12 Limer, hvilken Afdeling af Maalet kaldes Tolvdeels- Maalet og anvendes iscer af Kunstnere og Haandvcerkere, hvorfor det ogsaa kaldes Haandvcerksmaal. Beqvemmere for Regning, men fjeldnere anvendt, er Tideels- Maalet, i Fslge hvilket Foden deles i 10 Tommer, Tommen i 10 Limer. I Tolvdeels-Maalet kaldes 12 Fod en Rode, ligesom  i Tideels-Maalet 10 -Fod udgjsre en Rode.
+I begge Slags Maal betegnes Roder med ", Fod med Tommer med ", Limer med eller ogsaa med Ord; saaledes  lceses 
+5" 7' 9" 3'"
+eller
+5 R. 7 Fod 9 Tom. 3 Lin. 5 Roder 7 Fod 9 Tommer og 3 Limer.
+Alle Landes Fodmaal er ikke lige; for altsaa at ovcrfsre fremmcdt  Maal til danstt, eller omvendt, maa vides, hvormange Fod af det fremmede Maal udgjsrc et vist Antal danske Fod (se Ursins Regnebog S. 180 og fslg., hvor Underretning findes om udenlanstt Maal og Vcegt), og da kan Regningen fores som et scrdvanligt Rcgula- Detri-Stykkc. Som Exemplcr herpaa vcere givne fslgcnde:
+I) 13 Alen. 17 Tommer holstecnfkt Maal stal udrcgncs i danstt.
+Nu er 23 Holst. Fod lige med 21 danske Fod, eller 23 Holst. Al. - 21 danske Alen. Alsaa
+23 Holst. Al. — 21 danske Al. — 13 Al. 1? Tom. Holst.
+II) 313 Fod 7 Tom. 3 Lin. danskt Maal stulle gjsres til engelstt  Maal; nu vides, at 34 danske Fod ere lige med 35 engelske. Altsaa
+34 Fod D. — 35 Fod Eng. — 313 Fod 7 Tom. 3 Lin. D.
+35 (6z j 1565 (U
+939
+10955 F0d
+17—6 Tom
+2—ll
+B—9 Lin.
+34) 10976 Fod 1 Tom, 9 Lin.
+322 Fod 9 Tom. 11/^ Lin.
+Hvorledes Naturen i visse Maader ved Pendulet afgiver et Grundmaal.  derom se Millingtons Haandbog S- 33 og fslg.
+11. Antage vi ved Benet fastliggende,  men Benet LO at dreie sig rundt i et Plan, saaledes, at det falder  fsrst aldeles sammen med saa indsee vi, at Benet LO beskriver en Cirkel, og at Cirkelbuen just har tiltaget, som Vinklen saaledes, at, hvis f. Ex. /.
+da er ogsaa Buen Antage  vi altsaa, at Ld! har bevceget fig til d!N, saaledes,  at fremdeles til 0?, hvor atter da er en ret Lune, og NO? er Nabovinkel til fremdeles til 06, hvor atter ?OQ-K, og derncesttil^o,hvor^o6-  ville vi indsee,
+at til de 4 rette Vinkler NO?, ?0Q og svare de fire Cirkelbuer N?, 56 og hvilke blive ligestore og kaldes Qvadranter eller Fjerdedeels-Cirkellinier.
+Ligesom altsaa en bestemt Vinkel, f. Ex. /^^C!L, er en vis Deel af den rette Vinkel saaledes er den tilsvarende Bue samme Deel af Qvadranten Tcenke vi os altsaa den rette Vinkel deelt i et vist Antal lige Dele, saasom 90, bliver den tilsvarende Qvadrant ligeledes deelt i 90 ligestore Dele.
+Til Maal for Vinkler antages den rette Vinkel, der, som anfort, deles i 90 ligestore Dele, som kaldes Vinkelgr  ad er eller simpelthen Grader (hvilke betegnes med "); hver Vinkelgrad deles i 60 Minuter(&lt;), hvert Minut i 60 Secunder  ("). Sige vi altsaa, at /^OL-31", da betyder det, at den er A^li.
+Cirkelbuer udmaales ved Qvadranten, der paa den anfsrte Maade deles i 90 ligestore Dele eller Buegrader eller simpelthen Grader (som ligeledes betegnes med "), hver til 60' (Minuter), hvert Minut deles i 60" (Secunder).
+En Cirkelbue, hvis Midtpunct er en Vinkets Toppnnct, har stedse ligesaa mange Buegrader, som Vinklen har Vinkelgrader;  er er ogsaa Buen - 31«.
+Da Qvadranten har 90", saa har Halvcirklen eller, rettere bencevnet, Halvcirkellinien 180", hele Cirkellinien 360".
+Ved en Buegrad maae vi ikke forestille os en bestemt Lcengde; men blot en vis Deel af en Qvadrant; thi i en anden Cirkel, hvis Radius er/ stsrre eller mindre, vilde Lcengden af Graden ogsaa vcere stsrre eller mindre. Antallet af Graderne bestemmer altsaa ene en Bues Krumning, ikke dens Lcengde.
+For at bestemme Buers og Vinklcrs Gradctal anvendes Transportsren,  som er et Instrument, dannet som en Halvcirkel af Messing,  eller vel ogsaa Horn, og inddeelt ester Radiens Stsrrelse i Grader eller vel ogsaa i halve og Fjcrdcdccis-Gradcr. Transportsrcns Midtpunct  anbringes ved Midtvunctct af den Cirkelbue, eller Toppunctet af den Vinkel, hvis Gradctal vi ville bestemme. Inddelingen af Transportsrcn  i Grader kan ikke stee ene ved Linealcn og Passeren, .men forudscetter andre Methoder og tildecls fortsatte Forsog ; derfor sige vi, at Inddclingm er steet mechaniskt, ikke gcomctristt. Enhver Construction eller Tegning, hvorved Transportsren bruges, bliver derfor  ligcledcs ingen geometrist Construction, eftcrdi til denne ene Passer og Lineal maae anvendes
+12. Et Plan, som paa alle Sider er begrcendset, kaldes en Plan-Figur; Grcendserne kunne enten vcere rette Linier, krumme Limer, eller baade rette og krumme Linier; paa Grund heraf inddeles Plan-Figurer i retlinede, krumlinede og blandetlinede. Vi have allerede betragtet en krumlinet Plan-Figur, Cirklen.
+Een ret Linie kan ikke begrcendse et Plan; thi den rette Linie lober ikke, som Cirkellinien, tilbage i sig selv. To rette Linier kunne ligeledes ei heller begrcendse et Plan; thi de have kun eet Punct, Overskceringspunctet, tilfcelles. Forst tre rette Linier kunne begrcendse et Plan; saaledes bliver den tresidede
+retlinede Plan-Figur eller Trekanten (Trianglet) af alle retlinede Plan-Figurer den simpleste.
+Trekanten kan enten vcere l i g e -
+si det, som hvis alle de tre indesluttende retteLinier (Siderne), og LO, ere ligestore, eller ligebenet,  ON?, hvis ikkun to ere ligestore,  ON^OS, eller uligesidet, (3-111, hvis alle Sider ere uligestore.
+I en ligebenet Trekant faaer i Almindelighed den tredie Side, som ikke er ligestor med nogen af de to andre, Navn af Grundlinie, saaledes  i /XVV?, hvor VN-V?, er N? Grundlinien.
+Indestnttes en Figur af fire rette Limer, da kaldes den en Fiirkant, af 5 en Femkant o. s. v. Figurer, der have 5 eller flere Sider, kaldes med et fcelles Navn Mangekanter (Polygoner).
+Figurer ere regelrette, naar i dem saavel alle Sider som Vinkler ere ligestore, uregelrette, naar dette ikke sinder Sted.
+13. To geometriske Stsrrelser dcekke hinanden (ere congruente), naar de kunne aldeles nsie passe sammen, sa6-ledes,  at, naar de tcenkes bragte sammen, den ene da aldeles ikke falder udenfor den andens Grcendser.
+Størrelser, der dcekke hinanden, ere ligestore.
+Dcekke saaledes f. Er. to Trekanter hinanden, da ere de ligestore; tillige ere deres Sider og Vinkler ligestore.
+Ere to rette Limer ligestore, da ville de ogsaa kunne bringes til Dcekning. Er*e to Vinkler ligestore, d. e. Aabningen
+mellem deres Been den samme, da kunne de ligeledes bringes til Dcekning, saaledes, at, naar Toppunct er bragt paa Toppunct,  Benene da falde sammen.
+Paa Grund heraf betegnes Dcekning ved rette Linier og Vinkler med samme Tegn, som Ligestorhed, ncemlig derimod bruges ved Plan-Figurer og Legemer for Dcekning Tegnet
+Intet hindrer vor Indbildningskrast fra, at vi jo kunne tcenke os to geometriske Legemer, ligesom ogsaa Flader eller Linier, at dcrkke hinandcn, eller den ene at stydcs ind i den anden, og saalcdcs begge indtagc summe Num, ihvorvcl vi vide, at, tcenke vi os Materie at ovsylde  begge Lcgemers Num, da vil dette vcere umuligt; thi det er just een af Materiens Egcnskaber, at den indtagcr Rum, at altsaa, hvor een Materie eller ect vhy fisk Legeme er, et andet ikke tillige kan vcere. Men i Geometrien forholder det sig andcrledes; der tcenke vi os al Materie borte, og der bliver det muligt ogsaa at tcenke to Legcmcr  paa cet Sted. Tagc vi saaledcs to Kuglcr, stobte i samme Form, da siger Geomctrercn, at de dcrkke hinanden; thi Rummet, den ene indtager, er just det samme som den andens Num.
+Vi kunne gjerne tcenke os f. E. to Trekanter, eller to hvilkesomhelst  andre Figurer, eller to Legemer at vcere ligestorc, uden at de dcekke hinanden eller just have samme Skikkelse. F. Ex. vi vide at det Toi, hvormed vi ville betrcekke et Gulv, maae vcrie ligcsaa stort, eller have en ligcsaa stor Overstade, som Gulvet: men det bliver Tapctmagerens  Sag at bringe Tsiet til at dcekkc Gulvet, eller give det en ligedan Skitkcse med Gulvet. Vi indsee saalcdcs, at to Storrelser vel ere ligcstore, naar de dcekke hinanden; men vi kunne ikke omvendt slutte, at de dcckkc hinandcn , naar de ere ligcstore.
+14. Er der ved een eller flere geometriske Størrelser, nogle Figurer eller Linier, nogle visse Betingelser givne, og vi heraf kunne udlede nogle andre, faa skeer dette i en Lcerescetning,  hvis Rigtighed skal bevises, d. e. godtgjøres saaledes,  at vi indsee, at, hver Gang disse Betingelser ere tilstede,  maae de nsdvendigviis have samme Fslger.
+En Grundscetning er en saadan Scetning, hvis Rigtighed  vi strar indsee, uden derfor at behsve noget sceregent Beviis. Af saadanne anvende vi, foruden den:
+naar Størrelser dcekke hinanden, da ere de ligestore, i  Geometrien  endnu  folgende: 
+il) Enhver Stsrrelse er ligestor med sig selv eller alle sine Dele.
+d) Enhver Stsrrelse er stsrre, end een as sine Dele, eller nogle as dem tilsammen.
+o) Ligestore Stsrrelser kunne stettes i Stedet for hinanden.
+6) Ere to Stsrrelser ligestore med samme tredie, da ere de inobyroes ligestore.
+6) Er en Stsrrelse stsrre eller mindre, end een as to ligestore Swrrelser, da er den ogsaa stsrre eller mindre, end den anden.
+f) Er en Swrrelse sterre, end den stsrste as to uligestore Stsrrelser, da er den ogsaa stsrre, end den mindre.
+8) Ligeledes, er en Stsrrelse mindre end den mindste af to uligestore Størrelser, da er den ogsaa mindre end den stsrste af samme uligestore Størrelser.
+d) Ligestort, lagt til Ligestort, giver Ligestort; Ligestort, lagt til Storre eller Mindre, eller Stsrre og Mindre, lagt til Ligestort, giver Stoxre og Mindre, og ligeledes Stsrre, lagt tilStsrre, Mindre, lagt til Mindre, giver Stsrre og Mindre.
+i) Ligestort, draget fra Ligestort, giver Ligestort; Ligestort, draget fra Stsrre og Mindre, giver Stsrre
+og Mindre; derimot) Stsrre og Mindre, draget fra Ligestort, giver Mindre og Stsrre; Stsrre draget fra Mindre, og Mindre fra Stsrre, giver Mindre og Storre.
+K) Ere to Størrelser ligestore, da er ogsaa det Dobbelte af dem, eller det Halve af dem ligestort. Gr derimod een Stsrrelse storre, end en anden, da er ogsaa af denne det Dobbelte eller det Halve stsrre, end det Dobbelte eller det Halve af den anden.
+Disse Scetninger indcholdc intet Nyt, og vi have mange Gange, uden at vide selv af det, stuttet ester dem. Hvor ofte have vi ikke sagt, at to Størrelser ere ligcstore; thi vi have udmaalt dem med samme Maal, d. e. vi have sundet dem begge ligcstorc med dette, eller nied ccn og samme tredic? Hvor ofte have vi ikke med Nette autaget, at to Halvdele vare ligcstorc, da sammcs Hcle var det o. s. v,? Del er disse Scrtninger, vi brugc dagligcn, som vi ideligen anvende, baade naar vi ville demme om Storrclsen af Gjenstanden^, og naar vi ville anstille Beregninger over samme. Vi ncevnc dem kun udtrykkeligen her, fordi den Vei, vi ville gaae fremad i Geometrien, kan blive dcsto mere oplyst, og for at vi lunne indsce. at selv den tilsyncladendc meest sammensatte Scrtning har samme Vishcd, som disse, eftersom den kun er en mere eller mindre umiddelbar Folge eller Anvendelse af disse Scetninger paa de gcometriste Stsnclser. Det er just, ved iscrr i Vcgyndclscn at gaae frem med Orden og Noiagtighed, at vi lette os siden Veien, og ikke maae vi troe at kunne gjorc dette, ved at antagc som Sandhcd, hvad der kun halvt eller aldeles ikke er beviist, men blot fortalt. Hvorfor stulle vi 'ikke strcrbe, ved vor Lcesning, ligesom  ved vort Arbeide, at komme til fuldstcendig Indstgt, selv at lcere og prove Sandheden, ligcsom vi selv onskc at fee vort Arbeides Betydning,  ligcsaa lidet ved denne ene verre afhcengigc af vor Lcerers Ord, som ved dette af vor Mwsters Bud? Vi ville engang staae lige forlegne  i begge Tilfcrlde; stulle vi anvende vore Kundstaber, da felger Lcrreren os dog ikke stedse i vurt Vcrrksted og kan staae hos os og sige: ?lu, Dette eller Hiint er saalcdes"; han bcsjceles ikte af den samme Kunstfolelse, som jeg, og kan altsaa ikke lede mig, som ofte tttt
+Ursins Geometri, 7dc Oplag. 2
+klart kan fremscette min Idee, til det Rigtige; han har ikke erhvervel, sig i mit Haandvcerk, stiv i dets mindste Dele, den øvelse og Indsigt, som krceves, for at hans Kundstab, antog jeg endog, at han aldrig feilcde, kan anvendes paa mit Arbeide. Vi have ikke heller vor Master stcdse, som kan asridse os, hvor Redstabct fkal gaae; ja vi stulle jo en Gang selv vorde Mcestrc og lede vore Lcrilinge, ligesom vi maastce nu selv tcdcs. Heller altsaa, end at belcesse vor Hukommelse med en Rakke as Regler, ville vi sve vor Dsmmekraft ved at prove vore Scrtningers Sandhcd og bevist dem omhyggeligen. Hvad for den Studerende, der dog ikke, som vi, arbeider paa de ydrc Former, der ikke skal give dem Skjonbed og Rigtighed, anstes for en Forstands- Dvelse, det bliver samme Vvelse sor os; kun maa den, naar vi ville anvende Flid og Eftertanke, blive os lettere, da vi langt mere, end han, have bcstcrftiget os allerede lcenge med Gjenstande, der have givet os, om ikke en klar Eikjendelse as, dog en vis dunkel Kjendstab til Geometrien. Hvad vi have lcert, vil blive os vigtigerc, og ville vi lettere bevare, da vi dagligen sve det; hver Gang vi skulle udfsre en Tegning, da er det Geometrien, der giver den Nsiagtighed; det er Geometrien, der gjsr, at den Gjenstand, Phantasicn har udklcrkket, faacr sine rigtige Former, kaster sin Skygge, saa at Diet, skuffet as Perspcctivct, nvdcr den vide Udsigt, som Phantasien undfangcde, og som Kunsten ftcmkaldte. Det er Geometrien, der leder os frem i Mechaniken,  der lcrrer os at beregne Kraft og Last, der felger os i den dristigste Mastin-Furbindelst, viser os, om vott Vygningsvroject er saadant, at Bygningen har Styrke, om vi maaskee kunne gjere den end dristigere. Vi indvcnde ikke, at alt dette er udfert af Mand, som aldrig kjendte Videnstaben, men, besjcelede af et lykkeligt Geni, udrettede  mere, end de, der vare ledede af det omhyggeligste Studium; thi vistnok kan en sjelden Guddoms-Gave udrette meget og ncesten trodse al mcnncstclig Lcrrdom; men er denne i samme Grad tilstede hos Alle? have vi ikke seet, hvor Tidsalderen begunstigcdc Kunstvcrrkers  Fiembringelscr, klodsede Masser, bugnende under deres egen Vcrgt, at sammendynges, og selv, cll^r maaskce endog allerede deres nye Ruiner  at vidne om deres Ovbvggers Mangel, ligeligen paa Geni og Kundstab? ja, selv den talentfulde Kunstners Vart mislykkcdes hyppigt,  eller, for omhyggelig, gau han det hist og her for mcgen, ja en uziirlig Masse, fordi han ikke vidste at beregne og prsve efter Viden« stabens Regler sit Kunstprojcct. Saaledes mene da Kunstneren ikke, at dette omhyggelige Raisonnement, denne Fremstriden sra.Scrtning til Scetning, fra Slutning til Slutning, standser hans Genies raste
+Flugt; nci. er dette tilstede, da vil det forene fig med Studiet, og den kraftige og forstandige Kunstner vil fremstaac; Haandvcrrkcien troe ikke, at den Tid er spildt, som han anvender til Lcesning; det er ikke blot Haanden, der skal svcs; thi den tusindhcrndede Mafkine har ofte langt storre Fardighcd; men det er den mcnncstclige Forstand, som ikke kan erstattes af nogen Mafkine, der skal lede Haanden; dcn hsire Haand stal her vide', hvad dcn venstre gjor. og begge stulle arbeide eftcr de Negler, hvoreftcr dcn indsigtsfuldc Arbeider styrer sit Vart. Men alle disse Fordele drage vi kun af vor Lcrsning, naar vi vcrlge Boger, hvori man har vaagct over Nsiagtighcd og Orden, naar vi soge en Undcrviisning, der i Veghndelsen bliver nsdvendig for at veilede  vor Lcesning, som iagttagcr samme Nsiagtiqhcd, samme Ordcn. Dcrsor har man heller ikke i denne Vog troet at turde afvige fra den strenge Orden, som man 'er vant til at iagttage i Geometrien; der er i denne Vidcnskab ligesaa lidet en egen Vei for Kunstnere og Haandvcerkcre,  som der, ester vor store Larer Euklid's Udsagn, er nogen egen Vei for Konger; vi kunne kun lette dem dcres Studium, ved stcdse at hcnvege paa, at det er kun bckjendte Gjcnstande, men om hvilke de faae en fuldstcrndig og nsiagtig Kundfkab, dem saa meget vigtigere, som de dagligen kunne og bor anvende den.
+15. Krceves noget Bestemt ndfsrt, da fkeer det ved en Op gave (Barkstykke), hvortil hsrer en Oplssning, som viser, hvorledes det i Opgaven Fremsatte udfsres, og et Beviis, som godtgjsr, at dette er rigtigen udfsrt.
+En Fordringssoetning krcever ogsaa noget Bestemt udftrt; dog dette er saa simpelt, at vi baade indsee, hvorledes dette kan udfsres, og at det er rigtigen udfsrt. Vi ville mcerke os selgende Fordringsscetninger:
+a) fra eet Punct at drage en ret Lime til et andet;
+b) fra et Punct, som Midtpunct, med en given Radius at beskrive en Cirkel;
+c) af en ret Lime at afskcrre et Stykke, ligestort  med en given Lime.
+Den fsrste af disse Fordringsscetninger udfsres med Linealen, de to sidste med Passeren.
+Vi have endnu at lcegge Mcerke til Tillceg, der ere Scetninger, som let kunne udledes af de beviste, og Anmcerkn,inger,  der indeholde Henviisninger og deslige, som vel egenligen ei kunne siges at henhsre til Foredraget, men som ofte blive af sccrdeles Vigtighed med Hensyn til den Anvendelse, vi ville gMe af samme. Saaledes er ncervcerende Vog ledsaget  af Anmerkninger, der indeholde Vink om Geometriens Anvendelse i de forskjellige Kunster og Haandvcerker. De ere, til Forskjel fra den egentlige Tert, trykte med mindre Stiil.
+2. Trekanters Daekning og Ggenfiaber.
+16. Lwrescetning. Er i een af to Trekanter en Vinkel ligestor med en Vinkel i den anden, og de Vinklen indejluttenoe Sider ere i begge Trekqnter stykkeviis ligestore, da dcekke Trekanterne hinanden.
+Bev. Ere Trekanterne og VN? , og deri -v, saa lcegge vi Toppunctet O paa Tvppunctet ON langs eftersom nu VY, vil N falde i L; endvidere, da /.^-^-I), er Holdningen  af mod ligestor med Hceldningen af v^ mod
+VN; fslgeligen maa og VI? falde sammen, og tillige, da maa ? falde i 0. Da saaledes Endepuncterne af Linierne LO og N? falde fammen, saa falde de, efterdi de ere rette Limer, selv aldeles sammen, og altsaa dcekke Trekanterne hinanden.
+Heraf fslger, at LO-N5, Vinklen L-L, o^s, eller at den tredie Side og de to hosliggende Vinkler i samme Trekanter ere ligestore.
+17. Lceres. I en ligebenet Trekant ere Vinklerne  ved Grundlinien ligestore.
+Bev. I Trekanten
+vcere da stal bevises, at /_ L^.o - L(D^. Vi forlcenge vilkaarligt, men lige meget og LO til Puncterne I) og R; i Trekanterne
+LOV og L^.N er nu
+v/.. ' '^ "^ N Lv - LN, LO -
+/_ L L ; altsaa dcekke
+disse Trekanter hinanden i Fslge foregaaende Scetning, og ftlgeligen er VO - V-N, og /. LOV - L^N. Sammenligne vi derncest Trekanterne og saa er deri, foruden DO - V-N, tillige altsaa dcekke ogsaa disse Trekanter hinanden, og folgeligen er deri /_ drages disse Vinkler fra LOV^L^V, saa,  da  Ligestort  fra  Ligestort  giver  Ligestort,  er  /^  LO^.  L^O,  hvilket  siulde  bevises. 
+Till. Da en ligesidet Trekant i hver Henseende er ligebenet,  eller enhver Side deri kan antages som Grundlime
+medens de andre ansees som Trekantens ligestore Sider, saa indsees, at alle Vinklerne i samme ere ligestore, eller at den ligesidede Trekant altsaa er enregelret Figur, eftersom i den baade Sider og Vinkler ere ligestore.
+18. Lcrres. To Trekanter dcekke hinanden, naar alle tre Sider af den ene ere stykkeviis ligestore  med alle tre Sider af den anden.
+''^i n
+6
+Bev. I Trekanterne og VNl' vcere - VN, L(^^N^, Vi vende /X VN^ om V 5, ftre den hen under lcegge O i VI? langs da falder io,og N, som er vendt nedad, vil falde under i 6-, i det hele Trekanten VT^ faaer Beliggenheden Forbindes nu V og (^ med en ret Linie, saa opstaae to ligebenede  Trekanter og Lll!^, i det - VN, og VN er den samme Linie som altsaa og ligestore; ligeledes i den anden Trekant LO-N^-(I!&lt;3; i dem begge er L&lt;3 Grundlinie og fslgeligen (17) Vinklerne ved Grundlimen
+p-^y og m^^n; altsaa, hvis vi lcegge sammen, giver Ligestort, lagt til Ligestort, Ligestort, eller p -^ in - -s- u, d. e. men er samme Vinkel som VVS. altsaa ere, i Trekanterne og VLk', VNS og tillige Lci-Vl'; disse dcekke altsaa hinanden, eftersom vi nu vide, at i dem to Sider og den af disse indesluttede Vinkel ere ligestore.
+Have vi Trekanterne HIX og UI.I?, hvor HK I.U, Hl^-I.^s og IX^-N^l, og disse ere saaledes bestafne, at ester at I^N er vendt om og bragt i Stillingen XIO, ved at M er lagt paa X og NN langs XI, Limen, som forener H og O, falder igjennem eet af Endevuncterne af Siden XI, her i Fignren i X, da er Beviset simvlere; thi her ovstaaer kun een ligebenet Trekant HIO, i det HI-I^, i Folge Antagelsen,  og I.^^lo, altsaa Ul -10; i Trekanten HIO er saaledes H 0 Grundlinien og fslgeligen Vinklerne ved samme ligestore , eller N- 0 , men 0 er samme Vinkel som I^,
+i/X IMN, altsaa H I. ; da nu tillige i Trekanterne NIK og LNIf Siderne HK I.N og HI I.^, ville disse Trekanter dcekke hinanden.
+V
+Håves endelig Trekanterne ?M og 82? II, hvori ?R--811,  ?cz^Bl', HK^U^r, og disse ere saaledes beskafne, at, naar 8II1? vendes om og fsres under ?&lt;)li, saaledes at II falder i li, 1 i H, Linien ?V da falder aldeles udenfor KH, saa opstaae atter to ligebenede Trekanter, ncemlig ?&lt;)V og ?liV; thi rci-ZI? efter Antagelsen, og 81^ HV, da ZUI' er den samme som HRV, altsaa ?H^HV, ligesom  ?li-811-I!V; altsaa, da i begge Trekanterne ?V er Grundlinien, er V?cz ?V&lt;) , og /_ V?li ?VN. Drage vi dette fra hinanden, saa, da Ligestort, draget fra Ligestort, giver Ligestort, er KkH LVH ; men KVH er samme Vinkel, som /_HBI'; altsaa, da nn tillige i Trekanterne  NkH og B^ll Siden li? - 811 og I^-^, er /X ?HI! B^ll.
+Saaledes ere altsaa alle tre Vinkler ligestore i to Trekanter,  saafremt Siderne ere det.
+19. Opg. At asscette en Vinkel, ligestor med en anden.
+Opl. /^ vcere given , paa vl^ fra Punctet v, som Toppunct, skal den afscettes. Scet Passeren i Toppunctet L og affkcer to ligestore Stykker og LO paa Benene af /_ ; med samme Radius beskriv en Cirkelbue fra Midtpunctet  v. Afstanden imellem og 0 tages i Passeren og afscettes fra 6- Paa Buen l'6- til ?; drages nu v?, saa er (^VV' den forlangte Vinkel.
+Bev. Drag Limerne og , nu er /X v?(^; thi LO^V(^, eftersom de ere beskrevne  med samme Radius; ligeledes da saaledes  i Trekanterne og Yl'6- alle tre Sider ere ligestore,  dcekke de hinanden; altsaa ere ogsaa i samme Vinklerne L og I) ligestore.
+Sknl man i det Praktiske afscette en Vinkel, da anvendes i Almindelighed  Hcrldingsmaalet, i det man aabnei det ester den givne Vinkets Swnclse, og derncest henfsrer det der, hvor Vinklen stal afscettes.
+20. Opg. At tegne en anden.
+en Trekant, som dcekker
+Fsrste Opl. Den givne Trekant vcere stulle vi afscette den paa VN fra v, da tages forst LO i Passeren og afscettes fra v, saa at LO 1)6-, N afscettes derncest ved v, og paa det andet Veen afscettes V^-^L; l' og 6forbindes  med en ret Lime; saaledes opstaaer /X v?6-^
+Vev. Da Trekanterne og Dk'^ have to Sider og den deraf indesluttede Vinkel ligestore, ville de dcekke hinanden.
+Anden Opl. Linien VO afscettes paa VN, ligestor med 1)6- ; med Radius bestrides fra I) en Cirkelbue, ligeledes  fra 6- med Radius dog saaledes, at begge Cirkelbuer  stcere hinanden; fra Skceringspunctet ? drages rette Limer  til v og 6, saaledes bliver /X v(^
+Vev. Alle tre Sider i begge Trekanter ere ligestore.
+Till. 1. Håves tre rette Linier, da lader en Trekant sig tegne, hvori disse blive Sider, forudsat, at de to Sider tilsammen stedse ere sterre end den tredie.
+Till. 2. For at 2 tegne en ligesidet Trekant, behsves kun een Side at vcere given. For at tegne en ligebenet Trekant  over en given Lime, som Grundlinie, behsves, foruden denne, kun een Side, der dog maa vcere stsrre, end det Halve af Grundlinien.
+Det er saare hhppigt, at der krcrvcs en Construction eller Tegning  as Trekanter. De scedvanlige Tåge paa vore Huse have et Gjennemsmt  af en Trekant, og som oftest af en ligebenet Trekant. Det gamle franske Tag er en ligcsidct Trekant; imidlertid er dette for hsit, farligt i Storme og giver Bygningen et hcesligt, tungt Udseende, endskjsndt  just dets bradte Sider lade Vand og Snee let lsbe af. Det gamle tydske Tag er end stcilere, dcrimod har det nu brugelige tydske Tag fladcrc Sider, men dog tilstroekkcligen straae for vort Klima; de italicnstt Tåge ere siadcre, men just derfor ikke anvendelige hos os, mcd mindre man vil give dem en Bcdakning af Mctalplader; ofte ere de endog saa fiadc,, at man gaacr paa dem. Da tre Sider bestemme aldeles en Trekant, saa indste vi, hvorledes vi ofte frembringe i Bygningskunsten og andre Kunster en fast Forbindelse ved Hjoelp af Trekanten; det er saalcdcs, at Skraastivere indscettes i Bindingsverk for at skaffe en Forbindelse, formedelst en Trekant, tilveie imellem Stolpernc og Fodstykket^ eller Lssholtcrne. Oftere og med Fordeel kunde det samme anvendes ved flere Leiligheder, og Trekanten vil stedse, saalccnge dens Sider ere übsielige, forblive uforanderlig.
+21. Dpg. At dele en Vinkel ito ligestore Dele
+Opl. Fra Toppunctet
+L afskceres paa Benene to ligestore Stytter ogL(l!.;Passerspidsenscettes  i og med samme, eller en anden, dog tilstrcekkeligen  stor Radius beskrives fra og 0
+Cirkelbuer, som stcere hinanden.  Fra Skceringspunctet  I) drages Limen Vy, som vil dele Vinklen ved L i to lige Dele.
+Bev. Drages Littierne  og Dd!, saa opstaae Trekanterne
+og LOO, hvilke dcekke
+hinanden, eftersom deri LO, DO, Lv Lv Fslgeligen er x - eller /^ deelt ito lige Dele.
+Till. Vi kunne fremdeles dele hver af Delene atter i to lige Dele, og saaledes dele Vinklen i 4 lige Dele, fremdeles  i 8, 16 Dele o. s. v.
+Inddeling i andre Dele maa skee mcchanistt, enten ved Hjcelp af Transportsren, i det vi udmaale, hvor mange Grader den hele Vinkel holder, og heraf tåge o. s. v., hvilken Deel atter ester&gt;Transportsrcn  afswttes, eller ogsaa beskrive vi fra Vinklens Toppunct en Cirkelbuc,  dele denne ved Forssg i det forlangte Antal Dele, og drage derncest fra Delingspuncterne rette Limer til Vinklcns Tovpunct; saa- Icdes bliver ogsaa Vinklen dcclt i det forlangte Antal ligestore Dele.
+22. Llrres. Deles i en ligebenet Trekant Vinklen imellem de to ligestore Sider i to lige Dele, da staaer Delingstimen, tilstrcekkeligen forlamget, lodret paa Midten af Grundlinien.
+Beu. I /X
+vcere og tillige  p- h. Sammenlignes  nu /X med saa er deri, foruden  p-^&lt;i og altsaa
+/^LVZZ^DO, og, som Folge heraf, /^VL^^VO; det er begge Nabovinklerne ligestore; altsaa ere de rette, eller _!_ LO ; tillige er LO DO eller Orundlinien deelt i to ligestore Dele.
+Tilllrg 1. Drages en Lime fra Midten af Grundlinien  i en ligebenet Trekant op til Toppunctet, da deler den Vinklen i to ligestore Dele og staaer lodret; thi erLV^VO, saa, da tillige og -^.0, er /^Lv vg p^"&lt;i, ligeledes begge Vinklerne ved I) ligestore, altsaa LO.
+Tilllrg 2. En Linie, lodret fra Midten af Grundlinien i en ligebenet Trekant, gaacr igjennem Toppunctet; thi, da som er dragen fra Toppunctet til Midten af Grundlinien,  allerede staaer lodret, vil denne just vcere den Linie, der er opreist lodret fra Midten.
+23. Dpg. At dele en ret Linie i to lige Dele.
+Dpl. Limen vcere ; fra
+og L slåa med en tilstrekkelig Radius to Cirkelbuer, der skcere hinanden ovenfor Linien i 0; med samme eller en anden Radius to, der skcere hinanden  under Linien i v; forbind 0 og I) med en ret Linie, saa deler denne i to ligestore Dele.
+Bev. Drages Hjcelpelinierne
+OL, og DL, da er, i
+/^Ov og OLD, OL, og 00^ OD, altsaa
+dcekke de hinanden, og folgeligen er x-^; men nu er, i den ligebened? Trekant /^^OL faaledes deelt i to
+lige Dele, altsaa deler ogsaa OD Linien i to lige Dele og NL.
+Almindeligen deles en Linie ved en fortsat Prsvcn i to ligestore Dele; dette stcer bedst, i det man afscrttcr fra begge Ender to ligestore  Stykker, som man antagcr at verre Halvdelen af den givne Linie; er Stykket taget for lidet, saa bliver en liden Deel midt paa Linim tilbagc, og denne Deel halveres dernoest; er Stykket taget stsrre end Halvdelen, da bliver ligcledes en liden Deel paa Midten, som Overstud,  og halveres denne, have vi atter Midten. Vi indsce cndvidcre, hvorledes vi, ved atter at tvedele Halvdelene, kunne dele en Lime i 4 og derncest i 3 , 16 ligestore Dele. At dele en Linie i hvilkctsomhclst Antal iigestore Dele, er en Ovgave , som siden Isses. Ved Hjcrlp af en Maalcstok steer det i Almindcligbed, i det Linicn udmaales, og af det fundnc Maal atter afscettcs o. s. v., eftersom Linien stal deles i 3, 5. 7 ... Dele.
+24. Opg. Fra et Punct i en Linie at opreise en lodret Linie.
+Opl. Punctet vcere givet. Til begge Sider af deb affkceres paa
+Bev. Drage vi Linierne LO og DO, faa ovstaaer en ligebenet Trekant, i hvilken Grundlinien er de^lt i to lige Dele; altsaa staaer Delingslinien lodret vaa Grundlinien LO.
+Tlll. Var en Linie given, og der forlangtes fra dens Midte at ovreise en lodret Linie, da havde vi anvendt famme Constructions-Maade, forn i 23 ; efterdi Linien C!I) i Figuren fammesteds ei blot deelte i to ligestore Tele, men tillige ftod lodret.
+Lettest foretages Tegningen med en nsiagtigen provet Vinkelhage;  en anden Maade, huorpaa samme Opgave oplsses, naai der forlanges fta Enden af en Linie at oprcise en lodret Linie, uden at forlangt samme, frcmsoettes siden.
+25. Opg. Fra et Punct udenfor en Linie at fcrlde en lodret Linie ned paa samme.
+Opl. Punctet vcere med en
+H. tilstrcekkeligen stor Passeraabning be-
+skrives en Bue, som fkcerer den givne Linie ito Puncter Log d! ; med samme eller en anden Passeraabning beskrives fra L og d! under Limen to Cirkelbuer, som skcere hinanden i O; Limen er da den forlangte lodrette Linie.
+/. 23, i det vi drage Linierne
+OO og VB, og saaledes fsrst godt
+at er en ligebenet Trekant, hvori er deelt i to ligestore Dele, og hvoraf Folgen er, at Delingstimen staaer lodret paa LO.
+Ogsaa denne Opgave oplsses almindeligen ved Hjalp af Vinkelhagen.  i det Vinkclhagcn stydes hcnad Linien, indtil dens andet Veen just gaacr igjcnnem Punctct.
+26. Lceref. Nabovinkler udgjsre stedse tilsammen  2 11,.
+Bev. Vare der kun to Vinkler og 'disse ligestore, da vare de rettei og ndgjorde fslgeligen tilsammen 2 li. Vare Vinklerne derimod fkjceve, saasom og NVV, saa opreises
+fra L Limen LO ; nu er -^ K og OLV^N, altsaa indscettes nu, i Stedet for OLD, NLV-OLO, saa håves
+Beviset fores paa lignende Maade, selv om der ved L vare stere end to Vinkler.
+Nabovinkler udgjsre altsaa stedse tilsammen 180°; de svare derfor ogsaa til en Halvcirkel, beskreven fra deres Tovvunct.
+Till. Alle Vinkler, som findes i eet Plan om eet Punct udgjsre tilsammen 4 li, eller 360"; vi kunne ncemlig, ved at forlcenge et Been, betragte dem forn to Scet Nabovinkler. Til alle Vinklerne tilsammen svarer endvidere hele Peripherien af den Cirkel, som er bestreden fra deres fcelles Toppunct.
+27. Lcrres. Have stere Vinkler Toppunct tilfMes  og to og to Side tilfcrlles, endvidere udgjsre alle tilsammen 2 kl, da danne de yderste Vinklers yderste Been en ret Lime, eller Vinklerne ere Nabovinkler.
+Bev. Vi antage, at
+Var ingen ret Linie, saa vilde fvrlcenget,  falde enten ovenfor  Lv, eller nedenfor; lad den falde ovenfor, f. Ef. i LN, og saa-
+ledes blive en ret Linie ; folgeligen er -j- - 2 1!, efterdi de ere Nabovinkler; men, da -j- OND 2li ester Antagelsen, saa er ogsaa t^liN -j-^LI), cg altsaa l^Z^-(^1!0; der oftstaaer saaledes den Urimelighet», at en Deel, 01515, skulde vcere ligestor med hele dVO, hvilket var en Folge af vor Antagelse, at Forloengelse faldt ovenfor LO; denne er altsaa ungtig. Ligesaa  urigtigen vilce det verre at antage, at Forlengelse faldt nedenfor Lv; fslgeligen falder den sammen med 150, eller er en ret Linie.
+Beviset havde vceret det samme, om vi havde havt flere Vinkler ved I), hvilke alle tilsammen vare ligestore med 2 li.
+Till. Scetningen tjener til at ftrsve, om en Linie er ret, i det vi ncemlig undersoge, om to eller flere i eet Punct sammenstodende Vinkler alle tilsammen ere 2 li.
+28. Ved To pv in kl er forstaaes de modstaaende Vinkler, som opstaae, naar to rette Limer overskcere hinanden.
+29. Lceres. Topvinkler ere ligestore
+Beu. Skulle vi bevise,  at -IVIOL, saa tåge vi en mellemliggende  Vinkel til Hjcelp; da er -&gt;- som Nabovinkler,  ligelcdes
+30. Lceves. Forlanges i en Trekant en Side, da er den udvendige Vinkel stsrre end enhver af de
+Ursins Geometri, 7de Opl. 3
+kndvendige modsatte, d. e. af dem, som ikke have
+Toppunct tilfcelles med dem
+Bev. Trekanten vcere og LO vcere forlcenget  til v. Halveer og drag LN; LN forlcenges, og N? gjores liig LN; ?0 drages. I Trekanterne og C!N^ er nu —- NO. LN N^ og in n, som Toftvinkler; altsaa er
+/X ON?, og fslgeligen men p, som en Deel, er mindre end hele /^^.OI); altsaa er ogsaa der er ligestor med p, mindre end /_
+Saaledes er beviist, at den udvendige Vinkel er stsrre end der ligger overfor den forlcengede Side. Forlcenges  kan ligeledes bevises, at /^ Lo(^ &gt; men /_ 1306-^^01), eftersom de ere Topvinkler; altsaa er ogsaa  &gt; 
+31. Lwref. I enhver Triangel ere to Vinkler
+tilsammen mindre end 3 ll
+Bev. Antag, at i
+/^ Vinklerne og (D enten ere lige med, eller stsrre end 2 11,, saa ville vi forlcenge LO til v, da er /^ &gt;
+-j-^OV - 2 R, som Nabovinkler; fslgeligen er, modsat Antagelsen,
+Tlll. I. I en Trekant kan saaledes ikke findes mere end een ret eller een stump Vinkel. Trekanter ere altsaa, med Hensyn til Vinklerne, tre Slags: l)' retvinklede, hvori findes een ret og to spidse Vinkler; 2) stumpvinklede,  som have een stump og to spidse Vinkler; 3) spidsvinklede,  hvori alle tre Vinkler ere spidse.
+Till. 2. Fra et Punct udenfor en ret Lime lader sig kun fcrlde en eneste lodret Linie, eftersom ellers en Trekant vilde opstaae, hvori fandtes to rette Vinkler.
+Till. 3. Altsaa vil den Linie, som i den ligebenede Trekant fceldes fra Toppunctet, lodret ned paa Grundlinien, trceffe Midten as samme og dele Trekanten i to Trekanter, der dcekke hinanden; thi ellers lode fra Toppnnctet sig fcelde to Limer, lodrette paa Grundlinien, eftersom allerede Limen fra Toppunctet til Midten as Grundlinien er lodret.
+32. Llrres. Er i en Trekant een Side stsrre end en anden, da er den Vinkel, der ligger overfor den stsrre Side, stsrre end den, der ligger overfor
+den mindre
+Vev. Er &lt; V&lt;^, saa er &lt; L^O. Afscet paa NO, saa at Lv, da er /X ligebenet, altsaa -x; men x &gt; 0, eftersom den er udvendig Vinkel for /X altsaa er ogsaa
+33. Lceres. Er i en Trekant een Vinkel stsrre end en anden, da ligger ogsaa en swrre Side overfor den stsrre Vinkel.
+/ LO ikke var sterre end saa / var enten LO - eller ' LO &lt; I forste Tilfcelde
+var /X ligebenet, altsaa
+da blev Grundlinien, hvilket er urigtigt; var LO &lt;&lt; da var, i Folge den foregaaende Scetning, &lt;&lt; L, hvilket ligeledes er urigtigt; altsaa er nsdvendigviis LO &gt;
+Till. 1. I en retvinklet Trekant, ligger overfor den rette Vinkel den stsrste Side; denne kaldes Hypothenusen, de to andre K at heter.
+Till. 2. Den lodrette Linie er den korteste Vei fra et Punct til en Lime; thi alle svrige rctle Limer, som drages fra Punctet ned til den givne Linie, ville vcere Hypothenuser i retvinklede Trekanter, medens denne er en Kathete. Naar vi derfor tale om et Puncts Afstand fra en Linie, foistaae vi stedse denne korteste Vei, eller den lodrette Linie fra Punctet ned paa Limen.
+34. Lcrres. To retvinklede Trekanter dcrkke hinanden, naar i dem, foruden den rette Vinkel, endnu en Kathete og Hypothenusen ere ligestore.
+Vev. Trekanterne vcere og VN!^, deri vcere -- VN og I)^; de rette Vinkler, vcere Vinklerne ved
+li! og ?. Vendes nu om og lcrgges hen ved Siden af v^, saa, da v^, ville Endepuncterne og v, &lt;D og lade sig bringe sammen, og /X faae Stillingen V?I.; tillige, da O^l. - 1^ og Ol&lt;'N li, altsaa V^N -^ V^l. -- 2 I!, ere disse Vinkler  Nabovinkler, eller Nl^l^ er en ret Lime, altsaa Nv^. en Trekant, som er ligebenet , eftersom DIS - Dl^. I denne ligebenede Trekant er v^ fceldet lodret paa Tl^ fra Punctet v; saaledes er da Tl^. deelt i to lige Dele, Nb og I?!., og /X ND I. i to Trekanter, der dcekke hinanden, ncemlig VNV' og VI^I.; men V^l. er samme Trekant, som allsaa
+3) Ligelobende Linier.
+35. To rette Limer i et Plan ere ligelsbende (parallelle),  naar de, hvor langt de end forlcenges, aldrig lsbe sammen.
+Tegnet for, at to Linier ere ligelsbende, er
+, Overfkceres to rette Limer og d!I) af en txedie Nk' da faae de 8 Vinkler, som derved opstaae, forskjellige Benevnelser:  ved to i nd vend ige Vinkler forstaaes to, som y og 8,
+der ligge imellem Linierne vaa samme Side af den overskcerende Linie ; enudvendig  og en indvendig  modsat ere to Vinkler,  som n og 8, der ligge paa een Side af den overskcerende  Lime, dog saa, at den ene ikke er Nabovinkel
+til den anden; indven-
+dige V ere l v in kler, f. Er. pog 8. ere saadanne, som ligge indvendigen, hver paa sin Side af den overskcerende Linie, dog saaledes, at de ikke ere Nabovinkler; udvendige Verelvinkler  saasom n og t, ere derimod de, der ligge udvendigen hver vaa sin Side af Overskceringslinien, uden at vcere Nabovinkler.
+36. Lwres. Overskcrres to rette Limer af en tredie, og to indvendige Vinkler ere ligestore med 3 ki, da ere Linierne ligelsbenoe.
+Bev. Var ci -^ 8-2 N, saa er -^ 00. Antag ncemlig, at de lsb sammen til een Side f. Ex. i (^, saa
+dannes en Trekant (^HI, hvori to Vinkler y og s maatte nodvendigviis tilsammen vcere mindre end 2 li,, hvilket strider imod Antagelsen. Lsb Linierne sammen til den anden Side, da var p -^- i- &lt;&lt; 2 li,; men i ethvert Tilfcelde er p -&gt;- &lt;^l -^ i -j- 8 4 li. , eftersom -j- c^ 2 li, og i- -j- 8 2 li, som Nabovinkler; altsaa, hvis vi fradrage, er &lt;i -^ 8 &gt;- 2 li&gt; hvilket ligeledes er stridende mod Antagelsen.
+Till. Er os given ligestor udvendig og indvendig modsat  Vinkel, f. Er. n - 8, da er n -^ &lt;^ 2 li,, folgeligen  er ogsaa y -s- 8 - 2 li, og altsaa IDV. Ligeledes  ere Linierne ligelsbende, hvis de indvendige Verelvinkler ere ligestore; f. Er. z&gt; -^^ 8, da p --^ n, som Tovvinkler, og fslgeligen 8 - n; eller, hvis de udvendige Verelvinkler ere ligestore, som t u; thi, da 8 t, er 8 n, altsaa OD.
+37. Gnmds. Overstyres to rette Limer af en tredie, og to indvendige Vinkler ere mindre end 2 11, da ville Linierne, tilstrcrkkeligeu forlengede, lsbe sammen til den Side, hvor dette sinder Sted.
+38. Llrres. Overstyres to Paralleller (ligelobende  Limer) af en ret Lime, da ere de to indvendige  Vinkler lige med 3 R, den udvendige Vinkel liig den indvendige modsatte, de indvendige og udvendige  Verelvinkler ligestore.
+Vev. Var OD, men derhos ikke &lt;^ -&gt; 8 2 li., saa maatte enten y -j- 8 &lt; 2 li. eller &lt;z -&gt;- 8 &gt; 2 li, ; i forste Tilfcelde vilde Linierne og Ol), tilstrcekkeligen forlengede, lobe sammen med Puncterne L og I), i andet Til-
+'/ " Er &lt;^ -^ 8 21^
+/ saa, da n -I- &lt;i 2L,
+altsaa, hvis vi fradrage &lt;z, B^^n, eller den udvendigc og indvendige modsatte Vinkel ligestore: fremdeles er n p^ altsaa p -^- s, d. e. de indvendige Verelvinkler ligestore; og^ da 8 - n og 8 -^ t, er li - t, d. e. de udvendige Verelvinkler  ligestore.
+39. Lceres. Gre to Limer ligelsbende men een og samme tredie, da ere de indbyrdes ligelobende.
+40. Opg. Igjennem et givet Puuct at drage en ret Lime, ligelobende med en anden.
+Opl. Fra Punctet
+drages en Lime ned mod LinieLO, afscettes fra Tovpunctet .4. vaa Nu er N^. LO.
+Vev.
+" ere Vexelvinkler,
+altsaa N^ LO.
+Vi havde, hvor Pladsen tillod det, kunnet afsatte /, som udvcndig modsat Vinkel, ovanfor Linicn. Andie og for Tegningen be&gt; qucmmcre Maader siemsccltes siden.
+41. Llrres. Forlanges ien Trekant en Side, er den udvendige Vinkel liig begge demdvendige modsatte.
+Bev. I /^LO
+vcere LO forlcenget, da er Gjennem 0 drage vi OD herved deles i m og n ; men in^^^,
+ll l) da de ere Verelvinkler for
+d ligelsbende Linier
+og ON, der overskceres af ligeledes er n L, som udvendig  og indvendig modfat Vinkel for og ON, der overstceres  af LO. Men faaledes er^-j-L-^in-j-n^
+Till. 1. I en hvilkensomhelst Trekant ere alle tre Vinkler tilfammen 2 li, eller l^0". Forlcenge vi Siden LO, bliver udvendig Vinkel, altsaa liig -&gt;- L ; men, tilfsie vi /_
+have vi -^
+- -j- L ; men 2 li, som Nabovinkler; folgeligen  ere ogsaa -s- L -j- eller alle Trekantens
+6 &lt;^ o Vinkler tilsammentagne
+liig 2 li eller 180".
+Till. 2. Af to Vinkler i en Trekant ville vi altsaa kunne udregne den tredie, i det vi drage deres Sum fra 180". Fr. Er. lad i /X vcere givet
+73" 17' 34°.
+L —- 69 28 55
+L 122" 46' 29"
+Trcek fra
+Till. 3. I en ligebenet Trekant behsver kun een Vinkel
+at vcere given. Er ncemlig een af Vinklerne ved Grund- Mien given, da er den anden dermed ligestor, altsaa to Vinkler givne, hvoraf den tredie kan udregnes. Er Vinklen ved Tovpunctet  given, da, hvis vi drage den fra 180", håves hvad begge de andre Vinkler tilsammen udgjore; tages heraf det Halve, da håves hver af Vinklerne.
+F. Ex. len ligebenet Trekant vcere Vinklen imellem de 7ige lange Veen ligestor med 58" 29,
+180
+Begge Vinkler ved Grundlinien 121 "31'
+2)
+Een af Vinklerne 60" 45' 30".
+I en ligesidet Trekant er hver Vinkel A K-60".
+Till. 4. I en retvinklet Trekant ere begge de spidse Vinkler tilsammen 11, - 90" ; altsaa behsver een af dem kun
+at vcere given. Ere begge Katheter ligestore, da er den retvinklede  Trekant tillige ligebenet, altsaa hver af de spidse Vinkler z It -^4s°.
+Till. 5. Enhver retlinet Figur lader sig dele ved Diagonaler,  d. e. Linier fra een Vinkelspids til en anden, i Trekanter. Disse Trekanters Antal vil vcere 2 mindre, end Sidernes Antal. Da nu til hver Trekant hore 2 li,, saa findes Indholdet af alle Vinkl me ved at drage fra Antallet af Siderne 2, og derncest tåge saamange Gange 2 li,.
+Havde vi saaledes en Syvkant, da er
+Sidernes Antal
+7
+fradrag 2
+5
+hermed multipliceres
+2 It
+Summen af alle Vinkler
+10 L^9oo".
+Eller ogsaa havde vi multipliceret 2 li, med Antallet af iderne og tilfidst fradraget 2X2 It - 4 li. Altsaa
+2 li,
+7
+14 li, 4  li, 
+Er Figuren regelret, da ere alle Vinklerne i samme ligestore,  og, da deres Antal er liig Eidernes, saa findes hver enkelt Vinkel ved at dividere Summen af alle Vinkler med Sidernes Anwl. Eller ogsaa divideres 4li med Antallet af Siderne og drages derpaa fra 180°. Saaledes håves i ovenstaaende Exempel:
+Summen af alle Vinkler 900"
+Till. 6. Ved Mangekanter gjsres Forstjel imellem udgaaende  Vinkler, hvis Veen, fcrlcengede ud over Tovvunctet, gaae nd af Figurens Flade, o^ indgaaende Vinkler, hvis Veen, forlengede, gaae ind i Figurens Flade; disse ere storre, hine mindre end 2 li,. Saaledes er i omstaaeude Figur Vinklen  ? en indgaaende Vinkel, de svrige ndgaaende.
+42. Lwres. Ere i to Trekanter een Side og to Vinkler ligestore, da dcekke Trekanterne hinanden.
+Vev. Her ere to Tilfcelde; enten have vi een Side og
+to hosliggende Vinkler i den ene Trekant ligestore med ecn Side og to hosliggende Vinkler i den anden Trekant, eller ogsaa een Side, cen hosliggende og een modstaaende Vinkel af den ene Trekant ere ligestore med samme Dele af den anden. I fsrste Tilfcelde verre saaledes 150 - NI?, 15 -N, 0 - 1?. Vi tamte os /^ fort hen paa ONI?, lergge 15 paa N, 150 langs NI?, saa falder OiN, da ttO -^ NI?, Linien langs VN, eftersom /_ L N, langs VN, eftersom /_0 I?. Punctet falder ogsaa paa v; thi, da falder i VN's Retning og tillige i Yl?'s Retning, kan det alene falde i Ekceringspunctei af VN og DN eller i v; saaledes  dcekke Trekanterne hinanden.
+Som andet Tilfcelde vcere givet 130 NN, L -.N og /^ v. Udvegne vi Vinklerne oog I?, da ere begge ligestore, eftersom de findes ved, for 0, at drage -^- I) fra 2 li, og, for I?, ved at drage v -&gt;- N fra 2 li, og tillige I) -I) -f- N. Da saaledes een Side og to hosliggende Vinkler ere ligestore i begge Trekanter, dcekke disse hinanden.
+43. Et Parallelogram er en fiirsidet Figur, hvori begge de modstaaende Sider ere ligelsbende.
+Et Parallclogram bencevnes med de to Vogstaver, der staae ved to modstaaende Vinkler.
+44. Lwres. I et Parallelogram ere de modstaaende  Sider og Vinkler ligestore.
+Bev. Drages en Diagonal da deles dermed Parallelogrammet  21) i to Trekanter, der dcekke hinanden, eftersom  m - n, p -^ y, som Vexelvinkler for
+LO og OD, hvoraf fslger, at OD og - LO, tillige  L I) ; da nu fremdeles  m - n, cz, saa er m -j- p n -j- c&gt;, » : -^ 0 ; altsaa saavel de modstaaende Sider, som Vinkler ligestore.
+Till. 1. Ethvert Parallelogram deles ved en Diagonal  i to Trekanter, der dcekke hinanden.
+Till. 2. Med Hen-
+syn til Siderne og Vinklerne  knnne Parallelogrammer  vcere 4 Slags: 1) Qvadrater, saasom hvori alle 4 Sider  ere ligestore og Vinklerne  rette (disse ere tillige  regelrette Fiirkanter) 2) Rhomber, N^XI, hvori vel alle 4 Sider ere
+ligestore, men Vinklerne
+skjeve; 3) Re ct an gl er,
+IMNO, hvori kun de modstaaende Sider ere ligestore, men Vinklerne rette; 4) Rhomboider, IHKB, hvori kun de modstaaende Sider ere ligestore og Vinklerne skjeve.
+Enhver siirsidet Figur eller Fiirkant, som intet Parallelogram  er, kaldes et Trapezium, f. Ex. 2^^o,
+og stundom skjelner man mellem P a r a l l e l« Trapezium  lUVX, hvori to Sider, XI? og I7V ere ligelobende, og Trapezium
+eller Trape-
+zoide A^^VO, hvor ingen Sider ere ligelobende
+45. Dpg. Af to Sider og en Vinkel at tegne et Parallelogram.
+Opl. Siderne voere aog d, Vinklen in. Afsoet paa en ret Linie Vinklen C!^L-in, afscet fra Limen n, med Radius b slåa fra L en Cirkelbue og med Radius n, slåa fra &lt;I! en anden, der skcerer den fsrste i I) ; drag Linierne d!I) og DL, saa er det forlangte Parallelogram.
+Drages LO, bliver den fiirsidede Figur deelt i to Trekanter og dvL, hvilke dcekke hinanden, eftersom deri alle tre Sider ere ligestore, altsaa p - y, t -^ n, fslgeligen  OD, LO, efterfom Vexelvinklerne ere ligestore. Det er tillige det forlangte Parallelogram, saasom
+Till. For at tegne et Qvadrat behoves ikkun een Side, eftersom den rette Vinkel kan tegnes ved at oftreise en Linie lodret paa en andens for at tegne en Nhombus een Side og en Vinkel, for at icgne et Nectangel to Sider og for at tegne en Nhomboide to Sider og en Vinkel.
+46. Lcrres. Paralleller staae overalt lige langt
+borte fra hinanden
+Bev. Ere Paral-
+ti tellerne og OD givne,
+4 6
+?t
+og vi fcelde Nl"' _1_ 00 og ligeledes 01l _j_ 00, da ere disse ligestore ; thi, da Nl^ll K og 6l«' K, er N^II
+Fiirkanten N^&lt;3H et Parallelogram, hvori de modstaacnde Sider NI? og &lt;3H ere ligestore.
+Till. 1. Hvat her bevistes om de to Afstande, havde vi knnnet bevife om alle, og, ere omvendt to lodrette Afstande ligestore,  da ere Linierne ligelobende; thi, er Nk'^^^ (31^, ere de, eftersom begge ere lodrette paa (^O, ligelobende; altsaa, hvis Diagonalen Nlt drages, ere Verelvinklerne p -^^ c^, tillige Nll -^ Ull og Nl' -6N altsaa /X N^ll T6N, som Fslge heraf er t u, D6- ?H, eller 00.
+.v ? Till. 2. Saaledes
+knnne vi let drage igjennem  et givet Punct en Linie, ligelobende med en anden, ZO, i det vi fra
+0 det givne Punct fcelde en
+lodvet Linie og paa et andet Sted opreise en lodret Lime Nk' ligestor med samme; derncest drage der bliver ligelobende med LO.
+Vi ville nu fremdeles let indsee Rigtighcdcn af forstjcllige Maader,  vi anvende i det Praktiske, og af de OMationer, vi udfsre paa Tcgncbrcrdtet. Som bekjendt ei dette et Rectangel og brugcs i Forening med en Lincal med Hoved; lad forestille Linealen^
+hvis Sider vi ville antage at voere prsvcde
+og bcsundnc aldeles rctlinede, &lt;^I) Hovedet, som er aldeles nsia.stigcn retvinklet paa Linealen, og just derfor ved den saakaldte Svalerumpc (Schwalbcnschwanz) I forenet med samme. At Hovedet ei aldeles nsiagtigen  re tv inkl et til selve Linealcn, prsvcs enten ved at sammenligne en efter Linealen opdragen lodrct Linie med en an-
+den, opdiagcn lodrct til Brcrdtets Kant, efter en nsiagtig Vinkelhage, eller efter
+den forhen fremsatte (24) Opgave. End-
+videre undcrfogcs, om Linealen overalt er lige bred, idet vi holde den i en fast Stilling paa Tcgncbrcedtet og opdrage to Linicr cftei sammcs Rande og ?11, og derncrst underssge, om disse ere lige langt, boile fra hinanden. Er dette saalcdes, da ere Randenc ligelsbende, og altsaa ere vi tilligc overbeviste om, at, naar den ene staaer lodrct paa Hovedet, den anden maa ogsaa verre det; thi er I)^,_i_^,L. eller DH,L — li, maa ogsaa DkN verre ret. som indvendig modsat Vinkel til 1)^,8, Vi indsce nu, at alle Linicr, opdragnc med en saadan Linie, der nsie er med Hovedet lagt an mod Kanten af Brcedtct, ville blive lodrettte og altsaa ligelsbende. Fremdeles er Tegncbrced- tct et nsiagtigt Rectangcl, Noget, vi kunne prove, enten ved at undcrssge, om alle fire Hjsrner ere rette Vinkler, eller om blot cet er en ret Vinkel og iovrigt de to modstaacnde Sider ere ligcstore. Have vi prsvet baadc Tcgncbradt og Lineal, da vide vi tillige. at alle Linier opdragne mcd Linealcn, lodrcttc paa to modstaaende Sider af Vrcrdtet, ere ligelsbendc; dcrimod ere de Linier, der opieifts sta to sammcn- stsdcndc Sider, lodrettc paa hinandcn. Den Lcthed , hvormcd saaledes paa Tegncbradtet opdragcs ligelsbcnde og lodrctte Linier. gjor det scrrdclcs tjculigt ti! Vygning-Tegning og anden Tegning. Imidlertid Hor bcmcerkcs, at. forsaavidt Papiret, for at udspcendes paa Vrcrdtet
+Ursins Geometri, 7de Oplag. 4
+gjsrcs fugtigt og rakkes, vil det. naar det atter ssccres fta Brcrdtet, trakke sig sammen, og Tegningen altsaa blive mindre, end den var paa Brcedtct, eller end den udfsrtes. Indkrvmpningen foroges end mere, hvis man bedekker- sterre Partier med Farve, og saaledes nodsagcs  til at vccde dem. Dette er mindre vigtigt ved Aichiiectur-Tegningcn,  da ved Siden af Tegningen, der udviscr Projeclct og er tuscherct sur at gjere Effect, som Kunstvcrrk, udarbeides i Almmdeligbed, for Udssrelscn, en Arbeidstegning med beskrevne Maal. Men, hvor dette ikke er Tilfcrldet, og hvor stor Nsiagtighed kraves. som ved Tkibs-Tegning og Kort-Tegning, bor Papiret, just for Indtrympningcn,  som endog ei virker regelmasngt, ei spcrndes paa Vra-dt, ei heller bor sterre Dele af samme ove^lcrgges med Vandsarv^. Man tabcr altsaa ved saadanne Tegninger den Vcqvemmelighed, som Tegnebrcedtet  og Linealcn frcmbyde, men kan dog anvende samme Princiv ved at drage en Grundlinie og en herpaa lodrct Linie i Midten, fta hvilke med Vinkelhagen ligelcdes lodrettc i'inier opreises.
+For at drage Paralleller, som ikke ere lodrclte paa Brcrdtets Kanter, anvendes sorfkjellige Methoder, som alle let lade sig forklare af de forden anforte Beviser. Man lcrggcr saakdes i en stråa Netning  en Lincal paa Bradtet og opreiser fta denne lodrette Linier.
+Eller ogsaa har man en Lineal,
+ligeledcs med et Hoved men som er bcvcegeligt om en Navle, saa at dets Rand danner dvilkensomhelst Vinkel med Randen af Linealcn; strues Hovedet i en bestemt Nctuing fast med Msttliken. der fastbo der Navlen , saa er denne Vinkel bestemt, og s.nnme Vinkel ville alle Linicr,
+ovdragnc ester Linealcn. danne
+med Vradtets Rand; de ville altsaa alle vcere ligelsbende, cftcrsom den udvendige og indvendige modsatte Vinkel blive ligestore.
+Et eget Instrument er endnu Parallel-Linea len. som stundom  findes i Vcstitkerne. Ten grunder sig paa, at —00 og — liv, altsaa forbliver Figuren hvordan end den ene Lineal sorskydes med Hensvn til den anden, i det ved Punciernc L, &lt;?, I), Navler tie anbragte, stedse en Fiirkant med ligestore mostaaende Sider og altsaa et Pacallelogram ; da der nu tillige maa vcere ssrgct
+for, at Randen er ligelsbende  med Randen
+N
+ ? 
+-I^'^G i t^U med 51), saa indsce vi, -! !^ at Nl? ON og at altsaa V&gt; N Instrumentet er en Parallellel  &gt; Lineal. Dog maac vi bej  &lt;^c&gt; '" '^u mcrrke, at Instrumentet sjel-
+at Nr 6« og at altsaa
+Instrumentet er en Parallcl-
+Lineal. Dog maae vi be-
+l^ 1^ dcnt er saa nsiacUigen for-
+flrrdigct, at alle fire Linicr
+Nr, /.L. OD. 6« crc lige-
+lobende, og, er det end saaledes fommct ud as Instrumenlmagerens H,iand, vi! det ved Brugen let afslides ved Navlerne og blive unsiagtigt;  dcsudcn indsees let, at liistumcntct ikke kan tjene til at drage
+Paralleller, hvis Asstand ikte stal verre mindre end begge Liniers V«de
+tilsammen, med mindre vi ogsaa ville bruge de indvendige Rande, og
+ikke swrre, end Randcnes Afsiandc, naar Lincalerne vare muligst adskilte,
+eller og LI) stode lodrette paa og OD.
+Kunster og Haandvcrrkcr krcrve jcunligen Frembringelsen as ligewbendc
+Linicr; ofte liggcr denne allerede ide anvendte Nedskaber , oste
+er det Bicmaalet, der scrttcr Linier i muligst lige Ustand, og altsaa gjor dem saa ligelsbcndc. som Hensigten eller vel cndog blot 2liet
+kraver. Som Erempel have vi Skrivekunsten; ved egne ogsaa heri Landet anvendte Maskiner liniercs med lette Linicr i !ige Afsta»d Papiret
+til ProtocoNer, og saaledes ved at- folge disse Linier gives ogsaa Skriftens Linier den Parallelisme, der er een as dc sslste Betingelser for ziirlig Skrift; i Mangel as saadanne Linier holder det svede Die Skriftens Linier ligclsbende. Ogsaa Skriftirakkene ere i en smuk Skrift ligelobende, i Almindelighed alle hcrldendc ligcligcn til Hsire ; imidltttid, naar blot Parallelismen er iagttagcn, kan ogsaa lige oprctstaaende  Skrift, eller Ekriit hcrldcnde til Venstre, saasom Skriften paa Vancosedlcr, naar den ellers er ziirlig. have et godt Udseende. I V ave kun st en er ligeledes en noiagtig Parallclisme as Garnet i
+Ncndingen nsdvendig; denne, forenet med Garmts Icrvr.hed, baade det, der brugcs til Rending og til Islcet, giver vore Toicr en Icrvnhed,  som selv Indianerne, hvormeget vi ellers maae beundre deres Vcrvning, ikke have formaaet, just as Mangel paa denne Parallelisme,
+som deres usuldk^innere Netskaber ikke yde, at give deres ellers med
+Nette saa beundrede Cachemirer og Ehavlcr.
+Lader os endnu vcrlgc et Par Eremplcr imcllem de mangfoldige.
+Kunsteinc og Haandvcrrkerne sicmbydc; den simple Fcrfardigelse as en
+Skuffe kraver, at dens Sider ere rwiagtigcn ligclsbende, endvidere, at Falsene, hvori den gaacr, ligeledcs ere nsiagtigcn ligclsbende, cftersom  den ellers vilde enten spcrnde eller slubre. Lader os bctragte Stoempclstangen i en Pumpe, det er nsdvendigt, at den bcvcegcr  sig nsiagtigen ligclsbcnde med Pumpens Sider, stundom bringes delte til Veie ved at scette Pumpcstangen i Forbindelse med en Tridse, der bevcrger sig imellem to opstaacnde Stcenger, en Maadc, hvorved Parallelismcn mellem disse to Stanger og Stcempclstangcn neie vcdligcholdcs;  en mere sammensat Indictning. men som ligeledcs grundcr sig paa geometriske Principer, er det Parallelogram (pai-illel-inatiuu), som findes paa Dampmastiner, og som ouerhovcdet lader sig anvende
+ved stcre Pumpcindrctninger
+47. Som Grundlinie i et Parallelogram kunne vi vcelge hvilkensomhelst Side LO, og Heiden kaldes da den lodrette Lime NI? fra den modstaaende Side ned paa Grundlinien  eller sammes Forlengelse.
+Ligeledes antage vi en Side i en Trekant som dens Grundlinie,  ncemlig LO, og kalde da den lodrette Linie fra den modstaaende Vinkels Toppunct ned paa Grundlinien  eller sammes Forlengelse, Trekantens  Heide.
+Staae Parallelogrammer eller Trekanter imellem samme Paralleller, da have de ligestore Hsider, og have de ligestore Heider, da lade de sig bringe imellem samme Paralleller.
+48. Lceres. Qvadrater ere ligestore, naar deres Sidelinier ere ligestore.
+Vev. Qvadraterne vcere og NI^H; og i dem vcere vi lcegge nu Punctet paa N, langs Nl', da falder Li?, eftersom endvidere ere
+6 Vinklerne ved og N begge rette, altsaa ligestore:  fslgeligen falder langspil; men og NU
+ere ligestore, eftersom
+altsaa falder I) i H; paa samme Maade godtgjsres, at 0 falder i &lt;3; saaledes indsees, at Qvadraterne aldeles dcekke hinanden, og at de altsaa ere ligestore.
+Till. Ligestore Qvadrater have ligestore Sidelinier; thi, vare Sidelinierne uligestore, og vi forsagte at bringe Qvadraterne  til Dcekning, vilde det ene kun tildeels dcekke det andet, hvilket strider imod Antagelsen, i Folge hvilken Qvadraterne  skulle vcere ligestore.
+49. Lceres. Parallelogrammer paa samme Grundlinie og imellem samme Paralleller ere ligestore.
+Bev. Parallelogrammerne  vcere og Vi have OD - - NN, eftersom de ere modstaaende  Sider i Parallelogrammerne;  lcegge vi nu VN til paa begge Si-
+L der, saa er 6N -- VN,
+endvidere Lv og
+L?' ; fslgeligen LON ; trcekkes nu /X VN6-bort  paa begge Sider, saa håves Trapezierne 01)6-^. og NQLN, som saaledes ere ligestore ; lcegge vi til disse /^ erholde vi Parallelogrammerne og hvilke ere saaledes beviiste   at  vcere  ligestore. 
+Havde vi Paralle-
+logrammerne OL og saa vare disse ligeledes ligestore.  Her er ncemlig ogsaaOV-^L^NN;  drage  vi  NO  bort  paa  begge  Sider,  er  ON  - 
+4 L VN;endvidere^O^l)L
+og LN, altsaa - LVI^; lagge vi hertil NV^.L, er OL - eller Parallelogrammerne ligestore.
+Have vi Parallelo-
+grammerne LO og der ligge saaledes, at det enes Sidelinie er Diagonal  i det andet, da ere de ogsaa ligestore; vi have ncemllgOo-^L^I)?, endvidere og
+- Ll'', altsaa /X - VLI?; lcrgge vi til,
+da have vi Parallelogrammerne OL og ligestore.
+Till. Have to Parallelogrammer ligestore Grundlinier og
+ligestore Holder, da, hvis vi lagge Orundlinierne sammen og vende Parallelogrammerne til een Side as Grundlinien, ville de staae imellem samme Paralleller, og altsaa vcere ligestore.
+50. Llrres. Trekanter, imellem samme Parallel
+LO, ere Figurerne og VLOk' Parallelogrammer;  men disse ere ligestore; fslgeligen ligeledes deres Halvparter,  eller /X - LOV.
+Till. I. Have to Trekanter ligestore Grundlimer og Heider, da lade de sig bringe paa samme Grundlinie imellem samme Paralleller og ere altsaa ligestore.
+Till. 2. Staae en Trekant og et Parallelogram paa samme Grundlinie imellem samme Paralleller, da er Trekanten  det Halve as Parallelog^ammet, og i Almindelighed er en Trekant ligestor med det Halve af et Parallelogram paa ligestor  Grundlinie og med ligestor Hoide.
+511 Loeres. I enhver retvinklet Trekant erQvadratet  paa Hypotenusen ligestort med begge Katheternes
+Qvadrater tilsammenlagte
+Bev. Fceldes fra
+Toppunctet af den rette Vinkel igjennem Hypotenusens  Qvadrqt en lodret Linie LI., da lader der sig bevise, at dette Qvadrat deles i to Rectangler  OL og som ere ligestorc med Qvadraterne  paa LO og Drages ncemlig Liiuernc og LN, saa dcekke Trekanterne ogLON
+hinandcn; thi, da /_ Lo&lt;3 K -^- saa, naar vi Icegge til paa begge Sider, have vi tillige 01^ og LO - OQ; altsaa to Sider og den af dem indesluttede Vinkel ligestore. Sammenligne yr
+med ?0, da vide vi, at L? er en Forlcengelse af eftersom  K og OLl' - K, altsaa -^ OL? 2 K; fslgeligen  staae Trekanten og Parallelogrammet imellem  samme Paralleller vaa samme Grundlinie OOr, altsaa /X^OQ-^O.
+Ligeledes, hvis vi sammen-
+ligne 01. med /X LOH^
+da er /X LNO - 01., eftersom NO kan betragtes som fcelles Grundlinie ; altsaa z? 0 01., eller ?0 —- 01.. Paa samme Maade kunde bevises, ved at drage rette Limer fra I til 0 og fra L til v, at fslgeligen er _^_ 55 -^ 01. -
+Qvadratct paa en Linie, f. Ex. stuves i Almindelighed og sindcs udtrvkt i Tal ved at multiplicere Maalet af med sig selv. Vi ville da ssrive den bcviiste Ecrtning, at i den letumklede Trekant Qvadratct af Hypotenusen cl liig Qvadlatet paa begge Kathcter, saaledes
+Hvis LO — 4, — 3, da havde vi — 5, altsaa
+52 —4^
+eller
+25 — 16-I-9.
+, 52. Lcercs. Er i en Trekant Qvadratet paa een Side ligestort med Summen af Qvadraterne paa. de to andre Sider, da er Trekanten retvinklet.
+Vev. Lader os antage, at - -^ LO^ Ved L ville vi afscette en ret Vinkel OLD fra Linien LO og
+gjsre LO - ; drage vi da DO, saa er /X 1)1)0 retvinklet, altsaa DO 2 men, da LI)-  LO^-^L^ altsaa DO 2
+i / Antagelsen, - LO^,
+altsaa DO- -^ DO —-
+!,,^ endvidere ere i Trekanterne og LVO Limen LO fcelles og tillige
+altsaa dcekke Trekanterne
+hinanden ; da /X LVO nu er retvinklet, maa ligeledes vcere det.
+Scrtningen gjceldcr altsaa, naar vi 'udtrykke Siderne og deres Qvadratci med Tal; dette giver os 'Anledning til at tegne en retvinklct  Trekant og altsaa en lodict Lmie, en Maade. der stundom anvendes  i Bygningskunsten og i Landmaalingcn. Afscette vi f. Ex. som Sider i en Trekant en Nnie liig 3 Fod, en anden 4 Fod og en tredie^ 5 Fod, da er Trekanten rctvinklct; tbi
+52^. 4'-f-32.
+Vi ville sinde stere Tal, der have den Bestaffcnhed, at Qvadratet  af ect er ligcstort med Summen af Qvadraterne af de to andre og altsaa, medcns disse give Kathctcine, giver hiint Hypotenusen i, retvinklcde Trekanter. Saadanne ere:
+53. Opg. At finde et Qvadrat, som er ligesaa stort som Summen af to andre Qvadrater, eller to andre Qvadrater tilsammenlagte.
+Opl. De to givne Qvadrater vcere og OD 2. Vi tegne en ret Vinkel NN?°, afscette paa det ene Veen Siden
+--^ paa det andet Been Siden CD -^ RN og drage Hypotenusen RI?; detQvadrat, som tegnes herpaa, er da ligesaa  stort, som begge de givne Qvadrater tilsammen.
+Beu. Da Nls^ er en retvinklet Trekant, er Hypotenusens  Qvadrat ligesaa stort, som begge Katheters, eller
+Till. 1. Drage vi en Diagonal .i Qvadratet, saasom I.L, da er det herpaa tegnede Quadrat ligestort med det Dobbelte  as thi 1.L2^^1,2 det samme Qvadrat som altsaa 1.132-2^1)2.
+Till. 2. Drage vi endnu en Diagonal saa indsees let, at der opstaae fire Trekanter, som dcekke hinanden, ncrmlig  DI^I, LrN og efterdi Eiderne i;^l, I.N og ere ligestore, og de ved disse Sider liggende Vinkler,  som hver ere li, ligeledes lig,estore ; disse Trekanter ere saaledes tillige retvinklede og ligebenede, eller ?N ri.. Folgeligen er 2^?2 og Qvadrat, som tegnes paa H.? eller det Halve as Diagonalen, er halvt saa stort, som Qvadratet
+paa Ligesom altsaa Till. 1 viiste os, hvorledes et Qvadrat kan fordobles, indsee vi herved, hvorledes et givet Qvadrat halveres.
+Till. 3. Skulle flere Qvadrater lcegges sammen, da sammenlcegges fsrst to, hertil fsies et tredie o. s. v.
+54. Opg. At tegne et Qvadrat, der er liigt Forskjellen mellem to andre.
+Dftl. Qvadraterne vcere og 01)2, er det mindre; en ret Vinkel XI? 15 tegnes, og paa dens ene Veen asscettes Ov; det sterre Qvadrats Side tages i Passeren, og fra N, som 3)l'idlpunct, beskrives en Cirkclbne, som ftcerer det andet Veen af Vinklen; det Qvadrat I^XI.N, som tegnes vaa ?^lv, er nu det forlangte.
+3) Cirklen, Linier og Vinkler ved samme.
+55. Ved en Cirkel forekomme forskjellige rette Limer, som have sccregne Navne.
+En C horde (Streng) er en Linie dragen fra et Punct i Cirkellinien til et andet; en faadan deler Cirkellinien
+ito Cirkelbuer. Gaacr Chorden igjennemCirklens Midtpunct, da kaldes den en Diameter (Tvcerlinie)  VN ; den deler Cirkelfladen  ligesom Cirkellinien  i to ligestore Halvcirkler;  enhver Tvcerlinie er ligestor med to Radier; altsaa ere i samme Cirkel alle Tvcerlinier ligestore.
+En Tangent(Be-
+rsringslinie) er en ret Li-
+me ?H, der i eet Punct I trceffer sammen med Cirkellinien, men ellers ligger aldeles udenfor samme.
+En Secant (Skceringslinie) er en ret Lime XI,, der stcerer Cirkellinien; hvilket stedse steer, naar den tilstrcekkeligen forlcenges, i to Puncter.
+Ligeledes have vi at lcegge Mcerke til to blandetlinede Plan-Figurer, ncemlig:
+Se ct or en (Cirkel-Udsnittet) N^l&gt;, som begrcendses af to Radier, NO og 0?, og den mellemliggende Bue N?.
+Segmentet (Cirkel-Afsnittet)^L^l, som begrcendses af Chorden og den tilsvarende Bue Halvcirklen er baade et Udsnit og et Afsnit.
+En Center vink el er en Vinkel NOI', hvis Toppunct ligger i Midtpunctet eller Centrum af en Cirkel, og hvis Veen ere Radier.
+En Peripherivinkel er en Vinkel L_^,^l, hvis Toppunct  ligger i Peripherien af en Cirkel eller i Cirkellinien, og hvis Veen ere Chorder.
+56. Lceres. Staae en Centervinkel og en Peripherivinkel  paa samme Bue, da er Peripherivinklen det Halve af Centervinklen.
+Fig. 2. Fig. d. Fig. e
+Bev. Her ere tre Tilfcelde; enten falder eet Been af Peripherivinklen i Midipunctet af Cirklen, eller Midtpunctet ligger imellem Peripherivinklens Been, eller Midtpunctet falder aldeles udenfor Peripherivinklen. I fsrste Tilfcelde, Fig. »., hvor faaledes det ene Veen er en Tvcerlinie, betragte vi /XLO0; der er LO forlcenget, altsaa men, da /XLOD er ligebenet, er L-^O, altfaa 1 andet Tilfcelde, Fig. b, drages Tvcerlinien VN, da have vi, efter det fsrst beviiste Tilfcelde, - 2 og /^ NOV 2 NLO , altfaa /^ -^ NOV 2 d. e. I tredie Tilfcelde, Fig. e, drages ligeledes en Tvcerlinie fra L, da er --2NL^, altsaa NO^ — NOO 2 NL^. — 2 NLD d. e. - 2 Saaledes er Centervinklen i ethvert Tilfcelde det Dobbelte af Peripherivinklen,  altsaa omvendt Peripherivinklen det^Halve af Centervinklen  paa famme Bue.
+Till. I. Peripherivinklen udmaales altfaa ved den halv Bue, -den staaer paa, eller nsiagtigere udtrykt, Peripherivinklen
+har samme Antal Grader (Vinkelgrader), som den halve Bue har Buegrader. Alle de Peripherivinkler, der staae paa samme eller ligestore Buer, ere ligestore.
+Till. I. En Peripherivinkel, der staaer paa en Halvcirkel,  er en ret Vinkel; en Peripherivinkel, der staner paa en Bne, mindre end en Halvcirkel, er spids, den, der staaer paa en Bue, storre end en Halvcirkel, er stump.
+Vi prove om en Vinkel er ret, eller en Vmkelbage er rigtig. yed at bestrive en Halvcirkel og dcrv d ste. om Vmklcn just er Peripherivinkel  i samme, d, e. naar dens Tl'vpunct er i Ciikcllinicn, om da deus Veen gaae igjennem Tvcrrliniens Eudepuncter.
+57. Llrres. Deles en Chorde ito ligestore Dele, og igjennem Delingspunctet drages en Lime til Cirklens Midtpunct, da staacr denne lodret paa Chorocn,og halverer, tilstrcckkeligen forlenget, Puen.
+Bcv. Er v Mid-
+ten af Chorden, saa, hvis tillige Nadierne og OL drages, er en ligebenet Trekant og deri Grundlinien deelt i to lige Dele; sslgeligen bliver ved en Linie til Tre-
+kantens Toppunct
+deelt i to lige Dele p og H, hvoraf fslger, at de tilsvarende Buer og Tli ere ligestore, eller Buen er deelt i to ligestor? Dele; tillige er ON
+Till. I. Omvendt, hvis en Linie opreises lodret sra Midten af en Chorde, da gaacr den igjennem Cirklens Midtpunct;  og en Linie, fccldet fra Midtpunctet lodret paa Chorden,  deler samme i to lige Dele.
+Till. 2. PaaOrund
+heraf sinde vi let Midtpunctet  i en Cirkel. Vi drage aldeles vilkaarligten Chorde og opreise fra dens Midte I? en lodret Lime VN, som vil gaae igjennem Midtpunctet 0 og vil altsaa, tilstrcekkcligen  forlccnget, blive en Tvcerlinie ; halveres denne, da findes Midtpunctet.
+58. Opg. Igjennem tre Puncter, som dog ikke ligge i en ret Lime, at beskrive en, Cirkel.
+H Opl. Puncterne vcere
+D, 0. Vi drage de rette Linier KO og opreise fra Midten af samme de to lodrette Linier  NO og 1^0; hvor disse trceffe sammen, er Cirklens Midtpunct 0;
+dens Radius er
+Bcv. Drage vi Linierne V 0 og &lt;I! 0, saa dcrkke Trelanterne  og LON hinanden; thi ON ON og /_ li ONL ; altsaa ligeledes  bliver LO 00. Sccttes nu Passerspidsen iO, og tages i Passeren, da vil beskrives eu Cirkellinie, som gaacr igjennem Puncterne L, 0.
+Till. 1. Laae alle tre Pnncter ien ret Lime, blive
+Linierne N 0 og ? 0 parallelle, og saaledes findes intet Overfkceringspunct  0.
+Tlll. 2. Paa samme Maade, som er viist i Opgaven, kunne vi ssge Midtpunctet for en Cirkelbue , idet vi i samme drage to Chorder, og fra deres Midte opreise lodrette Limer.
+Ved dette Tillcrg oplsscs ogsaa Opgavcn i 57 Till. 2; i det vi kunne i en CiirV-llmie vcrlge vilkaarligt tre Punctei. Imidlertid have vi en heel Cirkcllinle eller og en Bue, stsrrc end en Halvcnkel, vil den. fyrste Oplssning vcere bcqvemmcst. da vi kun behsve at trcrkke cen lodiet Linie og Tegningen ogsaa vil tåge mindre Plads.
+59. Opg. At opreise en lodret Linie paa Enden af en Linie, uden at forlcenge samme.
+Opl. Et Punct c:
+ovenfor Linien voelges, og med Radius slaaes en Cirkel; fra L drages Tvcrrlinien LO; er da den forlangte lodrette Linie.
+Bev. V^.L er en
+Peripherivinkel, der staaer paa en Halvcirkel; den er
+altsaa ret ; fslgeligen er _1_
+60. Opg. At drage en Tangent igjennem et givet Punct i en Cirkellinie.
+Dpl. Punctet vcere Radius drages, og paa Enden af samme opreises den lodrette Linie LO, som er Tangenten.
+Bev. Ethvert Punct Naf Linien LO ligger udenfor
+Cirklen; thi, drages Limen ON, er samme, da dett er Hypothenuse i den retvinklede  Trekant O^N, stsrre end o^, altsaa sterre end Cirklens Radius;  fslgeligen ligger Punctet D udenfor.
+Till. 1. Ter kan kun
+drages
+een Tangent til et givet
+Punct af Cirkellinien, ncemlig den Lime, der staaer lodret paa Enden af Radius ; thi den lodrette Linie, der droges fra Midtpunctet til en Linie, der stod skjevt paa Enden af Radius, vilde voere kortere end denne og altsaa vise, at et Punct af denne anden formeentlige Tangent laae indenfor Cirkellinien.
+Till. 2. Omvendt gaacr altsaa den Linie, der opreises lodret paa en Tangent fra Bersringspunctet, igjennem Cirklens Midtpunct, og bliver saaledes, tilstrcekkeligen forlamget, en Tvcerlinie i Cirklen.
+61. Dpg. Fra et Punct udenfor en Cirkel at drage en Tangent til Cirklen.
+Dpl. Foreen Midt-
+punctet C! og det givne Punct med en ret Linie, halveer denne, og beskriv med Radius ON en Cirkel, drag fra til Cirklens Skceringspuncter Vog I) rette Linier , saa er enhver af disse Tangenter  til Cirklen.
+Bev. Drages Ra-
+Ursins Geometri, 7de Oplag.
+dierne lUI! og OD, da ere Vinklerne og rette Vinkler^ altsaa og Tangenter.
+Denne Opgavc anvendes i Perspectiv en, naar man stal soge Skyggen af et Legeme, hvis Gjcnncmsnit er en Cirkel.
+62. Laeres. Den Vinkel, som en Chorde og en Tangent danne, udmaales ved den halve Bue, som Chorden afstcrrer, og som ligger mellem Vinklens Veen.
+Bcv. Gaacr Chor-
+er efter-
+ret paa Tangenten; den
+rette Vinkel er 90" og
+Halve af Halvcirklen, eller
+udmaales ved z Er Vinklen enten NLO eller OLV, saa er — , og altsaa, da udmaales ved eftersom den er en Peripherivinkel,  udmaales NLV ved — - NIS ; ligeledes,  da /^NLO -^.LO -&gt;-^VN, udmaales den ved det Halve af Buen N^L.
+63. Lceres. Ligestore Chorder afsicrre ligestore Cirkelbuer, og omvendt, til ligestore Cirkelbuer svare ligestore Chorder.
+Bcv. Er Chorden VN , saa, da tillige LO -^6N, er /X^uc: (^v, altfaa m^-n, og, som en Fslge heraf, Cirkelbuerne og ND, der svare
+til disse ligestore Centervinkler,  ligestore.
+Hvis Cirkelbuerne ere
+ligestore, da er m^-n; altsaa, da tillige Radierne ere ligestore, er /^^.LO og fslgeligen
+64. Lcrres. Stode to Tangenter sammen udenfor  en Cirkel, da ere Stykkerne ftaVeroringspuncterne tilSka:ringspunctet ligestore, og denLinie, der drages fra Cirklens Midtpunct til Tangenternes Skceringspunct,  halverer Cirkelbuen imellem Beroringspuncterne  og Vinklen imellem Tangenterne.
+Bcu. Drages Nadierne og OL, da dcekke de retvinklede Tre-
+/ X kanter og OISV hinanden, efter.  som deri, foruden de rette Vinkler
+ved og L, tillige OL og OO^OO; altsaa er - Lv, &lt;1 vog m n , d. e. Vinklen I) deelt i to lige Dele, og tillige, da,
+til de ligestore Centervinkler in og n svare de ligestore Cirkelbuer og NL, er Buen deelt i to lige
+Dele.
+O) Mangekanter i og om Eirklen.
+65. En Figur siges at vcere i n d s k r e v e n ien Cirkel, naar alle dens Vinkelsvidser ligge i Cirkellinien, og altsaa dens
+Sider ere Chorder; den siges at vcere omskreven, naar alle Siderne ere Tangenter til Cirklen. Cirklen selv siges i fsrste Tilfcelde at vcere omskreven, i sidste Tilfcelde indskreven.
+Vi afhandlc her foinemmcligm de regelrette Mangckanter eller regulcere Polngoner og betragte dem i deres Fmbold til Cirklen; stiv denne ville vi kunne tanke os som en Mangekant af «endeligen mange Sider; thi, bcgynde vi med at indstrive en regelret Mangekant af et bestemt Anta! Sider og fordobble Sidernes Antal. ncrrme vi os stedse mere og mere til Cirklen; og, kunde vi give en Mangekant «endeligen mange Sider, vilde den aldeles falde sammen med Cirklen.
+66. Lceres. Er en Cirkellinie deelt i flere ligestore  Dele, og fra ethvert Delingspunct til det folgende drages Chorder, da opstaaer derved en indskreven regelret Figur af saa mange Sider, som Antallet af de Dele, Cirkellinien er deelt i.
+Bev. Er Cirkellinien saaledes
+deelt i 5 ligestore Dele, da er Figuren  en regelret Femkant; thi, da Buen LO -OD :c. , saa ere de tilsvarende Chorder ligestore, altsaa LO —OD :c. Tillige ere Figurens Vinkler Peripherivinkler, der alle staae paa ligestore Buer, ncemlig paa hele Cirkellinien, mindre end de
+to Stykker, der afskceres af Benene ; saaledes staaer /I. paa Buen Ld!VD, som er ligestor med hele Cirkellinien, mindre end Buerne og /^L paa Buen ODN^., d. e. hele Cirkellinien, mindre end Buerne LO og :c. Altsaa ere baade Siderne og Vinklerne i Figuren ligestore, og denne saaledes regelret.
+67. Lwres. Er en Cirkellinie deelt i et vist Antal ligestore Dele, og igjennem Delingspuncterne drages Tangenter, saa er den omskrevne Figur, forn derved opstaaer, regelret.
+Bev. Antag, at Cirkellinien er deelt i 5 ligestore Dele, og at en Femkant er fremkommen ved at drage Tangenter til Delingspuncterne. Trcekkes nu Linierne 01?, 06-, 013, 01, OK, da have vi Tangenterne N^ og og QV, LH og 0H o. s. v., som stode sammen udsnfor Cirklen, og fra Sammenstsdningspuncterne ere Linier dragne til Cirklens Midtpunct;  altsaa vide , vi, at Nk'^-^^, llll&lt;^U  o. s. v.; endvidere, at Vinklerne k', (3, H o. s. v. ere halverede, og ligeledes Vuerne V^., L 0 o. s. v., eller at t-u, v^-y, i-^^-8 o. s. v., og Buen Nl.^l^, - NIL, LN - o. s. v. Saaledes er da VI. I.^
+men, da er z^^^^L, altsaa I.^.^^N, og folgeligen /^ - saasom de ere Centerriukler, der staae paa ligestore Buer; sammenligne vi nu Trekanterne og saa have vi endvidere i dem x^^-^li,, altsaa /X^o^^^oO og u-v. Det Samme kunde fremdeles bevises om de folgende Trekanter, som vilde opstaae, hvis vi drage Linier fra 0 til L, til 0 o. f. v., altsaa er fremdeles &lt;^^^,- o. s. v.; &lt;^L-Lll o. s. v. Saaledes ere altsaa alle Vinklerne t, u, v, c&gt;, ,-, 8 ligestore, og alle Stykkerne af Tangenterne 131^ OL, LU o. s. v. ligestore; lcegge vi dem nu parviis sammen, saa er t^u^v^-y - i- -^8 o. s. v., d. e, 5 6— H :c., og ligeledes -^-^O^ lik LU zc. , d. e. I'6-&lt;3II  :c. Det er saaledes beviist, a4 alle Sider og alle Vinkler ere ligestore, eller at Figuren er regelret.
+68. Opg. Om og i en regelret Mangekant
+at beskrive en Cirkel.
+Opl. Halveer to
+hosliggende Mangekants- Vinklerv og V; hvor Delingslinierne  trceffe sammen  i 0, er Midtpunctet baade for den omskrevne og indstrevne Cirkel, Radius  for den fsrste er CD; for den anden den lodrette Lime 01..
+Bcv. Da alle Man-
+gekants-Vinklerne ereligestore,  ere Halvdelene det
+ogsaa, eller x^-^^r^u. Sammenligne vi nu Trekanterne  OVL og I^OT, saa er 7^^'', in -^ li n, OI^^OI,; altsaa da i samme to Vinkler og een Side ere ligestore, dcekte de hinanden; altsaa &lt;^O (!N. Sammenligne  vi Trekanterne vON og I^Ol^ da er i-^ u, (^N-IDN, VN^^Nli'; altsaa dcekke de hinanden; folgeligen er DO -^ d'^ og desuden y-?; men / er en halv Mangekants-Vinkel,  folgeligen ogsaa &lt;^; den anden halve Mangekants-Vinkel bliver saaledes p, altsaa p^^&lt;i; saaledes kunne vi fremdeles  bevise, at /X (HNS altsaa cN^^O le.; fglgeligen alle Linier fra 0 til Vinkelspidserne ligestore, eller Cirklen, der beskrives med Radius 1)0, bliver omskreven.
+Fcelde vi OK _^NI? og sammenligne OLN med ONK, err^-u, n^li-v, ON-^OL, altsaa /XOLN^ONic vg 01^ -^OX; ligeledes ere alle de svrige lodrette Linier fra 0 ned paa Siderne ligestore; ftlgeligen gaacr Cirklen, der beskrives
+fraO med Radius 01., igjennem Puncterne I^, X :c., og til denne blive alle Mangekanteus Sider Tangenter, eftersom de staae lodrette paa Radius; altsaa er Cirklen, der bestrides med Radius Ov, indskreven.
+Titt. 1. Radius af
+den omskrevne Cirkel kaldes  Mangekantens s tor-
+ste Radius, Radius af den indskrevne Cirkel Mangekantens mindste  Radius. 
+Till. 2. Vi indsee, at ved de stsrste Radier bliver Mangekanten deelt i saa mange Trekanter, der doekke hinanden, som Mangekanten har Sider. I disse Trekanter ere alle Vinklerne  ved 0 ligestore; de kaldes Mangekantens Cent er vinkler.  Betragte vi een af Trekanterne, f. Er. VON, da er deri
+V. (Centervinkel).
+/. ). M. V.
+VON &gt; r -j- 7 C. V. M. V.
+Men, da alle tre Vinkler i en Trekant tilsammen udgjore 2 N eller 180", er saaledes Mangekants-Vinklen og Center-vinklen  ogsaa stedse tilsammen 2 li, eller 180"; men der ere saa mange Centervinkler, som Mangekanten har Sider, og alle ere de tilsammen 4 li, 360"; vi kunne altsaa udregne Centervinklen, ved at dividere 360" med Sidernes Antal, og Mangekantsvinklen ved at drage den saaledes fundne Centervmkel  fra 180". F. Er. for en Syvkant.
+Miagtigt det Sammel som vi have sundet forhen (§ 41, Till. 5)
+69. Opg. At dele en Cirkellinie i et vist An-
+tal ligestore Dele.
+Opl. Lader os antage, at Cirkellinien  skulde deles i 7 ligestore Dele. Vi udregne Syvkantens Centervinkel og afscette denne, som ved Cirklens Midtpunct; Buen er da as Cirkellinien, og altsaa, hvis vi tåge Afstanden fra til L i Pas-. seren, lader denne sig fsre 7 Gange om i Cirkellinien.
+Da vi ved Hjalp af Transpoltsr&gt;'n, altsaa mechaniskt, afscrtte en Vinkel af et vist Anta! Gradcr, Mimitcr l'g Sccundcr, saa er Constilictionen  mcchanist; ofte deler man Cirkcllmicn blui ved gjentagne Forssg^ det forlangte Anta! Dele. Kun i enkelte Tilfcelde kan I»ddcingen  stce gcometristt, saalcdcs som det frcmfattcs ide felgcnde Opgaver.
+70. Opg. At dele Cirkellinien i 4 ligestore Dele
+Opl. Vi drage to
+Tvcerlinier ogvL lodrette  paa hinanden. Cirkellinien  blives herved deelt i sine 4 Qvadranter,
+LI), ZN,
+Vev. Da Vinklerne
+ved Midtpunctet ere rette, saa ere de Centervinkler i en regelret Fiirkant; og til disse ligestore Center-
+en tilstrcekkeligen stor Radius  at beskrive fra Endevuncterne  as een af Buerne to Cirkelbuer,  der sicere hinanden i k', og forene I? med 0, deles Buen i to ligestore  Dele; thi herved
+deles Vinklen i to lige Tele, og altsaa vil Buen ligeledes  vcere deelt i to ligestore Dele og IIN. Da nu
+er -^ af Cirkellinien, vil kunne fremdeles atter halvere
+-UN vcere af samme. Vi hver af disse Buer og saaledes
+dele Cirkellinien i 16, atter i 32, 64 ... Dele.
+Till. 2. Paa Grund heraf kunne vi geometriskt i og om Cirklen beskrive regelrette Mangekanter af 4, 8, 16.... Sider.
+71. Opg. At dele Cirkellinien i 6 ligestore
+Dele.
+Dpl. Tag Radius i Passeren;  den lader sig fsre 6 Gange
+om i Cirkellinien.
+Bev. Er , o.g drages  tillige OL, saa er /X lige-
+sidet, altsaa d. e. Centervinklcn i en Eerkant; altsaa er Buen '^ af Cirkellinien.
+Till. 1. Forbigaae vi hver anden Inddeling, da er Cirkellinien at ansee som deelt i tre ligestore Dele. Ved at halvere hver af Sjettedelene, deles Cirkellinien i 12 ligestore Dele, fremdeles i 24, 48 ... Dele.
+Till. 2. Vi kunne altsaa geometriskt i og om Cirklen
+beskrive regelrette Mangekanter
+af 3, 6, 12, 24 ... Sider.
+Nogle Mangekantcr lade sig ncrmlig Femkantc». Syttenkanten og
+endvidcre gcometristt constmcre, de dcraf selgende; og''aa Femten?
+la,ucn, 51 Kanten, 85 Kanten; men Constructioncn af disse er vidtlostig.  ligesom Beviset for sammes Rigtighcd.
+Vi ville kun anfsre Constructioncn, dog uden Vcviis, af Femkantei  og de dcraf fslgendc Mangekantci. hvilke lade sig gcumetiifkt
+constiucrc paa fslgende Maade
+Vi drage to Tvcnlinicr
+og Dl^ Indrette paa hinanden;  Nadius (^V halveres; fra Midten 5 bestrivcs med I?L som Radius en Ciikellme, der skcrrer DV; Limen I^L er da den indskrcvne Femkants  Side.
+Linien d!lv er den ind-
+strevne Tlkants Side og lader  sig altsaa fore 10 Gange om i Cirkleu, ligesom Ll5 lader sig fere 5 Gange om.
+Vi kunne cndvidere, ved
+at halvere hver Bue, dele Cirtellinien i 20. 40 . . . .
+Dele. og altsaa bcstrive i og om Cirklcn regelrette Mangctanter af 5 10, 20, 40 ... Sider.
+Tåge vi Forskjellen imcllcm z og af Cirkcllinicn, da have vi af samme og kunne allsaa i og om Cirklen bcstrive en Mangekant as 15 og fremdeles af 30, 60 ... Sider.
+Halvdelen a den indskrcvne Trckants Side er paa det Nocrmeste den indskrevnc Syvkants Sider.
+72. Opg. Paa en given ret Lime at beskrive en regelret Mangekant af et vist Antal Sider.
+1. Opl. Linien vcere Mangekants-Vinklen beregnes, og af denne afscettes det Halve ved og p; Venene forlcenges, til de fkoere hinanden i (?, med beskrives en Cirkel; lader sig nu fsre det forlangte Antal Gange om i Cirkel-
+2. Opl. Center-
+vinklen x tegnes, hvilket fkeer, forsaavidt Cirkellinien  kan deles ved de forhen  (§ 70 og 71) anfsrte Opgaver i det Antal Dele, forn Mangekanten skal have Sider, og afscettes paa Forlengelsen af den givne
+Side ved og L, endvidere gives nu Lv og -^ Man har da tre Sider af Mangekanten og fuldfsrer  samme let, ved enten at affcette Mangekants-Vinklen ved N og I), derncest Siderne og fremdeles fortfcette denne Construction,  saavidt behoves, eller, ligesom i fsrste Oplssning, ved at halvere /^ N^L og og saaledes soge Midtvunct for den Cirkellinie, hvori Mangekanten indskrives.
+En tredie Oplssning er, ligesom den her anfsrte, endnu fremsat i Hetsch's og Ursins geometriste Tegnelcere, Tab. X. Fyrsaavidt Vinklerne  og L i fmstc Oplssning og Ccnlervinklen x i anden Oplssning  ofte kun ved Transvortsreu lade sig asscrttc. bliver Oplosningcn mechanist. 
+Hnppigt anvendes de regelrette Mangekanter til forskjellige Ziratcr;  efter dem tilhuggcs Fliser til Gulucs Belcrgmug. Man anvender  i Almindelighcd Sezkanten, eftcrsom dens Viangekants-Vinkel er 120°, og altsaa tre Sextanter just ville bringes til at stode sammen i eet Punct. Det Samme vilde vare Tilfcrldct med 4 Qvadratcr.
+eller 6 regelrette Trekanter; dog anvcnder
+man ugjcrnc disse Figurer, cstersom de flere Vinkler, som i sidste Tilscrldc crc spidse, gjsre Arbeidet svagere. Ligeledcs tilveiebringes ogsaa ved regelrette Oitckantcr  og Qvadrater Forbindelser, eftersom  to regelrette Ottckants-Mangekants- Viuklcr, hver til 135° . . og et Qvadrais Pinlcl ti! 90", tilsammcn udgjore 360° og altsaa kunne ncdloegges om et Punct i cet Plan. Hosfoiede Figur viser Forbindelsen
+
+7) Forholde og Proportioner.
+73. Udmaale vi to ligeartede Størrelser (to Linier, eller to Figurer) med samme Maal, da kunne vi derved bestemme, hvormange Gange den ene er storre end den anden.
+Som Exempel ville vi tåge Linierne og d!v og antage  dem udmaalte ved eet Maal f. Ex. Tommer. Er nu
+-- 5 Tommer og OD 3 Tommer, da have vi derved bestemt,  at - &lt;^O, eller at indeholder &lt;^I) 1^ Gang, og altsaa omvendt, at (^V^-A^V, eller at d?I) indeholder Gang. Vi have saaledes betragtet Forholdet imellem og tl!I), og vi sige, at dette Forholds Stsrrelse er H, eftersom den fsrste Stsrrelse der kaldes Forholdets Forled, er as den Storrelse OD, der kaldes Forholdets Efterled. Tallet der saaledes udtrykker, hvor mange Gange Forledet er storre end Efterledet, kaldes Forholdets Ervonent. Et Forhold imellem to Størrelser betegnes ved imellem Forledet og Efterledet at skrive :, som desaarsag ogsaa kaldes Forholdstegnet.
+Havde vi to andre Størrelser, f. Ex. ligeledes to Limer, som, udmaalte med et andet Maal, saasom et Halvtomme-Maal,
+ogsaa vare as den Be-
+skaffenhed, at, medens den
+ene Nl' indeholdt dette Maal 5 Gange, indeholdt den anden HK samme Maal 3 Gange ; da blev Erponenten af Forholdet
+N? :HX ligeledes , eftersom L 5 HK. Di^se to Forholde bleve altsaa ligestore, og vi skrive
+Saadanne to ligestore Forholde kalde vi en Provorti on, og de fire Størrelser, der danne samme og kaldes Proportionens
+Lede, siges at vcere proportionale. Fsrste og fjerde Led kaldes Proportionens 3) d e r l e d e , andet cg tredie dens M e l l e m l e d e.
+I en Proportion ere begge Forholdes Erponenter ligestore.
+Ere to Forholde ligestore med eet og samme tredie, ere de indbyrdes ligestore, eftersom deres Erponenter da ere ligestore  mcd det tredie Forholds^Erponent; hine to Forholde danne altsaa en Proportion.
+74. Llrres. Ere to Forholde ligestore, da ere de omvendte Forholde ogsaa ligestore.
+lL
+v
+n
+i?
+&gt;
+Bev. Hvis : OV^N? : N^s da er IUV : : N^
+Thi er f. Er. Z &lt;^v, saa er cv - ; og , da Nl' ogsaa er N^l, saa er omvendt N^l^-^N^; altsaa er A Erponenten i begge Forholde, disse altsaa ligestore.
+Till. I enhver Proportion, som bestaaer as eensartede Swrrelser (alle 4 Lede eller Linier, eller Flader, kunne Mellemledene  ombyttes. Have i
+saa er : NI^OV : N^s.
+Thi, da -^ c?v ogN^-HN^, og altsaa omvendt saa, hvis vi tåge til Forholdet  ND : NIN et Maal saa stort, som det, der anvendtes til maatte dette indeholdes just saa mange Gange i OD og NN, som Maalet for : N? indeholdes i og N?, altsaa ere Forholdene : N?' og &lt;DO : Nl^ ligestore.
+75. Lcrres. Have vi en Proportion og danne to nye Forholde, ved at tåge af det ene givne Forhold Summen af eller Forskjellen imellem Forled og Efterled og gjsre til det ene nye Forholds Forled, derimod beholde det forrige Efterled og paa samme Maade af det andet givne Forhold danne et nyt Forhold, da ere disse Forholde ligestore og danne altsaa en rigtig Proportion.
+!N
+ci
+n
+!-'
+HI
+X
+Bev. Håves
+: OV-L5 : NN
+saa er
+Antage vi ncemlig ogsaa her, at Erponenten er ide givne Forholde og tåge Maalet for Forholdet : OD og udmaale dermed 4i (N , da indeholdes dette Maa! i -s- OD 8 Gange, i — (^v 2 Gange; ligeledes, hvis Maalet for N^ : IVIN tages, da indeholdes det i N 5 -s- K4N g Gange i N^ —M^ 2 Gange ; altsaa blive Erponenterne i begge Forholde ligestore, ncemlig eller og Forholdene ere selv ligestore.
+Till. Ogsaa havde vi dannet en rigtig Proportion ved at tåge Summen eller Forskjellen af Forled og Efterled til Forledet  i det ene Forhold, og i det andet Forhold ligeledes Summen  eller Forskjellen af Forledet og Efterledet til Forledet.
+76. Da et Forholds Stsrvelse ene er afhcengig af dets Ervonent, saa bliver det uforandret, om ogsaa begge Ledene
+multipliceres eller divideres med samme Størrelse; thi, tages blot et saa mange Gange stSrre Maal, da bliver Exponenten den samme, allsaa Forholdet uforandret.
+Hvis vi have en Proportion, da lade begge Forlede eller begge Efterlede sig mnltiplicere eller dividere med samme Stsrrelse.  Thi, have vi saaledes
+: OV^Nl' : NX
+saa er ogsaa
+7 : C!l)^7 N^ : N^
+Thi, da
+: &lt;^O-N? : NX
+«r, ved at ombytte de to mellemste Lede,
+altsaa, hvis begge Lede i fsrste Forhold multipliceres med Tallet 7,
+7 : 7 N5 ci) : N^
+ombytte vi nu atter de mellemste Lede, saa er
+7 : OD N5 : SIN.
+Beviset gjcelder vel egenligen, kun forsaavidt alle fire Lede i Proportionen ere eensartede, da ellers ingen Ombytning  af Mellemledene kan finde Sted (7^ Till.); men i.andet  Tilfcelde bliver Scetningen ligefuldt rigtig, da Ervonenterne i begge For,holde forsges eller fonnindfkes ligemange Gange ved at multiplicere eller dividere Forledene med samme Tal, omvendt formindskcs eller foroges ligemange Gange ved at multivlicere  eller dividere Efterledene; saaledes bliver Ervonenterne  i den forandrede Proportion ligestore.
+Vi kunne altsaa ved Multiplication, og ligeledes ved Division, foretage folgende Forandringer ved en Proportion.
+1) En Prcportion kan heelt igjennem multipliceres eller divideres med een og samme Ewrrelse.
+2) Det ene Forhold kan nmltivliceres eller divideres med een Stsrrelse, det andet enten aldeles ikke eller med en anden Swrrelse.
+Ursins Gcometli, 7de Oplag. 6
+3) Begge Forledene eller begge Efterledene kunne multipliceres  eller divideres med samme Stsrrelse, medens begge Efterledene  eller begge Forledene enten aldeles ikke multipliceres eller divideres,  eller multipliceres eller divideres med en anden Størrelse.
+Lcrren om Forholde og Proporlioncr, so!» her er ovlyst ved Linier,  sinder Anvendelse, foiuden i Geometrien, ogsaa i Arithmctiken. Vi henvise saalcdes til Ursins Arithmctik, § 77 og selgende, hvor Proportionslcrren  yderligcn er udviklet; denne Lccre sinder cndviderc sin Anvendelse i den sedvanlige Negnekunst, cflerdi ethvert Negula-Detri-Stykke  cgcnligen har sin Grund i en Proportion, da vi vide, at f. Ex. de Penge, der gives sor Varer, forholde sig, som disses Mcrngde o. s. v. Herom se Ursins Regnebog S. 45.
+77. Llrres. Tegne vi paa to rette Limer, som Grundlinier, to Nectangler, hvis Hsider gjores ligestore,  da forholde disse sig som deres Grundlinier.
+Bev. Linierne vcere og OD, Nectanglerne og C!^. Udmaales Linierne ved deres fcelles Maal, da indeholdes dette et vist Antal Gange i f. Er. 5 Gange, Maalet tcenkes nu afsat 5 Gange paa^.N; ligeledes indeholdes Maalet i&lt;^v et vjst Antal Gange, f. Er. 3 Gange; det tcenkes ogsaa disse Gange afsat paa (^v. Opreises nu fra alle Delingspuncterne  lodrette Linier paa og OD, blive begge Nectanglerne  deelte i flere smaa Rectangler, som alle ere indbyrdes ligestore; betragtes eet af dem som Maal, saa er
+Nectangel 5 Rectangel d)^ - 3
+Altsaa, ligesom Erponenten i Forholdet : OD er H, er den i Forholdet : 0^ ogsaa Folgeligen
+: 0^ - : OD.
+Till. 1. Tegnes, i Stedet for Nectanglerne, to andre Parallelogrammer, men af samme Hsider, over Grundlinierne, da, eftersom disse Parallelogrammer ere ligesaa store, som Nectanglerne, ville Parallelogrammer i Almindelighed, med ligestore Hoider, ogsaa forholde sig, som deres Grundlinier.
+Till. 2. Da Trekanterne ere det Halve af Parallelogrammer  paa samme Grundlinie og af samme Hside, saa forholde de sig ogsaa, naar Hsiderne ere ligestore, som deies forskjellige Grundlinier.
+78. Lcrres. Drages i en Trekant en Lime, ligelsbende med een Side, men saaledes, at den overskårer de to andre, da er Forholdet imellem det sverste og det nederste Stykke af den ene Side ligestort med Forholdet af det sverste og nederste Stykke paa den anden Side, eller Stykkerne af
+Siderne ere proportionale.
+Bev. Er ON^^O,, saa er LO : VN : N&lt;^. Drages og 00, saa have vi Trekanterne LON og i hvilke LI) og kunne ansees
+H. &lt;I! som Grundlinier; Hsiden
+derimod vilde for begge
+vcere en Linie fra N lodret ned paa altsaa, da Hsiderne  ere ligestore, forholde Trekanterne sig som deres Grundlinier  :
+/X VON : - Lv :
+Ligeledes, hvis vi i Trekanterne LI)N og VNO ansee LN og NO som Grundlimer, have vi
+/X LON : ONO LN : NO.
+Men /X VNO og staae paa samme Grundlinie VN og imellem samme Paralleller; altsaa er og fslgeligen
+/X LON : LN : NO.
+Da nu saaledes to Forholde ere ligestore med eet og samme tredie, ere de ligestore, altsaa
+Vy : - LN : NO.
+Till. I. Vi kunne as denne Proportion udlede flere andre, saasom
+: LO - NO : NN.
+Eller overhovedet de eensliggende Stykker af Linierne og LO ere proportionale og proportionale med selve Linierne.
+Till. 2. Vi kunne desuden udlede en aldeles ny Proportion,  ncemlig : Hele Limen paa den ene Side til det overste
+Stykke, som Gruudlinien til den overskcerende Link (Transversalen).
+Drage vi ncemlig VI?
+L LO, saa er, hvis denne
+ansees som Transversal, : LO - : Men, da ?0 VN og O^ NO, saa er VNOI? et Parallelogram, altsaa ?0 - VN, og folgeligen : LO -
+: VN.
+8) Ligedannede Figurer
+79. Figurer ere ligedannede, naar i dem Vinklerne, ere stykkeviis ligestore og de eensliggende Sider, o: de, der indeslutte samme Vinkler, ere proportionale.
+At to Figurer ere ligedannede, tilkjendegives ved cx,
+Negelrette Figurer af ligemange Sider ere ligcdannede, efterdi Vinklernes Stsrrelse er bestemt, og Siderne, der i hver ere indbyrdes ligestore, ere proportionale. Saaledes ere f. Er. alle ligesidede Trekanter ligedannede; thi deres Vinkler ere ligestore, ncrmlig hver li, og de to Sider, som indeslutte  en hvilkensomhelst Vinkel, ere ligestore, altsaa har deres Forhold Erporienten 1; ligeledes i en anden ligesidet Trekant ere ogsaa Siderne ligestore, altsaa Exponenten i Forholdet  imellem to ligeledes 1; fslgeligen ere disse Forholde ligestore; saaledes ere Vinklerne stedse ligestore og Siderne proportionale. , '
+80. Laeres. Have vi en Trekant, da er det Stykke, som en Transversal afstcorer af samme, ligedannet
+med hele Trekanten.
+ Vev.  Erv^^^C, da er /^ LYS «&gt; Hvad Vinklerne angaae, da er L fcelles for begge Trekanterne, /.I)01^^^ og som udvendige cg indvendigen modsatte Vinkler for Yl' -^ Endvidcre ere
+Siderne proportionale, da VY' er Transversal
+81. Lcrres. Gre ito Trekanter Vinklerne lige store, da ere de ligeoanneoe.
+Bcv. Trekanterne vcere og «,dc ad afscettes' paa fra saa at 9,d^-^,I); Limen VN drages ligelsbende  med LO, nu er /X men /_ L, som udvendig og indvendigen modsat Vinkel for DU Dd! ; altsaa /_ d ; da tillige - ad, -a, saa er /X altsaa cx) abo.
+Till. 1. Som Folge heraf ere Siderne proportionale.
+Till. 2. Da vi af to Vinkler i en Trekant stedse kunne stutte os til den tredie, er det tilstrcekteligt at vide, at blot to Vinkler  ito Trekanter ere ligestore, for at slutte, at de ere ligebanuede.
+82. Lcrres. Ere ito Trekanter Siderne pro portionale, da ere Trekanterne ligedannede.
+Bev. Paa afscettes ad-----^O, og ON drages ligelsbende med LO; nu er
+: ad LO : do
+eller
+: ----- LO : do
+ON LO
+og, da
+altsaa
+LO :do LO : VN,
+eller
+altsaa alle tre Sider af begge Trekanterne og abo ligestore;  fslgeligen dcekke de hinanden. Da ON LO, er cx, cg altsaa, da ado, er /X co ado.
+Till. Paa Grund heraf ere i to Trekanter, hvis Sider  ere proportionale, Vinklerne ligestore.
+83. Laeres. Ere i to Trekanter een Vinkel ligestor og de Vinklen indestuttede Sider proportionale,  saa ere Trekanterne ligedannede.
+Bell. Der vcere givet /^. --^ aog
+: lib -^ : ao.
+Vi afscette ad og VN L(^ ; nu er :nd
+: «,e; men ad da DN^Ld!, er : -^-^O:^N, hvoraf - altsaa /X altsaa cx) ado.
+-- llc; men tillige er a, ade; men ?o
+Till. Altsaa eie ito saadanne Trekanter desuden de andre  Vinkler ligestore, og ligeledes ere Siderne ftroportionale.
+V^rcl'ct om Ligcdmumhcd, so»! bci cr ulviklct o^ mmsat for de simpleste rcllimdc Figurer, Trckantcr, har cn vidtstiakt Anvrnoclsc. Vi indsec kt, at vi fsrst maac bctragtc ligcdain^-dc TrekaiUcr, c^ftcrsom alle a»drc «tlinodc Figurer kunne tcrnk&gt;,s at vcrrc sammensatte af dem, og vi ville derfor ogsaa siden kunne betrakte retlinede, sieersidede, ligc- dannede Figurer. Vi ville i let indsee, hvor ofte det krcrves at fremstille en Figur, ligcdannet med cn and n. Nersten enhver Tegning grunder sig paa en Oplssinng af denne Ovgave. Tlu, anvende vi en formintsket 21!aa'Iestok eller vel ogsaa stundom en forstsrret. da maa vor Tegning stedse, for at den stal verre en tro Afbildinng af Originalen, have alle sine Linicr i samme Forhold ti! O^iginalens Linicr og alle Vinkler ligestoie med Originalcns Vinkler, o: vare, som vi have for-
+klaret det, ligedannet med Originalen. Den Anvendelse af Geometrien, som vi kalde Landmaaling, og der, som Kunst, maaskee, skjsndt da regellss, er crldrc. end Vidcnskaben, er intet uden en Construction eller Tegning af en Figur, ligedannet med Marken og dens Afdelinger. Vi ville, uden at fremsatte denne Kunst, blot her gjsre opmcrrksom paa, at Maalcbordet just er at sammenligne med Tegncbrcrdtet, paa hvikct vi i Stuen udf^re vore Tegninger, og at Asicrgningen af de forskjellige  Hovedvunctcr paa Bordet grunder sig paa de fremsatte Setninger om Trekanters Ligetanncthcd.
+84. Lceres. Fceldes i en retvinklet Trekant fra den rette Vinkels Toppunct en Lime lodret paa Hypotenusen, da deles derved Trekanten i to Trekanter, der ere ligedannede med hele Trekanten
+og indbyrdes ligedannede.
+Vev. Sammenlig-
+nes /X og saa er li
+L^ci , L fcelles for begge Trekanter; altsaa  cx&gt; Endvidere er
+cx) eftersom ligeledes i dem to Vinkler ere stykkeviis ligestore; /&gt;. og^OO ere ogsaa innbyrdes ligedannede; thi, da L^v K, saa er L 0 L -I- L^v; altsaa 0 -L^v; tillige begge Vinklerne ved I) rette.
+Till. Da /^ co ere Siderne proportionale,  altsaa
+Lv : : DO.
+En saadan Swrrelse der udgjsr begge Mellemlede i en Proportion, kaldes en Mellemproportionalstsrrelse. Paa Grund af ncervcerende Scetning kunne vi nu oplsse fslgende  Opgave-.
+85. Opg. At ftge en Mellemproportional storrelse imellem to givne Limer.
+Opi. Linierne vcere a og d, vi afscette aog d ved Siden  af hinanden, a,--^L, d - LO, derncest halvere vi og beskrive fra N som Midtpunct en Cirkel. Oftreise vi da fra L en lodret Linie LO, saa er denne den forlangte Mellemftroportionalstsrrelse.
+Beu. Drages og 1)0, da bliver eftersom, hvis Cirklen fortsattes under denue Vinkel blev en Peripherivinkel paa en Halvcirkel. Saaledes have, vi da en retvinklet Trekant i hvilken den lodrette Linie Lv er Mellemproportionalstorrelse imellem Hypotenusens Stykker og LO, eller imellem de givne Limer a og b.
+86. Opg. Ere tre Limer givne, da til dem at soge den fjerde Proportionallinie o: en saadan Linie, der vilde danne fjerde Led i den geometriske Proportion,  hvori de andre ere de tre fsrste Lede.
+Dpl. Linierne vcere a, d, e; paa en vilkaarlig Vinkets Veen afscettes, fra Toppunctet, «,. derncest LN-d, vaa det andet Veen derpaa forbindes L og I) med en ret Linie; nu drages Nk' Lv, og da er Dk' den forlangte  Linie.
+Vev. I Trekanten er Lv dragen ligelsbende med NI?, altsaa vide vi, at
+fslgeligen er v? den fjerde Proportionallinie.
+Till. Ogsaa havde vi kunnet afscette 1b fra Toftpunctet; da havde vi paa det andet Vinkelbeen maattet tåge den ssgte Linie ligeledes fra Toftpuuctet.
+Herpaa grunder sig Prop o rti on al cirklcn, som bestaaer af to forbundne Linealcr. Ved Hjcrlp af den soge vi paa en Maade, omtrent liig den fremsatte, en fjerde ProportionMsnelse for Linier, hvis Maal er ssivet. Proportionalcirklen tjener saaledes til geometristt at udfsre en Regning, lignende den, vi foretage i R c gula-D-etri. Paa Proportionalcirklcns Veen pleie cndvidere adstillige andre Storrclscr  eller Viaal at vcere assattc. Ta Instrumentet imidlertid, hvis det stal verre godt, stcdse bliver kostbart, og ilkun selv med Uleil,ghed giver en indstrnnket Nsiagtizhed. ville vi let indsce, at det bliver oversisdigt og kun af ringe Vcrid for den nogenlunde svede Ncgncr. Veqvemt lader derimod oste en Tegning, ved Hjcrlp af samme, sig icduccrc til andet Maal, end det, hvoicfter den er constiucrct.
+87. Opg. At dele en ret Linie i et vist Antal ligestore Dele.
+Opl. Limen vcere ;vi ville antage, at den stal deles i 5 ligestore  Dele. Vi drage en Linie under en vilkaarlig Vinkel og afsoette herpaa fem ligestore Dele (af hvilkensomhelst  Lcengde, blot indbyrdes ligestore)  fra til 0; fra 0 drage vi
+en Linie til L og fra alle De-
+lingspuncter Paralleller med LO, hvorved deles i det for langte Antal Dele.
+Bev. Da VN Ld!, saa er
+: --- :
+da nu '^.v saa er og ligeledes er - §^L o. f. v. eller deelt i fem ligestore Dele.
+a
+Bev. Da VN er
+Anden Opl. Den
+givne Linie vcere a; vi vcelge en anden Linie paa hvilken vi afscette 5 ligestore Dele; over beskrives en ligesidet Trekant^  fra dens Tovvnnct (^ afscettes v(^-li, og Vl^ drages ligelobende med fra (^ drages til alle Delingspuncter Limer,  hvilke dele vN^s, i 5 ligestore Dele.
+i /X 1)5
+altsaa : men, da DO v^-11, er
+a: 1)5;
+altsaa, ligesom er v? - Fremdeles godtgjores let, at ogsaa de svrige Tele ere de forlangte Femtedele,  ved at betragte /X (&gt;IIV og erindre af den forrige /X^U, at
+Tlll. I. Paa samme Maade deles en Lime i Dele, proportionale med en anden given Linies Dele, hvis ncemlig var deelt i uligestore Dele.
+Till. 2. Da det, ofte, fornemmeligen naar Linien er liden, er vigtigt at have hver Deel sanfkilt afsat for sig, f. Ex. hvis Linien skal deles i 10 Dele, at da . ere afsatte for sig, saa kunne vi anvende selgende Constrnction:
+. v Linien afscrttes en Linie, i Al-
+mindelighed en ludret Linie, og vaa denne, afsoette vi 10 ligestore Dele fra til &lt;D; herpaa fnldfsres Trekanten og fra Delingsvuncterne drages  Linier ligelobende med den Sverste af disse er nu den
+D /^ noeste o. s. v., hvilket indsees let saaledes: / er nu &lt;2O da er VN d! 3 zn
+3 HL,
+Hcrpaa grundcr sig den formindskcde Maalestok cllor Tusindcdttls-Maalcstuttcn;  ved den ovcnnclvntc Maide vil det ncemlig ucrre niuligt, at asscrlte Dclo, der crc indliyldcv forstjcllige, cntwg kun -^^ af eller F&gt;,'d. Var^ der assattc 12 li^'sture Dele, da passcdc Maa! stokken til Tl,'lvd&gt;,'c!s-Maa!ct. I Almindcligdcd er d^n cnc Side af vor Maalestuk inddcclt efter Tideels-Maalet. den anden efter Tulvdeels-Maalct.
+Lade vi &gt;m paa en Maalestuk f. Er. 1 Fud gjc?!de lUOO AI., saa indsee vi let, at hele vor Tcgning vil erholde alle Lmicr og Sider fonnindstcdc til For at udfsre sorstjellige Tegninger, bliver det
+ofte nsdvendigt, at have forssjelligc Maalcstokke, hvis vi ikke stulle have en besvcrilig Reduction. Vi kunne antage, at den fineste Linic, dei kan opdrages paa Papiret, helst en saakaldet blind Linie, dei trakkes med den fladc Naal, som er anbragt ovenfor Nidsefjcdrcn, har i Vrede et Maal as 53 Linie; ligcledcs kan det fineste Punct, der kan sees med blotte Dine, antages at have en Lcrngde og Vrede af Noget over 2^ Linie. Vi indsee saaledes, at, naar vi i en Tegning ville fremstille Gjenstanden til en Nsiagtiglicd i Maalene endog af enkelte Limer, da maae vi vcrlgc en Maalestok, der ikke formindsker mecr end 2'c&gt;, ia vel endog ikke saa meget; lunne vi nsies med en Nsiagtigbed af enkelte Tommer, da er en FormindsrVlse af anvendelig. En FormindstVlsc af eller hvor 1 AI. fremstilles ved en kalv Tomme, vil tydeligt angive  i Bygningskunsten Dclailler; til Profileringcr 0. desl. bliver ofte en Maalestok, der formindster til fornoden. Ia endog ofte maae disse Tegninger udfsres i fuld Stsirelse, da deres architectonifke Ski»nl&gt;ed vilde tabes, hvis def overludes Haandvccrkerne ester en formindsket  Tegning at udfore dem i det Store. Stsrre Tegninger og Hovcdp!an&lt;r krave deriinod, for at kunne rummes paa Papnet, en mere sormindstende Viaalestok, Det bliver stcdse bcdst, saa meget som muligt, at indntte Alt ester cen eller dog muligst faa Maalestokke, da Ovcrsigten derved betydelig! lettes.
+Ved Tusindcdecls-Maalestottcn ste vi os ogsaa i Stand til at bestemme Etsrrelsen af Vinkler ved Hjcrlp af deles Chorder, eller omvendt  assatte en Vinke! af et givel Gradetal. Vi bruge hertil en Choide-Tabel, som indeholder for hvert Minut, eller for hvctt
+tiende Minut, Langden af Churder for Radius liig 1 eller liig 1000; ville vi udmaale  en Vinkel, f. ssx. da bestrive vi fra dens Toppunct  &lt;H med en Nadius, liig 1000 Dele af Maalcstokken, en Ciikelbue og udmaale Chordcn lader os antage, at denne sindcs just ligestor med B^3, saa eftcrste vi i vor Tabel, hvilken Vinkel, fur en Radius liig 1000, har saa stor en Chorde, og vi finde
+6 denne der liig 49° 50'. Om
+vendt havde vi kunnet afscette en Vinkel af et vist Gradetal. ved at beskrive  fra dens Toppunct med Radius Ing 1000 en Cnkelbue, og med en Chordc, svarende i Tabellen til Vinklen, afstcrre en Bue, der da vil have det forlangte Antal Grader, og altsoa vil Vinklen have samme Antal Grader. Chordetabellen bchover kun at verre udregnct fra lU' til 10', da Chorderne, cftersom de forandre sig, for et saadant Vtellemrum, kun 2 til 3, lade sig udregne for de mellemliggcnde Minuter. Til en stump Vinkel bliver det rigligst at tagc den spidse Nabovinkel, da denne lettere lader sig bestemme, hvorfor og Chordetabellen fra 9U° til 180" taalci den Indskrcrnkning, at Chordernc anscrttcs kun for de enkelte Grader. Hele Tabellen kan saaledes indeholdes beqvemt paa to Blade. Den er aftrykt bag i Bogen efter Ursins storrc Logarithmer.
+Man har stundom paa det ene Becn af Propoitionalcnklen, eller paa en scrrskilt Maalcstok, assat Chordcrne, hvorved den saakaldte retlincde  Transportsr er dannet. Imidlertid, da Chordevnes Forandringer  ikke ere sig selv lige, d, c. Chordcrne ikke tiltage som Buerne, kan dette Instrument ikke inddcles som Tusindedeels-^laalestokken, og bliver ogsaa derfor unsiagtigerc, end den forhen beskrevne Maade. Selv den sedvanlige Transporter, der dog, hvis den Radins ikke stal verre scerdeles stor, eller Instrumentet have en scrregen liidictning, nappe vil kunne inddeles finere end til vil, foruden at den er bckostelig. ikke staffe saa stor Nsiagtighcd, som Chordetabellen og Tusindedecls-Maalcstokken.
+88. Llrres. Ligedannede Mangekanter deles ved eensliggendeDiagonaler iligedannede Trekanter.
+Bev. Mangekanterne vcere og adccle. Drages deri Diagonalerne og ao, og a&lt;3, saa er &lt;x&gt; ado,
+thi L-^d og :ad LO : do; fslgeligen LO^. doa og I^o : de - : 3.0; da nu saa, hvis vi fradrage LO^. doa, er /^ «,«6; tillige NO : de^- OD : «6, og, som vi ovenfor have sundet, LO : do
+- : ao, altsaa 01) : 06 : l^o, folgeligen /X 206; saaledes kan fremdeles om alle Trekanterne bevises, at de ere ligedannede. «
+89. Llrres. To ligedannede Mangekanters Omtrcrk  (Perimetre 9: alle deres Sider tilsammenlagte) forholde sig til hinanden, som to eensliggende Sider.
+Bev. :ad LO : do, eller :VO ad : do; altsaa -s- LO :LO-^ ad do : do, eller &gt;LO
+atter danne -^ LO -^- OD :ab-^de -^ 06 OD : 06. Ved fremdeles at fortscette disse Slutninger, ville vi erholde samme Forhold imellem Summen af alle Siderne eller Perimetrene  af begge Mangekanter, som imellem to eensliggende Sider.
+90. Lceres. Omtrcekkene af to regelrette Mangekanter,  som have lige mange Sider, forholde sig som Mangekanternes stsrste Radier
+Vev. Have vi to regelrette Femkanter og i samme drage de to swrste Radier NO og OD, so og 06, saa er /XNOO 02 ee6, efterdi OND -- z M. V. (Mangekants - Vinkel) -^ ee6, ligeledes OON -^ o6s, altsaa NO :eo- ON : 6s; men Omtrcekkene forholde sig som to eensliggende Sider, altsaa som VN:66, og fslgeligen, paa Grund af Proftortionen,'  ogsaa som NO :eo 3 : som de største Radier.
+Till. Hvor mange Sider vi end give Mangekanterne, naar blot begge have lige mange, gjcelder Scetningen; men, jo flere Sider de have, desto mere ncerme de sig til de omskrevne  Cirkler; have de uendeligen mange Sider, da falde de sammen med Cirklerne; deres Omtrcek blive altsaa Cirkellinierne,  og saaledes er det en Fslge af den beviiste Scetning, at to Cirkellinier forholder sig som deres Radier, eller ogsaa som deres Tvcerlinier.
+Uisms Geometri, 7oe Oplag. &lt;
+Itt) Netlinede Figurers Udmaaling.
+91. Som Maal for Flader anvende vi en Flade; vi bruge dertil Qvadratet. Ligesom Foden antages som Hoved-Lcengdemaalet, saaledes antages Qvadratfoden eller et Qvadrat, hvis Sidelinie er en Fod, som Hoved-Flademaalet.  Dele vi Grundlinien af en saadan Qvadratfod i sine tolv Tommer, saa indsee vi, at Qvadratet lader sig dele i 12 Tommer, hvis Orundlimer ere hver 1 Tomme, og hvis Holder ere liig 12 Tommer. Hvert as disse Nectangler lader sig atter dele i 12 Qvadrater, som blive 1 Tomme paa hver Kant og derfor kaldes Qvadrattommer. Altsaa er en Qvadratfod 12 X 12 - 144 Qvadrattommer; ligeledes er Qvadrattommen 144 Qvad ratlinier. Ville vi bruge Roder, da er en Qvadratrode liig 144 Qvadratfod.
+Qvadratmaal beregnes kort ved at scette, foruden Tegnet for Roden, Fod, Tomme, Linie, endnu s^j; saaledes lcrse vi.
+73" 47' 13^" .... 73 Roder 47 Fod 13 Tommer Qvadratmaal.
+, Ville vi anvende Maalet Alen, da er een Qvadratalen 4 Qvadratfod eller 576 Qvadrattommer.
+Mindre hyppigt anvendes Tideelsmaalet; af dette gaae 100 af det mindre Maal paa een af det sterre.
+Andre Landcs Qvadratmaal cr, likesom Lcrngdcmaalct, forstMigt fra dct danske Qvadratmaal.
+92. Lceres. Gt Rectangel udmaales, naar dets to Sider udmaales med Maale-Qvadratets Sidelinie, og disse, uotrykte i Tal, derncrst multipliceres  med hinanden.
+Vev. Nectanglet vcere indeholdes nu Sidelinien  af Maalet 5 Gange i Siden saa indsees, at vi
+C kunne dele i 5 Rectangler,
+der have Hside tilfcrlles med det givne Nectangel og Grundlinic ligestor med det givne
+Qvadratmaals Sidelinie. Indeholdes nu Sidelinien
+af Maalet 3 Gange i
+Siden saa kan hvert af disse Nectangler atter deles i 3 Dele, som blive ligesaa store som Maalet; altsaa indeholdes Maalet 5X^-^-15 Gange i det givne Nectangcl.
+Till. 1. Vi behsve aldeles ikke at have selve Flademaalet;  vi kunne blot tcenke os det givet og udmaale Siderne med det sedvanlige Lcengdemaal.
+Till. 2. Gaacr Lcengdemaalet ei aldeles op i Siderne, da tages mindre Dele af samme, f. Er. Tommer og Limer, og Nectanglet ndregnes da i Qvadrattommer eller Qvadratlinier,  hvilke derncest atter reduceres til hoiere Maal.' F. Er. vi ville antage, at en Side i et Rectangel var 6" 9^", en anden 3" 7'", da have vi
+Till. 3. Have vi Fladeindholdet givet og en Side, da kunne vi, ved at dividere Fladeindholdet med den givne Side, udregne den anden. F. Ex. vi have et Nectangel, hvis Fladeindhold  er 478 Al. 423 Qvadrattommer, den ene Side er 11 Al. 13 Tom.; hvor stor er den anden Side?
+478 Al. 423 lH Tom.
+576
+2868
+11 Al. 13 Tom. 3346 24 2390
+264 423
+13 . 277) 275751 m Tom. (995 M Tom, 277 Tom. 2493
+2645
+2493
+1521
+1385
+136
+Altsaa den anden Side 995 M Tom. eller 41 Al. 11M Tom. eller ncesten 41 Al. liz Tom.
+93. Lwres. Gt Qvadrats Flademdhold findes ved at multiplicere Sidelinien med sig selv eller qvadrere den.
+Bev. Et Qvadrat kan ansees som et Rectangel, hvori begge Sider ere ligestore. F. Er. lad Siden vcere 3' 7" 3'" da have vi
+3 Fod 7 Tom. 3 Lin 519 Lin
+519
+4671
+519
+2595
+269361 I^Lin.
+144) 269361 !D Lin. (1670 Tom. 144 1253 1152
+1016
+1008
+81 Lin.
+144) 1870 Tom. (12 Fod
+144
+430
+288
+142 Tom
+Altsaa det ssgte Qvadrat 12 Fod 142 Tom. 81 Lin.
+Qvadratmaal.
+Till. Skal Sidelinien sindes i et Qvadrat, hvis Indhold  er givet, da maa Qvadratroden uddrages af samme, efter at Alt er reduceret til sin mindste Benevnelse. F. Er. Vi have et Qvadrat, hvis Flademdhold er 1263 Alen 121 Tommer Qvadratmaal. Vi maae her fsrst reducere Alt t:l
+mindste Navn altsaa
+1263
+576
+7578
+8841
+6315
+121
+727609 HH Tommer
+Heraf uddrages Qvadratroden:
+eller 35 Al. 13 Tom.
+(165) 825
+5109
+(1703)
+5109
+0
+For dcm, der ikke kjende ncermere Udregningcn af Qvadratioden, tilssie vi cndnu sslgendc Negler for sammes Uddragning.
+Det givnc Tal deles i Classer fra Hsire til Venstre, to Chiffre i hver Classe; fsrste Classe kan kave cct eller to Chiffre. Det ncrrmcste  Qvadrattal, d. e. et saadant Ta&gt;, der er fremkommet ved at multiplicere  et Tal med sig felu, f. Ex. her BXB — 64. drages fra fsrste Classe. Roden heraf eller 8 er det fsrste Ciffer; til Resten nedflyttcs ncrste Classe, og det Dobbelte af det fundne Tal (16) hcnfcrttes under for c Ciffer af den ncdflyttcdc Classe; vi underssge, hvor ofle dette Tal indeholdeS i det Ovcnstaacnde, hvilket er 5 Gange; 5 bliver da det andet Ciffer. og henscettes tillige ved Eiden af 16, 165 multiplicercs med 5. og det Udkomnc 825 drages fra 876; til Resten 51 ncdfiyltcs ncestc Classe 09. og det HM'clte af det Fundne. eller 170, hcnsattcs med sidste Ciffer under det fsrste af den nedfly-ttede Classe; vi finde, at det heri indeholdes 3 Gange; 3 bliver saalcdcs det tredie Ciffer og henscrtlcs tillige ved Siden af 170; det Hele multiplicercs med 3 og fradrages. Havde vi haut flere Masser, da var Regningen fortsat paa den nceunte Maade.
+Hvis Regningen ikke var gaaet op, men vi vilde have bestemt Sidelinicn  i mindre Maal, maatte man, inden Roden uddroges, forvandle Qvadratindholdct til mindre Maal. forsaavidt man ikke vilde anvende Dccimlllrcgning.
+Om Qvadratroden see iovrigt Arithmctiken § 69 og fslg.
+94. Lwres. Et Parallelogram udmaales ved at multiplicere Grundlinien med Hsiden.
+Vev. Parallelogrammet er liigt et Rectangel paa samme Grundlinie og imellem samme Paralleller.
+Till. 1. En Trekant er det Halve af et Parallelogram, ber har Grundlinie og Hoide tilfcelles med samme, altsaa udmaales  den ved at tåge det Halve af Grundlinien Gange Heiden.
+Till. 2. En Mangekant udmaales ved at dele den med Diagonaler i Trekanter, og udmaale disse hver for sig. Udmaalingen
+foretagesbedst, idet vi betragte en Diagonal som fcrlles Grundlinie for to hosliggende Trekanter. F. Ex. stulle vi udregne Serkanten da ville vi ansee som Grundlinie for Trekanterne^LOog^(Dl);ligeledes  ledes l^D for SYN og ?VO. Nu udregne vi og tilsammen saaledes:
+iv
+Hsiden af /X eller VI.
+107 Fod
+/X^cv eller DX
+122
+Begge Hoider Heraf det Halve
+229
+li4z — 219  — 
+Grundlinien
+25075 z Fod.
+Ligeledes
+Heiden af /X I^cv eller OK
+128 Fod
+/X SI)N eller NN
+&lt;&gt;«
+224
+Det Halve af begge
+112
+Den fcelles Grundlinie I'!)
+226
+25312 Hj Fod .  .  5038?  z  m  Fod. 
+Altsaa hele Sextanten
+Till. 3. Have vi et Parallel- Trapezium eller en Fiirkant, i hvilken to modstaaende Sider ere ligelsbende, da udregne vi det, ved at tåge det Halve af Summen af de ligelsbende  Sider og multiplicere dette med Afstanden mellem samme.
+Erossaaledes^LDO
+givet, saa deles det vev Diagonalen OL i to Trekanter  og OLD; i begge er Heiden ligestor, ncemlig LN. Vi regne
+altsaa saaledes:
+vcere . 1 Tom, 10 Lin.
+OD 2 — 11 —
+Snmmen ... 4 Tom. 9 Lin.
+Deraf det Halve 2 Tom. 4^ Lin.
+eller 28^ Lin.
+Heiden VN . . 1 Tom. 5^ Lin. eller 17^ Lin
+Altsaa 498^ l^ Lin.
+eller .... 3 Tom. 66^ 11l Lin.
+95. Lceres. En regelret Mangekant udmaales ved at multiplicere dens Omtrcek med det Halve af dens mindste Radius.
+Bev. Mangekanten lader sig ved stsrste Radier dele i saa
+mange Trekanter, som den har Sider, hvilke alle ere ligestore ; altsaa bliver f. Er. Mangekanten ligestor med Trekanten  OVN, tågen 5 Gange; men, forlcenge vi VN og afscette VN -— NH -- HU o. s. v., bliver saaledes VX -'5 VN eller liig Mangekantens Omtrcek. Drage vi Linierne OH, OH, 01 og 015, saa opstaae 5 Trekanter, der ere ligestore, eftersom de have ligestore Grundlinier og samme Hside, ncemlig ON, altsaa hele Trekanten OVX^S OVN; men Mangekanten er vhsaa -- 5 OVN ; altsaa er den liig Trekanten OVIS. Men, da denne udmaales ved at multiplicere dens Grundlinie VIS, som er liig Mangekantens Omtrcek, med det Halve as dens Hside ON, som er Mangekantens, mindste Radius, saa findes ogsaa Mangekantens Fladeindhold ved ligeledes at multiplicere dens Omtrcek med det Halve as dens mindste Radius.
+Till. Vi kunne forestille os Cirkelfladen som en Mangekant  as «endeligen mange Sider; dens Fladeindhold vil altsaa findes, ved at multiplicere en saadan Mangekants Omtrcek, hvilket  blev Cirkellinien, med det Halve af Mangekantens mindste Radius ; men den mindste og den stsrste Radius ville falde sammen, eller blive ligestore, naar Mangekanten har «endeligen mange Sider; fslgeligen maae vi her, da vi betragte Cirklen som en Mangekant, ansee Cirklens Radius som denne Mangekants  mindste Radius, og saaledes ville vi indsee, at Fladeindholdet  af Cirklen (dens Areal) vil findes, naar Cirkellinien multipliceres med den halve Radius.
+II) Girklens Udmaaling.
+96. Da Cirkellinier forholde sig til hinanden, som deres Tvcerlinier, saa, hvis vi blot for een Cirkel vidste, hvorledes Tvcerlinien forholdt sig til Cirkellinien, vilde vi vide dette for alle. Dette Forhold lader sig ei noiagtigen bestemme ; men, ved
+at betragte Cirklen som en Mangekant af overmaade mange Sider,  har man sundet, at det vil vcere omtrent, som 7 : 22, eller endnu iwiagtigere, som 113 : 355, d. e. Cirkellinien er omtrent 3^, eller, endnu nsiagtigere, 3^^ af Tvcerlinien.
+Ved at tåge dette sidste Forhold 113 : 355, ville vi have al den Nsiagtighed, som nogensinde kan vcere fornsden i de Anvendelser, vi kunne gjsre i Kunster og Haandvcerker, og vi ville derfor isoer betjene os deraf. Imidlertid vil selv Forholdet 7 : 22 i mange Tilfcelde give et tilstrcekkeligen nsiagtigt Resultat.
+Vi ville altsaa, naar en Cirkellinie er given, kunne beregne sammes Tvcerlinie, og omvendt af Tvcerlinien ligeledes Cirkellinien,  ved at opscette et scedvanligt Negula-Detri-Stykke. F. Er. hvor stor er Cirkellinien, naar Tvcerlinien er 6 Tom. 9 Linier?
+113 — 6 Tom. 9Lin. — 355
+(6^ 6^ (3^ 2130 Tom
+177 — 6 Lin.
+88 — 9 —
+113) 2396 Tom. 3 Lin.
+21 Tom. 2K Lin.
+Omvendt havde vi en Cirkellinie, der var 443 Al., hvor stor var da Tvcerlinien?
+355 — 443 Al. — 113
+113
+1329
+443
+443
+355) 50059 Al
+141 Al
+355 -^&gt;-'IU-
+Havde Radius vceret given, da havde vi multipliceret
+fsrst med 2, for at faae Tvcerlinien, og derncest beregnet Cirkellinien. Havde Cirkellinien vceret given, og vi skulde have sundet Radius, da havde vi fsrst udregnet Tvcerlinien og
+derncest dividevet den med 2.
+Skulle vi udregue en Bue af et vist Antal Grader, Minuter
+og Secunder, da maae vi fsrst udregne Cirkellinien og
+derncest ovswtte følgende Negula-Detri-Stykke. 360" — Cirkellinien — Buens Grader.
+F. Ex. hvor stor er en Bue as 107 Gr. 36 Min. for en Radius
+liig 15 Al.?
+Radius 15'Al.
+Tvcerlinien 30 —
+355
+113) 10650
+94^ Alen.
+eller 28 Al. 4 Tom. omtrent.
+97. Cirklens Fladeindhold findes ved at multiplicere Cirkellinien med det Halve af Radius eller en Fjerdedeel af Tvcerlinien. Da nu Cirkellinien er Tvcerlinien X saa skulle vi mnltiplicere af Tvcerliniens Qvadrat med eller Tvcerliniens Qvadrat med eller ogsaa Cirkelfladen forholder  sig til Tvcerliniens Qvadrat, som 355 : 452. Hvor ei den
+betydelige Noiagtighed, som disse to Tal give, absolut krceves,
+kan det simplere Forhold 11 : 14, som svarer til det cmfsrte 7: 22 gjerne anvendes. Det giver ncesten stedse al den Nsiagtighed,  som krceves i Kunster og Haandvcerker ; et tredie Forhold,  der ligger imellem de to ncevnte, er 172 : 219.
+Expl. Vi ville beregne Indholdet af en Cirkel, hvis
+Tvcerlinie er 14 Al.; vi regne da
+Tvcerlinien ........ 14 Al,
+14
+Tvcerliniens Qvadrat . . 196 Al. 452 — 196 Al. — 355
+113 49 49
+3195
+1420
+113) 17395 &gt;H Al,
+153 Al. 540^!^ Tom.
+Havde vi anvendt Forholdet 11:14, da havde vi sundet Cirkelfladen lidet stsrre, ncemlig just 154 Al.
+Var Cirklens Indhold givet, da havde vi gjort en modsat  Regning, ncemlig sagt: 355 giver Cirkelfladen, Hvad4s2? Saaledes håves Tvcerliniens Qvadrat; uddrages heraf Qvadratroden,  da finde vi tvcerlinien selv. F. Ex.
+Cirkelfladen vcere .. . 1 Fod 134 Tom. 83 Lin.
+altsaa 355 — 40115 Lin. — 452
+452
+80230 200575
+160460
+355) 18131980
+Tvcerliniens Qvadrat 51076^ Lin.
+Uddrages heraf Qvadratroden, da er den 226 Lin., altsaa  Tvcerlinien 1 Fod 6 Tom. 10 Lin.
+Vi ville ogsaa kunne udregne en Cirkel-Sector eller et Udsnit, naar vi kjende Graderne af Udsnittets Bue og tillige Cirklens Radius eller Tvcerlinie; thi, da hele Cirkellinien indeholder  360", maa ogsaa Cirkelfladen forholde sig til Cirkeludsnittet,  som 360" forholde sig til Buens Grader. Vi scette altsaa et scedvanligt Regula-Detri-Stykke op saaledes:
+360" — Cirklen — Buens Grader. Svaret bliver da Udsnittets Fladeindhold.
+Gxempel. Vi ville udregne Udsnittet af en Cirkel, hvis Radius er 5 Fod, og hvor Udsnittets Bue er 13 Gr. 48 Min.
+Tvcerlinien er 10 Fod, dens Qvadrat 100 HH Fod.
+452 — 100 s^ Fod — 355
+355
+452) 35500
+19M 287 3M 419
+360) 1083^836
+3^4?^ Fod
+Udrcgningen af ictlincde Figurer og Cirkler er udferligeie afhandlet i Anthmctilen, hvor decls adskillige scercgne forkortende Rcgmngsrcglci ere fremsatte, deels de Vogstavformler, hvorefter Regningen ssrcs.
+12) Figurers Forvandling.
+98. At forvandle en Figur er at frembringe en anden dermed ligestor, af en ovgiven Skikkelse.
+99. Opg. At forvandle et Parallelogram til et andet med en given Vinkel.
+D 5 N Dpl' Parallelogram-
+met vcere den givne Vinkel in afscettes ved Grundlinien ligestor med N^L; 00 forlcen-
+8 ges, og vi drage I? 2
+nu er det forlangte Parallelogram. Vev. Parallelogrammerne og staae imellem
+samme Paralleller og paa samme Grundlinie altsaa er tillige sindes i Parallelogrammet den forlangte  Vinkel in- N^L.
+Till. Paa samme Maade forvandles en Trekant til en anden med en given Vinkel.
+100. Dpg. At forvandle en Trekant til
+et Parallelogram
+Dpi. Trekanten vcere Grundlinien halveres; fra Deliugspunctet  I) drages en Linie DN og ligeledes igjennem L Linien LN -^ ; saaledes opstaaer Parallelogrammet
+/X^.LO.
+Vev. Forlcenge vi LV og drage Ol , da opstaaer  Parallelogrammet og ligeledes v?; men^.N-v^
+eftersom deres Grundlinier og DO ere ligestore, og Heiden er i begge den samme ; altsaa DI? - - ; ligeledes da LO er Diagonal i Parallelogrammet er /X z ; folgeligen - /X
+Till. Var en Vinkel given, da havde vi afsat denne ved og saaledes frembragt et Parallelogram med en given Vinkel, ligestort med Trekanten.
+1l)1. Dpg. At forvandle et Parallelogram tit
+et
+med en given Side
+andet
+Side a; forlceng Grund/  -/ ? lien og afscet paa / / densForlwngelseLN^a; / / / igjennem N drag I^X / -^— /N LO ; forlceng Limen DO ; / / drag i Parallelogrammet —^ , ON en Diagonal Ll' og
+forlceng denne, til den fkce-
+rer den forlcengede i
+(--; igjennem (3- drag QX og forlceng OL til H: nu er LX det forlangte Parallelogram.
+Bev. Det hele Parallelogram VX er ved Diagonalen ?Q deelt ito ligestore Trekanter, ncemlig Ovl' 6-^X; ligeledes er Parallelogrammet ON deelt ved L?, eller /X LON -LNN; altsaa, hvis vi fradrage, er Trapeziet DOL6-(3-LNX;  men ogsaa i Parallelogrammet er dragen en Diagonal, altsaa OLU ; folgeligen, hvis vi' drage disse fra Trapczierne, er Parallelogrammet DL LI(.
+Till. 1. Var tillige en Vinkel given, da havde vi ogsaa  kunnet enten strax eller tilsidst forandre Parallelogrammet til
+et andet med den givne Vinkel og saaledes forvandle et Parallelogram  til et andet med en given Side og given Vinkel.
+Till. 2. En Trekant kan ligeledes forvandles til et Parallelogram med en given Side og en given Vinkel, ved fsrst at forvandle den til et Parallelogram, og dette atter til et andet med given Side og given Vinkel.
+102. Dpg. At forvandle et Rectangel til
+et Qvadrat.
+Opi. Rectanglet vcere Vi forlcenge og afscette paa Forlengelsen  LV^LO, beskrive  fra Midten af en Halvcirkel og opreise derpaa lodret fra L Linien
+LN ; Qvadratet, som tegnes herpaa, ncemlig LM, er det sogte Qvadrat.
+Bev. Vi indsee, at LN er en Mellemproportional- Stsrrelse mellem eftersom den just er ssgt paa den forhen anfsrte Maade. Altsaa
+: LN - LV : Lv
+Men, da vi for at finde Rectanglens Indhold tåge X saa ville vi indsee, at, hvis vi formindfke den ene Side et vist Antal Gange, men derimod formere den anden Side ligesaa mange Gange, blev Fladeindholdet uforandret. Nu er, ifslge Ovenstaaende, ligesaa mange Gange stsrre end LN, som denne atter er storre end LO, altsaa, hvis vi tage LN X^, eller Indholdet af det Nectangel eller det Qvadrat, hvori Siderne  ere LN, have vi en siirsidet retvinklet Figur, hvis en
+Side LN er saa mange Gange mindre end som den anden Side, ncemlig ogsaa LN, er sterre end LO; altsaa er denne siirsidcde Figur just saa stor, som det givne Rectangel, eller LM^-^O.
+103. Dpg. At forvandle en fiirsidet Figur
+til en trekantet.
+Dpl. Figuren vcere Vi drage Diagonalen Lv, trcekke gjennem 0 Linien ON Lv, forlcenge  til N og drage LU; nu er /X -
+Bcv. Vetragte vi de to Trekanter  LON og LOV , da have disse samme Grundlinie Lv og staae imellem  samme Paralleller, altsaa /X LI)N
+scette vi altsaa den fsrste Trekant i , Stedet for den anden, da have vi /X -
+Tlll. I. Vi kunne, paa Grund heraf, forvandle en Figur^ af hvilketsomhelst Antal Sider til en Trekant. Antage vi f. Er. at vi have en Syvkant, da forvandles den vaa lignende Maade til en Serka^t, denne atter til en Femkant, dernoest til en Fiirkant, og tilsidst til en Trekant,.
+Till. 2. Trekanten kan atter forvandles til et Parallelogram  med en given Vinkel; vcelge vi en ret Vinkel, da bliver dette et Nectangel, der atter, i Fslge det Foregaaende, kan forvandles til et Qvadrat.
+Vi kunne altsaa geomctriskt qvadrerc enhver retlinct Figur, d. c. ved Hjalp af Passer og Lineal sinde et kvadrat, der er ligcsaa stort, som en given retlinct Figur; ihvorvcl vi indscc, at Udfsrelsen i det Practiste vil verre forbunden u,cd Vanskclighcder. Dcrimod vil det umuligt. at si»de vaa en saadan Maade Cirklons Qvadratur, «Nn vid Hicrlv af Lineal og Passer at consirucre et Qvadrat, ligcstort
+Ursins Geometri, 7de Oftlag. - 8
+nred en given Ciikel. Imidlertid hai man altfor ofte mcent, at vcere i Besiddelse af en saadan Construction, og, paa Giund hcraf, ogsaa troet, at kunne angiue det nsiagtige Forhold imellcm Cirklens Tvcrilinie og Cirkellinien. Stundom har denne forgjeves Grandfken ei vcrrct uden Felger for Mathematikcn, da, om end ikke dens egenlige Formåa! er opnaaet, dog flere vigtige Scrtningcr just derved ere opdagede; men langt hyppigere have Mennesker uden Foikundstaber hcngivet sig til samme, og da er deres Talent, om de ciede noget, gaaet aldeles til Grunde, eller ogsaa have de, ideligen sysselsatte med et forfcrngcligt Hjernespind, forspildt  deres Tid og tilintetgjort deres borgerlige Aktelse og Tilvcrrclse, medcns de higede ester den videnstabclige Hccder og Udsdclighed, der vistnok  paa denne Vei ingcnsinde, vil blive Nogcn til Dcel. Hvormcgct Forgcengcrers mislykkede Forssg endog maae synes at afskrcekke, frcmstaae dog stcdse nye Cirkel-Qvadratorer; ogsaa vi have eiet to, hvis Skrifter dog altfor tydeligen vidne om, at de aldeles vare blottcde for mathcmatiske Forkundstaber.
+11. Stereometri.
+1) Planers og Liniers Hceldning.
+104. «&lt;^e Storrelser, vi hidtil have betragtet, vare alle i samme Plan og henhsrte derfor til Planimetrien. Betragte vi derimod Størrelser i Rummet, eller de Stsrrelser,  som ikke kunne tcenkes i eet Plan, da henhøre disse til Stereometrien.
+Alle Størrelser, der henlMe til Planimetrien, kunne vi fuldstcendigen fremstille ved Tegning, da denne fkeer paa et Plan (Tegnebrcedtet). Stereometrisie Stsrrelser maae derimod enten forestilles ved Modeller, eller og kunne de fremstilles kun ufuldstcendigen igjennem en Tegning, i det vi tcenke dem henhørte (projicerede) til forskjellige Planer (Grundtegning,  Profil o. s. v.) Vi indsee wvrigt, at ei blot Legemer og deres krumme Overflader, men ogsaa Holdningen af Planer henhsre til Stereometrien, eftersom to eller flere sammenstsdende  Planer ene kunne fremstilles i Rummet. Det bliver nsdvendigt at fremscette nogle Scetninger om Liniers og Planers  Sammenstsdning i Rummet, inden vi gaae over til den egenlige Lcere om Legemerne.
+IVS. Et Plans Beliggenhed er aldeles bestemt ved tre Puncter, som ikke ligge i en ret Lime. Tcenke vi os ncemlig
+fsrst eet Punct, da kunde Planet i enhver Netning lcegges i samme; tcenke vi os to Puncter, da lod Planet sig dreie om den rette Lime imellem samme ; et tredie Punct udenfor denne Lime gjor Planet aldeles fastliggende.
+Fire eller flere Puncter ligge ikke stedse i eet Plan; derfor  rokker et Bord paa fire Veen ofte, medens et paa tre Veen  staaer  fast. 
+1l)6. Ligger en Deel af en ret Linie i et Plan, da ligger hele Linien i Planet; thi, hvis itke, maatte Limen kunne forlcenges faavel i Planet, som udenfor samme. Vegge disse Limer vilde nu ' fkcere hinanden i det hele Stikke, de havde tilfcelles; men dette er umuligt, eftersom rette Linier ikkun i eet Punct fkcere hinanden.
+107. To Planers Overskceringslinie er stedse en ret Linie; thi, antages den at vcere krum, maatte det stedse vcere muligt i samme at vcelge to Puncter og nu imellem disse i hvert Plan at drage en ret Linie; saaledes maatte da den Urimelighed antages, at to rette Linier havde to Puncter tilfcelles,  uden aldeles at falde fammen.
+108. Lwres. Dreier en ret Vinkel sig om sit ene Veen, vil det andet beskrive et Plan.
+0 Bev. Vi ville an-
+tage, at den rette Vinkel
+bevcegede sig om LO, saa at LO blev fast/  X / liggende, da maa be-
+/ V^ / skrive et Plan; thi, hvis X """ / ikke, maatte det stedse vcere
+X, / muligt, at lcegge et Plan /li  ?1i  igjennem  og  en 
+anden Stilling af samme, f. Er. LII; faldt nu i Stil-
+lingen LO, ikke i Planet ?li, men neden under, da ville vi kunne tcenke os Linierne LI7, LO alle dreiede i deres indbyrdes Stilling om LO, saa at LII falder i Forlengelsen af samme eller i Lli, og ligeledes kan bringes i For-&gt; lcengelsen og LO vil ogsaa her falde under Planet i LO; isvrigt vil LO ligge i samme Plan, som 0, L og O; men, da nu OLO-^li, er ligeledes OLO-R, altsaa OLO-^OLO- 2N; disse stulle vcere Nabovinkler, eller OLO vcere en ret Linie; men dette er umuligt; thi, da Punctet  L laae i Planet I^li, maatte Forlcengelsen af LO, eftersom  denne selv gik under Planet ?li, gaae ovenfor samme. Vi nodes altsaa til at erkjende, eftersom vi ei heller kunne antage, at LO gaacr ovenfor ?It, at LO falder i Pl. ?R, og at fremdeles Benet i enhver Stilling forbliver i Planet  ?li, der er bestemt ved de to Linier og LH, eller ut dette Veen beskriver et Plan.
+Till. 1. En saadan Linie LO siges at staae lodret paa Planet ?k. Af det fsrte Beviis indsees, at det er tilstrcekkeligt at underssge, om den staaer lodret paa to Limer og LII, estersom den da staaer lodret paa hele Planet.
+Till. 2. Udspringe fra eet Punct af en Linie flere lodrcttc Linier, da ligge alle disse i samme .Plan.
+Till. 3. Vi kunne opreise et Plan lodret til en Linie, ved fra eet Punct i samme at lade udspringe to forskjellige lodrette Linier og lcegge et Plan gjennem disse.
+Vilde vi saalcdcs undcrssgc, om cl Plan var vandret eller et saadant, hvorpaa i^odlinim var lodrct, saa anbragte vi blot Watcrpassct  eller Vandrcttcrcn i to Retninger, og helst, for at Feilen kunde vise sig tydeligst, i to paa.hinanden omtrent lodretle Retninger.
+199. Llrres. Staae to Linier lodrette paa samme Plan, da ere disse ligelsbende.
+LO og ligeledes i Planet ON LO; vi gjoreON , drage Linierne og LN og Linien ; nu dcekke de to Tre-
+kanter LON og af hvilke den fsrste ligger i Planet VX, hinanden ; thi ON og LO - LO, K, eftersom  _l_ Planet VX, og LON - k, folgeligen LON. Da Trekanterne dcekke hinanden, er^O^-LN; endvidere  dcekke ogsaa Trekanterne vg hinanden, da - ON, - LN og altsaa ; men folgeligen eller ON _I_ endvidere er ON^LO, og, da OID Planet VX, ON _l_ d!v, altsaa udspringe fra eet Punct af ON tre lodrette Linier, hvilke alle ligge i eet Plan, eller &lt;DO ligger i det Plan, hvori LO og og solgeligen ogsaa findes. Vi have saaledes i eet Plan de to Linier og 00, hvilke overstceres af samme tredie .LO, og ved hvilke de to indvendige Vinkler, og LOO, tilsammen udgjsre 2 L, altsaa 00.
+110. Laeres. Gre to Linier ligelssbende, og den ene staaer lodret paa et Plan, er den anden det ogsaa.
+Bev. Er Planet VX og OD , saa drage vi, ligesom forhen, LO, derpaa ON _I_ LO, gjere ON -^ drage LN, og Nu er /X LON, altsaa LN-^V; heraf, da tillige og - altsaa /^ -^- men da _^ Planet VX, altsaa
+er DO altsaa ON _1_ 00, eller omvendt  DO ON ; tillige 'er OO LO , eftersom LOO 2 li,
+og 11,, altsaa, da DO staaer lodret baade paa ON og LO, er OO _^ Planet VX.
+Begge forcgaacnde Scrtninger anvcndcs i det Praktiske; drage vi fieie lodicttc Liiucr paa samme Plan, f. Ex. stille alle Hjsrncrnc af en Bygning nsic lodrette paa et vandret Plan, da vide vi, at disse Linier ere ligelsbendc; og, haiic vi siere Linicr ligclobcnde og vide, at blot een staaer lodret. da ere de alle lodrette.
+111. Opg. Fra et Punct udenfor et Plan at fcelde en lodret Lime ned paa Planet.
+Opl. Punctet vcere
+; i Planet UN drages en Linie LO aldeles vilkaarligt,  og ned paa denne fceldes lodret; staaer nu tillige _^_ Planet ZIN, da er Opgaven lsst : hvis ikke, drag, i Planet
+UN, ON L&lt;D og fceld
+_!_ ON, saa er den forlangte lodrette Linie. Bev. Drages gjennem N Limen XL LO, saa er
+eftersom /_NVO-N, altsaa Nl&gt; _I^ ON ; endvidere , da OO _1_ Planet eftersom OO og OO _l_ ON , og tillige I.N VO, er ogsaa NI. _I_ Planet
+altsaa NI. eller _^ NI., tillige er _^ VN, altsaa _I_ Planet
+Till. Skulle vi fra et Punct i et Plan opreise en lodret  Linie, da fcelde vi fsrst en Linie fra et vilkaarligt Punct, og, trceffer denne ikke det givne Punct, drage vi igjennem dette en hermed ligelobende Linie.
+I Almindeligbed forlanges at oprcisc og fcelde Limer lodrette paa et givet vandret Plan. Oplssningcn udfores da let i det Prakiiste ved Loddet.
+112. Lares. Fra et Punct i et Plan kunne ikke flere end een Linie vcere opreist lodret.
+-4 6 Bcv. Antag, at
+baade og kunde
+staae lodrette paa Planet VX; vi vilde da kunne lcegge et Plan igjennem L, C!, som vilde overstcere  Planet VX i en ret Linie VN; i dette Plan
+vilde paa samme Lime DN udspringe fra eet Punct to lod rette Linier og LO, hvilket er umuttgt.
+113. Llrres. Fra et Punct udenfor et Plan kan ikkun Mdes een lodret Linie ned paa Planet.
+Bev. Hvis vi an-
+tåge, at baade og stode lodrette paa Planet  VX, vilde vi kunne drage i Planet VX Limen, LO, og havde da en Trekant  men i denne var baade Vinklen ved Log 0 ret, hvilket er umuligt.
+114. En Lime, som ikke staaer lodret paa et Plan^ danner med samme en bestemt Hceldning (Inclination); denne
+bestemmes, naar fra et
+Punct i den givne
+Lime en Lime fceldes lodret ned paa Planet N^, og i dette en Linie drages fra denne lodrette Linies Fodpnnct O indtil Punctet  L; /^ er da Hceldnings-Vinklenaf^L imod Planet Nk'.
+Haldnings-Vinklcn er den mindste Vinkel, som Limen danner med nogensomhelst Lime i Planet; ville vi med Hcrldningsmaalet underssge Linicns Haldning, da kunne vi lcrggc dets ene Veen mod Limen, fore det andet Veen om i Planet, indtil Hceldningsmaalet danner den mindstc Vinkel; forandrer Hcrldningsmaalet sig under sin Omdreining aldeles ilke, da er det et Tegn paa. at Linicn staacr lodret paa Planet.
+115. Holdningen
+imellem to Planer og (^'v bestemmes, ved fra et Punct 5 i deres fcelles Overfkceriugslinie LN at drage en Linie I^l lodret paa samme i Planet og en anden I^,! i Planet OD; er da Hceldnings  - Vinklen af Planerne.
+116. Opg. At stille et Plan lodret paa et andet igjennem en given Lime i Planet.
+Opl. Planet vcere
+?2, Limen OD vcere given  i samme. Fra et Punct i 01) vpreise vi en Lime lodret ; Planet  ON, som nu lcegges igjennem 0 og D, staaer lodrct paa
+Bev. Drage vi i Planet ?2 en Lime LN lodret paa OD, da er Hceldningsvinklcn for Planerne 'rx og ON; men denne er ret, da Planet ?2, altsaa staaer Planet ON Planet
+117. Lwres. Staaer et Plan lodret paa et andet, saa er den Lime, der i det ene Plan drages lodret paa Overskcrringslinien, ogsaa lodret paa det
+andet Plan.
+Bev. Er Planet
+ON ?2 og OD, saa er Planet thi drages LN _^ 01), er^LNHceldningsvinklen, der er ret, eftersom Planerne  staae lodrette paa hinanden; vi have altsaa _^ 01) og VN, altsaa Pl.
+118. Lwres. Staae to Planer lodrette paa et tredie, da er deres Overskceringslinie lodrrt paa dette tredie Plan.
+Bev. Stod Overfkceringslinien af Plancrne OK og NL, der begge ere lodrette paa Planet UN, ikke lodret paa
+samme, saa maatte i Planet  OK en Linie LQ lade sig opreise lodret paa Linien  OD, i Planet UN en anden DH lodret paa N^; men begge Linier vilde da staae lodrette paa Planet NN, hvilket er umuligt, eftersom fra et Punct L kun een Linie  kan opreises lodret paa samme Plan.
+119. To Planer ere ligelsbende (parallelle), naar de, hvor langt de end forlcenges, aldrig lobe sammen.
+120. Loeres. Staaer en ret Linie lodret paa to Planer, da ere disse ligelsbende.
+Bev. Var _1_ Planet NY' og Planet UV, og vi antage, at disse Planer overstcere hinanden i LinieN DO, vilde det vcere muligt i denne Overskceringslinie at vcelge et Punct X, fra hvilket vi kunde i Planet NI? drage den rette Linie i Planet I7V den rette Linie LX; men den Trekant,  som saaledes opstod, ncemlig vilde have to rette Vinkler ved og L, hvilket er umuligt.
+121. Llrres. Ere fra et Plan til et andet tre lodrette Limer fcrldede, der dog ikke ligge i eet og samme Plan, og disse ere ligestore, da ere
+Planerneligelsbende.
+Vev. Vi ville an-
+tåge, at^L, Ov og Nl' staae lodrette paa Planet N^l og ere ligestore. Linierne  og DO ere ligelsbende,  eftersom de begge ere lodrette paa samme Plan; i det Plan som de danne, ere ogsaa de to Limer cg L&lt;D, som forbinde Puncterne
+og I) i Planet ?&lt;), L og d! i Planet ligelobende, eftersom deres to lodrette Afstande og DO ere ligestore; altsaa er Figuren et Parallelogram, og tillige, da /.L^v-li, et Rectangel, altsaa /_^VO^-K, eller &lt;^I)_I_^I); ligeledes godtgjores, at OD _^ ON, altsaa er &lt;^I) lodret paa to Limer i Planet ?H, folgeligen Ov _^ Planet I&gt;(); men, da nu samme Lime OD staaer lodret paa begge Planer, baade ?H og N^l, ere disse ligelobende.
+Disse Scrtnmgcr om ligelobende Planer ere af Vigtighcd; thi oste prove vi, om to Planer cre lisie,sbende, f. Er, Gulvet og Loftet i en Stue. ved at underssge, om begge staae lodreltc paa ccn og samme Lime, ncemlig Lodlinicn; eller ogsaa kunne vi .prove, om tre ncdladte Lodlinier ere ligestore.
+122. Lwres. Gre to Planer ligelobende og begge overstyres af et treoie, da ere Overstceringslinierne  ogsaa ligelsbende.
+Bev. Planerne vcere 0? og HV ; lader os antage,  at de overskceres af Planet N^, da kunne Overskceringslinierne og d!v, hvor langt de end forlcenges, ikke lobe sammen; thi, da og OD ei kunne gaae ud af Planerne 0? ogUV, tilstrcekkeligen  forlcengede, kan deres Sammenswdningspnnct  ene findes,
+hvor Planerne 0? og I7V trceffe sammen, hvilket sidste er umuligt, da vi have antaget, at disse Planer ere ligelsbende.
+Hl 3. Lcrres. Ligelobende Planer staae overalt  lige langt borte fra hinanden.
+Bev. Planerne vcere R 8 og III; antag, at de to Afftande og &lt;^? stode lodrette paa Planet  Ul?, men(^&lt;^L;
+"^? da nu (H^, ester-
+? / som begge staae lodrette
+/ paa Ul', ville de ligge i eet Plan, hvis Overstce-
+-ringslinier med Planerne li.B og III? eller og Vl^ skulde vcere ligelobende, hvilket ei fandt Sted, hvis vi urigtigen havde antaget 0? &lt;&lt;
+124. Lceres. Gre to Limer ligelsbenoe og igjennem samme gaae to Planer, der sterre hinanden,
+da ere disses Overskceringslinie ligelsbende med de
+to Paralleller.
+Bev. Lad os an-
+tåge, at OD; stille vi Planet _^ da er den ene af Parallellerne,  og OD, lodret paa 111, altsaa ogsaa den anden, eller CD Planet  men, paa Grund heraf, ere ogsaa begge
+Planer ?L og ?v , som ere lagte gjennem de to lodrette Limer og OD, lodrette Paa 1?II, og fslgeligen deres Overskceringslinie eller N^ _I_ Planet III; men, da denne er lodret paa Planet 111, og ligeledes begge de andre Limer og OD, saa ere de alle indbyrdes ligelsbende, eller
+-^ Nl' og OD Nl'
+Titt. Gaae flere
+Planer (^^, 1^ og 1^? igjennem saadanne Paralleller ci), N og I^l&gt;s, og alle tillige igjennem eet Punct N, da gaacr tillige deres fcelles Overskceringslinie gjennem  dette Punct, og er li-
+gelsbende med- de givne Paralleller. Betragte vi ncemlig fsrst Planerne og 01?, da maa N ligge i deres Overskceringslime  Nl' og tillige N? og N? OD ; endvidere, hvis vi stille Planet XX _l_ er ogsaa N 5 _I_ Planet X 2, ligesom OD _!_ Planet X 2; betragte vi derncest Planerne 0?
+og Ik', saa maa atter Overstceringslinien gaae igjennem N, tillige  vcere ligelsbende med OD og altsaa lodret paa X 2; men, da kun fra kan fceldes een lodret Linie paa Planet X 2, er Overstceringslinien af Planerne C!? og II? ogsaa N^; altsaa have alle tre Planer den samme Overstceringslinie, og en saadan,  der er ligelsbende med Parallellerne &lt;I!I), I&lt;I; det Samme bevises nu ogsaa om det fjerde Plan ?!..
+125. Lcrres. Stode siere Planer, som gaae igjennem Paralleller, sammen i samme rette Linie, og alle overskcrres af eet Plan saaledes, at Overstyring  slinierne ikke ere ligelsbende, da ville alle disse, forlengede, treffe sammen i eet Punct i dette Plan eller i sammes Forlengelse.
+Bev. Vi ville an-
+tåge, at gjennem de tre Paralleller OD, NY' og (Hli ere lagte Planerne og som alle stpde sammen i Limen og at alle tre Planer  overstyres af?2, men at Overstceringslinierne &lt;IX, 178, VX ikke ere ligelsbende,  da ville disse Limer,  tilstrcekkeligen forlcengede,  lsbe sammen i
+eet Punct I enten i Planet ? 2 eller sammes Forlcengelse Betragte vi fsrst Linierne og 118, da maa disse lsbe sammen i eet Punct i Planet 1^ eller i I; men, da dette Punct findes baade i Planet og i Planet maa det
+ligge i disse Planers Overstceringslinie^L,  Punctet  I ligger saaledes ogsaa i Planet da dette er lagt gjennem men, da I saaledes ligger baade i &gt;4.H og I&gt;^, ligger det, i begge Planers Oversiceringslinie  VX eller i sammes Forlcengelse ; altsaa  gaae alle tre Limer BU,VX, tilstrcekkeligen  forlcengede, igjen-
+nem Punctet I, der ligger i Planet ?^
+Scetningen 124 og 125 ere af soerdeles Vigtighcd for Pcrspectiven  og tjene lil Grundlag for denne; thi ved den fsrste indsce vi, at alle Lini^r, der ere ligclsbende med Billetplanet (Tavlen), vise sig ligelsbcnde paa samme, cftcrsom, naar vi lagde et Plan ligclobcnde med Nl' i 124 Till., dette Plan vilde have Overstcrringslinicr med de andre Planer, hvilke blcve ligelsbende; ved den anden Scetning indsecs,  at alle svrige Paralleller, der danne en Vinkel med Tavlen, ville synes at lsbc sammen i cct Punct paa denne, som bestemmes ved Ovcrstcrringslinien af de Planer, der Icegges gjenncm Parallellcrnc og Biepunctet.
+2) Regelrette Legemer, Prismer og Pyramider.
+126. Et Hjsrne eller en legemlig Vinkel er den Huulning,, som flere Planer, der stsde sammen i eet Punct, danne. Vi kunne ogsaa forestille os den legemlige Vinkel som den, der oftstaaer, naar flere rette Limer stsde sammen i eet Punct, og gjeuucm to og to lcegges Planer.
+Ethvert Legeme, der begrcendses af Planer, har sine HMner, hvilke vi bsr mcerke tilligemed dets Sideflader, ligesom
+vi ved de plane Figurer lcegge Mcerke til Sidelinier og Vinkler.
+Hvis vi af flere plane Vinkler vilde danne et Hjerne, da var dette kun muligt, hvis Vinklerne ikke tilsammen udgjorde 4 li, eller derover; thi allerede alle de Vinkler, som udgjsre tilsammen 4 li, ville just ligge i eet Plan og saaledes intet Hjsrne danne.
+De plane Vinkler, som danne Hjornet, kaldes Hjsrnets Sider ; tre Vinkler krceves i det Mindste, for at et Hjsrne kan dannes, eller af alle Hjorner er det tresidede det simpleste.
+127. Et regelret (regulcert) Legeme .er det, der begrcendses  af retlinede, ligestore, regelrette Figurer. Vi kunne, med Hensyn til de almindelige Egenfkaber ved Hjornet,^ kun have selgende fem regelrette Legemer.
+1) Tetraedret eller det siirsidede Legeme, der begrcrndses  af 4 ligesidede Trekanter. Hjsrnerne ere tresidede, cg altsaa udgjore alle Vinklerne i hvert Hjsrne tilsammen 180".
+2) Okt a e dr et, det ottesidede Legeme; det begroendses af 8 ligesidede Trekanter. Hjsrnerne ere siirsidede, og altsaa udgjsre alle Vinklerne i hvert Hjerne 240".
+3) Ikosaedret eller det tyvesidede Legeme ; det begrcendses  af 20 ligesidede Trekanter. Hjsrnerne ere femsidede, og Summen af alle Vinklerne i hvert Hjerne er 300".
+4) Heraedret, det sersidede Legeme, som ogsaa kaldes Kubus eller Tcerning: det begroendses af 6 Qvadrater; dets Hjsrner ere tresidede, og Summen af alle Vinklerne i hvert Hjorne er 270°.
+5) Dodekaedret, det tolvsidede Legeme; det begrcendses af 12 regelrette Femkanter. Hjornerne ere tresidede, og Summen  af alle Vinklerne i hvert Hjorne 324".
+Der kunne ikke tceukes flere regelrette Legemer, end oveu-
+Uisius Geometri, 7oe Oplag. 9
+
+ncevnte; thi, vilde vi danne Hjsrner af Trekanter, da udgjorde  6 sammenstsdende Vinkler af ligesidede Trekanter tilsammen  360", altsaa kan intet sersidet, ei heller noget syvsidet 0.,5. v. Hjsrne dannes af ligesidede Trekanter. Vinklerne af 4 Qvadrater, som skulde stsde sammen i eet Hjorne, vilde ligeledes vcere 4 li; altsaa kan intet andet regelret Legeme begrceudses af Qvadrc-.ter, end Kubns. Et Hjorne af fire regelrette Femkanter, eller af 4 hvilkesomhelst regelrette Mangekanter  af flere Sider, er ligeledes umuligt, da saadanne 4 Mangekants-Vinkler tilsammen vilde vcere mere end 4 li. Af regelrette Sextanter kan intet regelret Legeme begrcendses; thi een Serkant-Vinkel er 120", tre tilsammen 360°; ligesaa umuligt var det at begrcendse Legemer med andre regelrette Mangekanter af end flere Sider.
+128. Et Prisme er et Legeme, der begrcendses af to ligelobende Planer, der ere retlinede Plan- Figurer, som dcekke hinanden, og hvis tilsvarende Sider ere forenede med Parallelogrammer.  De to ligelobende retlinede Plan-Figurer kaldes Prismets Grundflader; og, eftersom disse ere Trekanter, Fiirkanter, Femkanter o. s. v., kaldes Prismet tresidet, siirsidet,  femsidet o. s. v.
+De Linier, i hvilke Sidefladerne stode sammen, kaldes Prismets Kanter; staae Kanterne lodrette daa Grundfladen, er Prismet ret, ellers er det skjevt.
+Ere Grundfladerne af et fiirsidet Prisme Parallelogrammer,  da kaldes Prismet et Parallelepipedon; vi iudsee, at i et saadant Parallelepipedon kunne to hvilkesomhelst modstaaende  Sideflader betragtes som Grundflader.
+Saaledes er Heraedret et Parallelepipedon, og tillige, da dets Kanter staae lodrette, et ret Parallelepipedon.
+
+129. Lcrres. Parallelepipeder, der staae paa samme Grundflader, imellem samme ligelsbende Planer, ere ligestore.
+Bev. Ved at dele det ene Parallelepipedon N? ved Snit ligelsbende med Grundfladen, i en Mcrngde tynde Parallelepipeder,  saasom ville vi indsee, at vi af samme Dele kunne danne^ det andet Parallelepipedon T? paa det Noermeste, naar de forfkodes over hinanden i en passende fkraa Retning ; thi Hoiderne forblive, da alle Tykkelser i Lagene blive lagte sammen, de samme; knn vilde Legemets Sideflader i det ene Parallelepipedon ikke danne sammenhengende Planer; dog, antage  vi Lagene uendeligen tynde, da ville Ujcevnhederne bortfalde eller Sidefladerne dannes, og saaledes ville vi indsee, at det ene Parallelepipedon kunde tcenkes just sammensat, af samme Lag, som det andet, og fslgeligen begge, der staae paa samme Gruudflader imellem Planerne VN og "552, vcere ligestore.
+Till. 1. Setningen gjcelder i Almindelighed om alle Prismer, der staae paa samme Grundflader imellem ligelsbende  Planer.
+Till. 2. Ogsaa kan den udstrcekkes til Prismer, der staae paa ligestore Grundflader imellem samme ligelobende Planer; kun da kunne vi ikke tcenke os Prismerne sammensatte  af samme, men af ligestore Lag.
+Till. 3. To Prismer ere ligestore, naar de have ligestore  Hvider og ligestore Grundflader.
+Till. 4. Et Parallelepipedon lader sig ved et Plan, som gaacr igjennem Grundfladernes Diagonaler, dele i to ligestore tresidede Prismer.
+130. En Pyramide er et Legeme, begrcendset af en retlinet Figur af et vilkaarligt Antal Sider, hvilken kaldes Pyramidens  Grundflade, og Trekanter, som alle forene sig i eet Punct, der kaldes Pyramidens To v, men med deres Grundlinier stode sammen med Grundfladens Sidelinier. Eftersom  Grundfladen er en Trekant, Fiirkant, Femkant o. s. v., kaldes Pyramiden tresidet, fiirsidet, femsidet o. s. v.
+Er Pyramide- Grundfladen en regelret Figur, saa at Talen kan vcere om et Midtpunct i samme, da kaldes den Lime, som drages fra dette Midtpunct til Pyramidens Top, dens Axel. Staaer Axelen lodret paa Grundfladen, da kaldes Pyramiden ret, ellers er den skjev.
+I den tresidede Pyramide kan enhver Sideflade betragtes som Grundflade. Tetraedret er et Exempel paa en tresidet Pyramide.
+131. Llrres. Tresidede Pyramider, som siaae paa samme Grundflader, imellem samme ligelsbende Planer, ere ligestove.
+Bev. Pyramiderne vcere og Lcegge vi et Snit I'!!, ligelobende med Grundfladen, et Sted, saa vil dette skcere begge Pyramider i to Trekanter ado og clek; disse ville dcekke hinanden, hvilket saaledes bevises. Da Planet 117 og disse overstceres af Planet ere Overstoeringslinierne  ligelsbende, eller ac I /X er saaledes dragen en Transversal, og fslgeligen
+: ire : av ;
+men, fcelde vi v? _1_ Planet saa dannes ogsaa , naar Linierne og al drages, en Trekant hvori findes en Transversal, og hvori altsaa ,
+altsaa
+Paa samme Maade godtgjsres, hvis N? fceldes lodret paa Planet og og 60 drages, at
+men N?^v?, eftersom ligelobende Planer overalt staae ligelangt fra hinanden; ligeledes NO ---- VI, altsaa
+og, da . er
+Ligeledes bevises om de andre Sider, at de ere ligestore, altsaa /^ adc 6ek. - ,
+Altsaa ville i begge Pyramider stedse Snittene, der gMes af Planer, ligelsbende med Grundfladen, blive ligestore. Tcenke vi os saaledes uendeligen mange saadanne Snit gjorte, ville Pyramiderne  deles i en Mcengde Lag, hvilke vi kunne, da Grundfladerne,  just formedelst deres Ncerhed, ikke ere at ansee som uligestore, betragte som Prismer, eller vi kunne tcenke os Pyramiden  sammensat af uendeligen mange tynde Prismer, og Pyramiden ligeledes af uendeligen mange, med hine aldeles  ligestore, Prismer; altsaa ere Pyramiderne, der staae mellem Planerne og 'WX, paa samme Gruudflade ligestore.
+Till. 1. Scetningen gjcelder i Almindelighed ogsaa om fleersidede Pyramider , der staae paa samme, Grundflade ; thi de kunne stedse ved Diagonalfladcr, dragne fra Tovven, deles i tresidede Pyramider.
+Till. 2. Ogsaa kan den udstrcekkes til alle Pyramider, som staae paa ligestore Orundflader, imellem l-igelobende Planer; kun da maae Pyramiderne tcenkes sammensatte as tynde Prismer, der have ligestore, men ei hinanden dcekk^nde Grundflader.
+Tlll. 3. To Pyramider ere ligestore, naar de have ligestore Grundflader og ligestore Hoider.
+Naar vi. som er steet i 129 og 131. betragte Prismer og Pyramider  som sammensatte af uendelige» mange Lag. da maa vi dele Legemer  i det Uendelige. Vel vide vi, at vi ikke formaae med nogctNed^ab at udsore dette, ved et Legeme af Trce eller deslige; men det geometriske  Legeme er ogsaa blot Nummct, som et saadant vhnsiskt Legeme indtager. og dette Rum kunne vi toenke bestandigen declt i flere og flere Dele. Fortsatte vi nu i Tanken denne Dcclnmg. da ville vi indsee, at vi stedse ncrrmc os mere og mere til denne Forestilling, vi have anven,dt i de ncrvnte Scrtninger, og, tcrnke vi os Deelningen furtsat i det Uendelige, altsaa Lagene uendeligen tyndc, da gjcelder aldeles det, som vi have anfert. Paa denne Maade erholde altsaa disse Scrtninacr deres fulde Vished, stjsndt viikkun ufuldkommcnt paa en sandselig Vlaade kunne oplyse dem.
+132. Lceres. Et tresidet Prisme er tre Gange saa stort, som en Pyramide paa samme Gnmoflade
+og af samme Hoide
+Bev. G^ennem
+0,1) lcegges Planet og ligeledes gjennem 0, ?, v Planet Ok'!). Vi have saaledes for det Forste de to Pyramider ogO^NO,ihvilkeGrundfladerne  og V^N ere ligestore og ligeledes Hsiderne. Den tredie Pyramide  lader sig
+sammenligne med Pyramiden  I^NV, hvis vi ansee  /^ og /X som Grundflader: Hoiden er i begge den samme, ncemlig en lodret Lime fra den fcelles Top v; saaledes  ere de tre Pyramider,  hvori Prismet er deelt, ligestore, eller dette ligestort  med 3 V^NO, der har Grundlinie og Hside tilfcelles med samme.
+Till. Da ethvert Prisme lader sig dele i tresidede Prismer, og hvert af disse atter i tresidede Pyramider, saa er ogsaa ethvert Prisme liigt det Tredobbelte af alle de tresidede  Pyramider, der knnne tegnes paa de Trekanter, hvori Grundfladen er deelt; men alle disse Pyramider kunne tcenkes forenede til een, saa at Prismet er det Tredobbelte af en Pyramide paa samme Grundflade og af samme Hoide.
+3) Cylindre og Kegler.
+133. Dreier et Rectangel sig om sin ene Side saa kaldes det Legeme, som derved opstaaer, en Cy linder  eller Valse.
+Vi kunne ogsaa ansee Cylinderen som et Legeme, der er begrcendset af to ligestore og ligelsbende Cirkelflader og en halvkrum  Flade, der slutter mod begge Cirkellinierne. Den Cylinder,  vi have tcenkt at fremkomme ved et Rectangels Omdreining, kaldes en ret Cylinder, eftersom den Lime, der forener begge
+Grundfladernes Midtpuncter (^ &lt;D), staaer lodret paa Grundfladen; den
+H., V kaldes derimod skjev, hvis Arlen
+Paa Grund af, at vi ansee Cy-
+lindrene som Prismer, vil det indsees,
+at en skjev Cylinder er ligestor med en ret Cylinder paa samme Orundflade og af samme Hside.
+Ethvert Snit, ligelsbende med Orundfladen, enten i den rette eller skjeve Cylinder; er, som denne, en Cirkel og ligestort  med samme.
+Den skjeve Cylindcr har sjeldnere, end den rette, nogen praktisk Anvendelse, hvorfor man ncesten stedse, naar Talen er om en Cylinder i Almindelighed, derved forstaaer ene den rette Cylinder.
+134. Dreier en retvinklet Trekant  fig om fin ene Kathete
+indtil den atter kommer i sin fsrste Stilling, saa kaldes det Legeme, som derved opstaaer, en Kegle.
+En saadan Kegle er altsaa et Lege,ne, der begrcendses af en Cirkel, hvilken kaldes Keglens Grundflade, og en halvkrum Flade, der gaacr ud fra et Toppunct og slutter forneden til Grundfladens Cirkellinie. Linien
+fra Toppunctet til Cirklens Midtpunct kaldes Keglens Axel; naar denne staaer lodret paa Grundfladen, kaldes Keglen re t, saaledes som Tilfceldet er med den Kegle, der opstod ved den retvinklede Trekants Omdreining; staaer Arlen skjevt paa Grundfladen, da kaldes Keglen en skjev Kegle.
+Keglen lader sig ansee som en Pyramide as uendeligen mange Sider, i det vi ncemlig betragte dens Grundflade, der er en Cirkel, som en regelret Mangekant as uendeligen mange Sider.
+Paa Grund heraf er Keglen en Trediedeel as en Cylinder  paa ligestor Orundflade og as samme Hoide.
+Kegler paa ligestore Grundflader og as ligestore Hoider ere ligestore. Altsaa er en skjev Kegle ligestor med en ret Kegle paa samme Grnndflade og as samme Hoide.
+Ethvert Snit i en Kegle, som skeer ligelobende med Keglens  Grundflade, er som denne, en Cirkel, men stedse mindre, jo mere Snittet ncermer sig Keglens Top.
+Ogsaa den rette Kegle er den, der hyppigst forekommer i det Praktiske,  hvorfor ved Udtrykket Kcgle (cunuz) i Almmdclighcd stedse forsta,aes  den rette Keglc.
+H) Kuglen.
+135. Dreier en Halvcirkel sig om sin Tvcerlinie saa kaldes det Legeme, som derved opstaaer, en Kugle.
+' En Kugle er saaledes
+et Legeme, som begrcendses af en eneste krum Flade, i hvilken ethvert Punct er lige langt boite fra et Punct indenfor samme, hvilket kaldes Kuglens Midtpunct.
+136. Llrres. Overstcrres en Kugle hvorsom helst af et Plan, da er Snittet en Cirkel.
+Bev. Fcelde vi fra
+KuglensMidtpunctOlodret  vaa Planet Linien o^., drage endvidere ud tilSnittets  Omtrcek de to rette Limer og og de to Kugleradier (^O og OL, saa have vi to retviuklede Trekanter &lt;^O^ og O^.L, hvori (^^(^, OD
+altsaa er^OV^ O^L, og folgeligen det Samme
+kunne vi bevise om alle Linier, vi saaledes drage ud fra altfaa er Snittet NL en Cirkel, hvori er Midtpnnct.
+Till. Cirklen bliver desto storre, jo ncermere Snittet ligger Kuglens Midtpunct. Gaacr det igjennem Midtpunctet, da er Snittet det swrste; det kaldes da en Sto r cirkel. I en Kugle ere alle Storcirkler ligestore.
+3) Legemers Ndmaaling.
+137. For at udmaale Legemer, behsves forn Maal st Legeme. Ligesom vi for Fladerne vcelge Qvadratet, vcelge vi for Legemerne Kubus eller Tcerningen. Legemmaalet kaldes derfor  ogfaa Kubikmaal. Som Maale-Eenhed tages Kubikfoden,  der er en Toerning, hvis Sideliuie er en Fod.
+Deeltes Sidelinien eller een af Kanterne i 12 Dele, da vilde vi ved Snit, ligelobende med en Sideflade, kunne dele Kubikfoden  i 12 Parallelepipeder, hvis Grundflader bleve en Qvadratfod
+og Hoiden en Tomme. Endvidere kunne vi dele hver af disse i 12 langagtige Parallelepipeder, for hvilke vi kunne betragte  den mindste Sideflade, der var en Qvadrattomme, som Grundflade, og hvis Hoide da blev een Fod; deelte i hver as disse ester Hoiden i 12 ligestore Dele, da dannedes hver af Tcerninger, hvis Sidelinie blev een Tomme. Saaledes indeholder  Kubikfoden 12 X 12 X 12 - 1728 Kubiktommer. Ligeledes vil Kubiktommen indeholde 1728 Kubiklinier.
+138. Llrres. ' Indholdet af et Prisme findes, naar dets Grundflade, udmaalt i Qvadratmaal, multipliceres med dets Hside.
+Vev. Hvis Prismet ikke er ret, vide vi dog stedse, at det er ligestort med et ret Prisme paa samme Grundflade og af samme Hoide. Ligeledes kunne vi, hvis Orundfladen er en Trekant eller anden hvilkensomhelst Figur, tcenke os et Rectangel  af samme Fladeindhold som denne, og saaledes, i Stedet for det givne Prisme, svette et andet af en ligesaa stor Grundflade, men som er et Rectangel. Altsaa behove vi ene at bevise Soetningen  om det rette Parallelepipedon , hvis Grundflade er et
+Rectangel. Er saaledes givet, saa, hvis viforst afscrtte Maalet paa Kanten vil denne lade sig dele i et vist Antal Dele, f. Ex. 5. Ved Snit, ligelsbende med (^N, deles Parallelevipedet i 5 tyndere  Parallelepipeder. Afsoettes  Maalet nu paa Kanten  d!L og indeholdes deri f. Er. 4 Gange, saa opstaae
+i Alt 4 X 5 eller 20 hoie Parallelepifteder, hvis Grundstader ere lige med Maalets Grundflade, eller saa mange, som det Antal Gange, Maalets Grundflade indeholdes i Parallelevivedets  Grundflade. Inddeles nu ligeledes Hoiden o^, saa at hver Deel bliver liig Maalets Hoide, f. Er. i 3 Dele, og der lcegges Snit, ligelobende med Grundfladen, bliver hele Parallelepipedet deelt i 3 X 20 eller 60 Tcerninger, eller indeholder Maalet 60 Gange. Saaledes udmaales altsaa forst Grundfladen iQvadratmaal, derncest multivliceres dette Maal med Hoiden, udmaalt med Lcengdemaal, og det Udkomne er Prismets Indhold i Kubikmaal.
+Gxempler. 1) Vi ville udregne et Parallelepipedon, hvis Grundflade har en Grundlinie liig 6 Fod 3 Tom., Hoide 3 Fod 4 Tom.; Parallepipedets Hoide er 11 Fod 7 Tom. Hvor stor er dets ludhold?
+6 Fod 3 Tom. 3 Fod 4 Tom.
+75 Tom.
+40
+3000 Tom.
+Hsiden 11 Fod 7 Tom.
+139
+1728) 417000 Kubik-Tom. (241
+3456
+7140
+6912
+2280
+1728
+552
+Indholdet 241 Fod 552 Kubik-Tom.
+2) Der voere givet et tresidet Prisme, hvis Grundflades  Grundlinie er 5^ Tom., Hoide 3 Tom. 4 Lin.; Prismets  Hoide er 7 Tom.
+Grundlinien 5^ Tom. .. . Tom.
+Hside 3 Tom. 4 Lin. .. 3^ Tom. .. . Tom.
+'z« Tom.
+Trekanten er heraf det Halve . . 9^ !Hj Tom.
+Hoiden af Prismet 7 Tom.
+64zKubiktom.
+eller 64 Tom. 286 Kubiklin.
+139. Lcrres. Indholdet af en Pyramide findes
+ved at multiplicere Grundfladen, udtrykt i Qvadratmaal,
+med af Hoiden.
+' Bcv. Da Pyramiden er Trediedelen af et Prisme paa
+samme Grundflade og af samme Hoide, indsees, at vi finde dens Indhold ved at tåge Tredievarten af det tilsvarende
+Prismes Indhold.
+Exempel. Vi ville antage, at vi havde en tresidet
+Pyramide, hvis Grundflade havde en Grundlinie liig 5 Fod, en Hside liig 4-^ Fod, og at Pyramidens Hoide var 19 Fod;
+vi have da
+Grundfladens Grundlinie .... 5 Fod
+Hoide ...... 4^
+2) 22^
+Grundfladen 11^ s^ Fod
+Pyramidens Hoide ...... 19 Fod
+3) 213'^Kubikfod
+7izKubikfod
+140. Llrres. En Cylinders Indhold findes, naar dens Grundstades Areal eller Qvadratmaal multipliceres med dens Hside.
+Bev. Da Cylinderen er at ansee som et Prisme, maa dens Indhold , findes ved at beregne Qvadrat-Indholdet af dens Grundflade, som er en Cirkel, og multiplicere samme med dens Hside.
+Gxempel. Vi ville udregne en Cylinder, hvis Grundsiades  Tvcerlinie er 13 Fod 5 Tom. og hvis Hside er 4 Fod 8 Tom.
+For at finde Grundfladen, maae vi efter den scedvanlige Maade beregne denne ved at qvadrere Tvcerlinien og tåge heraf eller nsiagtigere vi have altsaa
+Tvcerlinien 13 Fod 5 Tom. . . 161 Tom.
+&gt; 161
+161
+966
+161
+25921
+355
+129605 129605
+139
+Altsaa Grundfladen 20358 M Tom.
+Hsiden 56 Tom.
+113
+141. Lceref. En Kegles Indhold findes, naar
+dens Grundflade, udregnetiQvadratmaal, multipliceres
+med af dens Hmde.
+Vev. Da Keglen lader sig sammenligne med en Pyramide,
+indsee vi, at ligesom Pyramiden er af det tilsvarende
+Prisme, er Keglen -^ af den tilsvarende Cylinder. Exempel. Vi stulle udregne Indholdet af en Kegle, hvis
+Grundflades Radius er 11 Lin., og hvis Hoide er 7 Tom. Radius . .- 11 Lin.
+Tvcerlinie 22
+22
+44
+44
+(Nsies vi med Forholdet 484 11 : 14) 11
+484
+484
+14) 5324
+Grundfladen 380s^Lin.
+Heiden 7 Tom. ... 84 Lin
+24
+1520 3040
+31944 Kub. Lin.
+1728) 31944 Kub. Lin. (18
+1728
+14664
+13824
+840
+Altsaa .... 18 Tom. 840 Kub. Lin. Heraf er . 6 — 280 —
+hvilket er Keglens Indhold
+Till. En afkortet
+Kegles Indhold findes
+ved at toenke sig hele Keglen '' !X fsrst udregnet og derfra at
+drage det tilsatte Stykke.
+Skulle vi saaledes udregne N^VO, da udregne vi fsrst N^V og fradrage derncest OVV; Hoiden VY sinde vi af de givne Radier o^. og TL og
+den givne Hoide ved
+fslgende Proportion:
+NI : NL^6l : LV
+hvor Nl^-NL — IL^NL — 0^ o: Radiernes Forskjcl I /^ NVN er ncemlig 01 '^ en Transversal.
+Exempel. Hsiden af den afkortede Kegle vcere 18 Tom.; Radius af den nederste Cirkel, eller NL, liig 3 Tom., af den overste Cirkel, eller C!^., liig 2^ Tom.
+Vi have da
+3 2^ Tom. : 3 Tom. -18 Tom. : 13 V
+ 3:  z  Tom.  :  3  Tom.  —  18  Tom.  :  LV, Ulsins Geometri, 7de Oplag. Il)
+ 1  o  x/  i&gt; Altsaa LV - - 81 Tom
+Heraf - 63 Tom
+Vi have da for den sterre Kegle
+Radius af Grundfladen 3 Tom.
+" Tvcerlinien 6
+Tvcerliniens Qvadrat 36
+Da vi skulle multivlicere begge Kegler med eller
+saa kunne vi gjerne gjemme dette Tal tilsidst og fsrst fradrage
+Indholdet af begge Legemer, uden Hensyn til samme; ligeledes,
+om vi ville, gjemme vi .Multivlicationen med Altsaa
+Tvcerliniens Qvadrat 36sHTom.
+Keglens Hoide 81
+2916 Kub. Tom.
+Beregningen for den anden Kegle, vaa samme Maade
+udfSrt, bliver
+Radius af Grundfladen .... 2^
+Tvcerlinien 4^
+Dens Qvadrat '. 21^ Tom.
+Hsiden 63
+49
+63
+126
+1372 Kub. Tom.
+Dette, trukket fra Ovenstaaende, giver
+1544 Kub. Tom.
+Tages her Forholdet som
+tilstrcekkeligen nsiagtigt, da er ...... 11
+1544
+1544
+16984
+14) 16984
+1213^ Kub. Tom.
+Heraf Trediedelen
+404/^ Kub. Tom., som er
+den afkortede Kegles Indhold
+6) Kuglens Udmaaling.
+142. Lcrres. En Kugles Indhold er z af en Cylinder, hvis Grundstade er Kuglens Storcirkel, og hvis Hside er dens Tvcrrlinie. ,
+Bev. Lader os antage, at vi have Qvadranten Qvadratet den retvinklede Trekant og at alle dreie sig om saa beskriver Qvadranten Halvkuglen &lt;I^o, Qvadratet Cylinderen .lO^Xl), den retvinklede Trekant Keglen I^LO. Lcegges et Snit hvorsomhelst ligelobende med Grundstaden  &lt;?0, saa vil dette stcere alle tre Legemer i Cirkler, ncemlig  Cylinderen i Cirklen VB, Kuglen i Cirklen Uk, Keglen i Cirklen V?.
+Betragte vi nu den retvinklede Trekant OI3K, saa er
+men Vli^Lo^oB; 0L - 0?, eftersom og 0? er en Transversal i Trekanten altsaa
+Disse ereQvadrater af Radierne i detreSnit; da Snittene ere Cirkler, ville vi finde deres Fladeindhold ved at multivlicere med 4, for at faae Tvcerliniens Qvadrat, og derncest med eller ogsaa i Alt med dette Tal ville vi betegne, som det er brugeligt i Mathematiken, med det grcrste Vogstav &gt;r, og have da
+Eller ogsaa
+Cirkl. UK Cirkl. VB— Cirkl.
+Lcegge vi nu toet herved et andet Snit, da ovstaaer et tyndt Lag, og, betragte vi dette som en Cylinder, indsee vi, at Kugle- Laget er liig Forskjellen mellem Cylinder-Laget og Kegle-Laget. Men, da dette gjcelder om ethvert Lag, indsee vi, at Summen af alle Kugle-Lag ogsaa er liig Summen af alle Cylinder-Lag,
+mindre end Summen af alle Kegle-Lag ; eller Halvkuglen Cyl. — Kegl. Men Keglen er af Cylinderen, altsaa Halvkuglen --^ af Cylinderen.
+Tcenkte vi Halvkuglen fortsat forneden, og ligeledes Cylinderen,  vilde den nederste Halvkugle ogsaa vcere A af den nederste Cylinder, eller hele Kuglcn af begge Cylindrene, eller af en Chlinder, der havde til Grundflade Kuglens Storcirkel,  til Hside dens Tvcerlinie.
+Till. 1. En faadan Cylinder vil findes ved at beregne Ornndfladen, som faaes ved at multivlicere Tvcerliniens Qvadrat med^A; dette skulle vi multiplicere med Tvcerlinien og dervaa med vi kunne da gjerne foretage Regningen i den Orden, at fsrst tages Tvcerliniens Qvadrat og multipliceres med Tvcerlinien,  det er Tvcerliniens Kubus, og derncest multipliceres med ?^'X-3^6??' l)gsaa kunne vi sige: Kuglen forholder sig til den Tcerning, der tegnes paa Tvcerlinien, som 355 : 678. I Stedet for dette Forhold 355 : 678, kunne vi tåge 111 : 212, der ncesten er ligesaa iwiagtigt, som hiint.
+Exempel. Hvor stort er det kubiske Indhold af en Kugle, hvis Tvcerlinie er 19 Tom?
+Tvcerlinien 19 Tom.
+19
+Tvcerliniens Qvadrat . . 361
+13
+Tvcerliniens Kubus . . 6859 Multipliceres med 111
+6859
+6859
+6859
+761349
+212) 761349 (3591/^
+636
+1253
+1060
+1934
+1908
+269
+212
+57
+Kuglens Indhold 3591/^ Kubiktommer.
+Till. 2. Ved en aldeles omvendt Regning havde vi af Kuglens Indhold kunnet finde dens Tvcerlinie.
+Exempel. Hvor stor er Tvcerlinien i en Kugle, hvis Indhold er 548 Kubikfod?
+Ville vi have Svaret i Tommer, og derfor bortkaste Brok af Tommer, da vil Regningen staae saaledes:
+1728
+Kuglens Indhold
+548 Kub. Fod
+13824 6912
+8640
+946944 Kub. Tom.
+Multipliceres med 212
+1893888
+946944 1893888
+200752128
+Da Brsken vilde blive over ville vi fowge det Udkomne med 1, og da uddrage Kubikroden.
+V1&gt;808!578-121
+1
+808
+(3)
+6
+12
+8
+728
+80578 (432)
+432
+36
+1
+43561 37017
+Altfaa ligger Kubikroden o: Tvcerlinien imellem 121 Tom. og 122, dog ncermest det sidste, eller er
+10 Fod 2 Tom.
+For dem, der ikke af A ri th me tik en ncrrmere kjende Kubikrodens  Uddragning, tilsoie vi fslgendc Regler.
+Det givne Tal deles i Classer fra Hsirc til Venstre, tre Ciffre i hver Classe; det ncrrmcste Kubiktal (o: et saadant Tal, der er opstaact  ved at multiplicere samme Tal tre Gange) drages fra fsrste Classe. her 1 x l X 1 —1; Roden heraf. som er 1. er fsrste Ciffcr  i Kubikrodcn; man fradrager. og ncrste Classe nedflyttes; det Trcdobbclte af det fundne Tåls Qvadral (3XIXI — 3) hcnscrttes  i Parcnthes under det fsrste Tal af den nedfiyttcde Classe, og der underssges, hvor ofte dette gaacr op i det Ovcnstaacnde, hvilket her er 2 Gange, 2 er da det andet Ciffer, Parenthescn multipliceres hcrined; dette er N; derncrst tages 3 Gange det ssrste Tal, multjplicerct med det andet Tåls Qvadrat eller 3XIX2X2 — 12. som stilles med sidste Ciffer cen Plads mere frennykket, og endeligen det sidste Tåls Kubus eller 2X 2 X 2— .8. ligcledes ccn Plads srcmrykket; disse tre sidst hcnstrevne Stsrrelscr lceggcs sammen, og det Udkomne drages fra de ovenstaaende Tal 808; til Resten 80 ncdsiyttes ncrste Classc 578; af det fundnc Tal 12 tagcs nu atter det Tredobbelte af Qvadratct eller 3 X 12 X 12 — 432, hyilkct Ta! stilles i Parenthes.  og hermed fortscettcs Regningen, ligesom forhen med den anden Classe er viist.
+lovrigt henvises til Aiithmetikens § 74 og fslg.
+7) Legemers Overstade.
+143. For at finde Overfladen af et Legeme, maa denne udfoldes, det er nedlcegges i et Plan; er Legemet ene begrcendset af Planer, da skeer denne Ud foldning (Developpement)  let; vanskeligere derimod, naar Legemet begrcendses af krnmme Flader.
+Vetragte vi fsrst de regelrette Legemer, da er Udfoldningen  af Te tråe dr et sire sammenhoengende ligesidede Trekanter,  der alle danne en eneste ligesidet Trekant.
+Udfoldningen af Oktaedret er 8 ligesidede Trekanter, hvilke lade sig forene til to ligesidede Trekanter, hver bestaaende af fire Sideflader.
+Udfoldningen af Ikosaedret er 20 ligesidede Trekanter; de 10 danne en Rhomboide, til hvis Sider de 10 andre, 5 vaa hver Side, ere heftede.
+Udfoldningen af Heraedret er 6 Qvadrater; de fire danne et Nectangel fire Gange saa langt, som det er bredt; de to andre slutte til Siderne af samme, saa at hele Udfoldningen  danner et Kors.
+Udfoldningen af Dodekaedret er 12 regelrette Femkanter,  der forene sig i to Dele, hver bestaaende af 6 Femkanter,  og hver dannende en stor Femkant, hvori blot nogle Trekanter ere udskaarne.
+Udfoldningen af et Prisme bestaaer af de to Grundflader og Sidefladerne; er Prismet ret, saa ere alle Sidefladerne Rectangler af samme Hoide, og lade sig da forene til et eneste Rectangel, hvis Grundlinie er Prismets Grundflades Omtrcek, og hvis Hoide er Prismets Hside.
+Udfoldningen af en Pyramide bestaaer af Pyramidens Grundflade og de Trekanter, der danne Pyramidens Sideflader. Er Pyramiden re t, dens Grundflade altsaa en regelret Figur, da kunne disse Sideflader, som alle have samme Hoide, beqvemt  beregnes sammen, ved at multivlicere Grundfladens Omtrcek med det Halve af denne Sidefladernes fcelles Hoide, der bliver en Linie fra Tovven lodret vaa een af Grundfladens  Sider.
+Udfoldningen af en Cylinder lader sig udlede af et Prismes Udfoldning ; den bestaaer af de to Cirkler, der ere Cylinderens Grundflader, og den krumme Flade. Er Cylinderen ret, da er den krumme Flade liig et Rectangel, der har til Grundlinie Grundfladens  Cirkellinie,  til  Hside  Cylinderens  Hside.  Vi 
+beregne altsaa denne ved at nmltiplicere Cylinderens Tvcerlinie
+med eller da vi saaledes have Cirkellinien, og der-
+ncest multivlicere med Cylinderens Hside.
+Exempel. Hvor stor er Overfladen af en Cylinder,
+hvis Tvcerlinie er 13 Tom., Hside 17^ Fod? Vi ville nsies med Forholdet 22 : 7, altsaa
+Tvcerlinien 13
+22
+7) 286
+Grundfladens Cirkellinie . . . 40^ Tom. Cylinderens Hoide 17^- Fod . 210 —
+180
+8400
+8580^ Tom.
+Cylinderens krumme Oversiade 59 Fod 84 Tom.
+Feie vi hertil de to Grundflader, for at faae Overftaden fuld-
+stcendig, da er
+Tvcerlinien 13 Tom.
+v
+Tvcerliniens Qvadrat . . . 169 Tom.
+Multipliceres med ... 11
+169
+169
+14) 1859
+Cirklens Fladeindhold .... 132^ Tom.
+Begge Cirklers Fladeindhold 265^ Tom.
+Eller .. 1 Fod 121^- li! Tom.
+Hele Cylinderens Overstade 61 Fod 61^ Tom.
+Udfoldningen af en Kugle maa udledes af en Phramides
+Udfoldning. Grundfladen er en Cirkel, og den krumme Over-
+flade maa betragtes som en Rcekke af smaa Trekanter. Er Keglen ret, da have alle disse Trekanter samme 'Hoide, eller ville udgjsre et Cirkeludsnit, hvis Bue har en Lcengde liig Grundfladens Cirkellinie, og hvis Radius er Keglens Sidelinie o: en Lime fra Keglens Top til Grundfladens Cirkellinie. Men, ville vi beregne dette Udsnit, da kunne vi ansee det som en Trekant, hvis Grundlinie var af lige Lcengde med Cirkelbuen,  og hvis Hside var Radius. Sidelinien i Keglen fandtes, hvis den ikke var given, let ved fslgende Beregning:
+Ere Hsiden og Grundfladens Radius givne, saa er, i den retvinklede Trekant L(^ -^
+Gxempel. En Kegle vcere given, hvis Heide er 1 Fod, Radius i Grundfladen er 5 Tom.; vi stulle sinde dens Overflade.
+
+LO 5 Tom.
+144
+25
+169
+Heraf er Qvadratroden .... 13
+Altsaa er Keglens Sidelinie liig 13 Tom.
+Grundfladens Cirkellinie findes saaledes: Radius 5 Tom.
+Tvcerlinien 10
+Multipliceres med
+" - &lt;
+Cirkellinien 31^
+Keglens Sidelinie 13
+4&lt;M
+Heraf det Halve 204-f^Tom.
+Ville vi hertil fsie Grundfladen, da er
+Tvcerlinien - 10 Tom.
+Tvcerliniens Qvadrat 100
+Multipliceres med
+1 1
+78f^Tom.
+Keglens hele Overstade 282^ Tom.
+En afkortet Kegles Udfoldning vilde vcere at ansee som
+Forfkjellem imellem to Cirkeludsnit. Vi beregne lettest denne
+ved at tåge det Halve as kummen as den overste Cirkellinie
+og den nederste Cirkellinie, og multiplicere dette med Side-
+linien
+End lettere er Beregningen, naar vi, i Stedet for at tåge
+Middeltallet as Cirkellinierne, tåge en Cirkellinie NI?, beskreven
+midt imellem og d!O, eller med en Radius, der er liig
+Radiernes halve Sum. Sidelinien findes af /X o^.l, hvori
+er den ssgte Sidelinie, Hsiden, 01 Forskjellen mellem
+Nadierne.
+Gxempel. Hvor stor er Overstaden af en afkortet
+Kegle, hvis sverste Radius er 15 Tom., nederste 24 Tom.,
+Hpiden 40 Tom.
+Vi have da, for at udregne Sidelinien: Nederste Radius ........ 24 Tom.
+øverste Radius 15
+Forstjel 9 Tom.
+Heraf Qvadratet 81
+Holdens Qvadrat ...... 1600
+1681 Tom.
+Heraf Qvadratroden 41 Tom.
+Hvilket er Sidelinien.
+Nederste Radius 24 Tom.
+ » 
+øverste Radius 15
+Summen heraf er Middeltallets
+af Tvcerlinierne
+Multipliceres med 3^
+117
+Middel-Cirkellimen 122-^- Tom.
+122 H
+Sidelinien
+11
+23^
+122
+488
+Den afkortede Kegles Overstade 5025^ Tom.
+Da Kuglens Overstade er en heelkrum Flade, kan den egenligen ikke udfoldes, o: vi kunne ikke tegne en Plan-Figur, der sammenfoldet vilde indeslutte Kuglen. Dog kunne vi paa det Ncermeste udfolde den, hvis vi tcenkte os den deelt, ved ligelsbende Snit, i Baand; og Udfoldingen vilde vcere aldeles noiagtig, hvis disse Snit vare «endeligen mange. Dette leder os til at finde Kuglens Overstade.
+lei 6 vcere et saadant Baand; er ii liden, da kan den betragtes  som en ret Lime og som en Deel af Tangenten NN, og Baandet som Overftaden af en afkortet Kegle. Vi udregne altsaa dette ved at multiplicere den Cirkellinie, der er beskreven med Radius NO, som ligger imellem io og ic», med Sidelinien
+ii ; denne kunne t»i sinde af iizi, ligesom forhen, eller ogsaa  paa fslgende Maade.
+/X iip cx&gt; NON; men NON er atter ligedannet med NON ; thi i den retvinklede Trekant NON er NO fceldet lodret paa Hypotenusen ON. Altsaa er ogsaa
+og, som en Fslge' heraf, ere Siderne proportionale, altsaa
+Men Cirkellinien, bestreden med Radius NO, er liig Tvcerlinien eller 2 NO, multipliceret med som vi, ligesom forhen, scette liig 7r, altsaa have vi Baandet liigt
+2 NOX7rX"-2NOX7rX'^)— '
+Multiplicationen og Divisionen af NO ville gjensidigen ophceve hinanden, saa at Baandet ene er
+2 n X i? X 6&lt;^
+Men, sammenligne vi hermed den krumme Overstade af den omskrevne Cylinder, og af denne det Vaand, som ligger imellem Snittene ie og ie forlengede, saa er dette Baand, eller 9,u»,u, en liden Cylinderstade , som findes ved at multiplicere Cirkellinien, der er bestreven med Radius 5,0^-^.O -NO, med Hsiden 3,3,^^1^; altsaa vilde dette Vaand vcere liigt
+2 NO X " X ip,
+eller just saa stort, som Kugle-Baandet. Men dette gjelder, hvis vi dele Kuglefladen i flere faadanne Baand, for alle; altsaa  vilde hele Kuglefladen vcere liig hele Cylinderftaden, eller Kuglens Overstade liig Overfladen af en Cylinder, der havde en Grundstade liig Kuglens Storcirkel, og en Hside liig Kuglens Tvcerlinie. Denne Cylinderftade vilde altsaa findes, ved at multiplicere
+Kuglens Tvcerlinie med eller 7r og multiplicere  denne atter med Tvcerlinien; eller, hvilket er det Samme, nmltivlicere Tvcerliniens Qvadrat med
+Kuglens Storcirkel var Tvcerliniens Qvadrat, multipliceret  med eller -^ af altsaa er. Kuglens Overstade liig 4 Gange dens Storcirkel.
+Ogsaa hvad angaaer Legcmcrs og deres Ovcifladcs Udicgning, henvise  vi til Arithmctikens § 118 og folg.
+ « 

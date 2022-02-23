@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.0.0' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/data/digibok_2008040704116/digibok_2008040704116_C3.jp2"; bbox 0 0 2220 2940; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1065 258 2177 560">
+    <p class='ocr_par' id='par_1_1' lang='nno-nor' title="bbox 1065 258 2178 560">
+     <span class='ocr_textfloat' id='line_1_1' title="bbox 1065 258 2021 427; baseline 0.01 -11; x_size 160.58974; x_descenders 40.147434; x_ascenders 40.147434">
+      <span class='ocrx_word' id='word_1_1' title='bbox 1065 258 1235 356; x_wconf 0'>F</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 1462 296 2021 427; x_wconf 0'>10g((</span>
+     </span>
+     <span class='ocr_textfloat' id='line_1_2' title="bbox 1476 425 2177 560; baseline 0.011 -72.921; x_size 80; x_descenders 20; x_ascenders 19.999998">
+      <span class='ocrx_word' id='word_1_3' title='bbox 1476 425 1661 548; x_wconf 36'>Esd</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 1718 430 1807 491; x_wconf 92'>33</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 1863 433 2001 560; x_wconf 0'>1</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1432 44 2108 536">
+    <p class='ocr_par' id='par_1_2' lang='nno-nor' title="bbox 1432 44 2108 536">
+     <span class='ocr_line' id='line_1_3' title="bbox 1432 44 2108 536; baseline 0 0; x_size 656.66669; x_descenders 164.16667; x_ascenders 164.16667">
+      <span class='ocrx_word' id='word_1_6' title='bbox 1432 44 2108 536; x_wconf 95'>  </span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

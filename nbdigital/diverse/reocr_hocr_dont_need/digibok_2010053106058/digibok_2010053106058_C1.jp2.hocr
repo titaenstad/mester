@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.0.0' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/data/digibok_2010053106058/digibok_2010053106058_C1.jp2"; bbox 0 0 1417 2237; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 340 246 562 316">
+    <p class='ocr_par' id='par_1_1' lang='nno-nor' title="bbox 340 246 562 310">
+     <span class='ocr_caption' id='line_1_1' title="bbox 340 246 562 271; baseline -0.099 11; x_size 13; x_descenders 3; x_ascenders 3">
+      <span class='ocrx_word' id='word_1_1' title='bbox 340 268 343 271; x_wconf 0'>⁶</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 489 253 506 268; x_wconf 26'>Ä</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 552 246 562 267; x_wconf 39'>(7</span>
+     </span>
+     <span class='ocr_caption' id='line_1_2' title="bbox 343 272 512 316; baseline -0.097 -6.612; x_size 22; x_descenders 4; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_4' title='bbox 343 272 406 316; x_wconf 0'>(o</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 457 281 481 301; x_wconf 0'>⁰</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 509 295 512 298; x_wconf 0'>Ö.g</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 372 1687 1147 1865">
+    <p class='ocr_par' id='par_1_2' lang='nno-nor' title="bbox 372 1687 1147 1865">
+     <span class='ocr_line' id='line_1_3' title="bbox 372 1687 1147 1795; baseline -0.013 -27; x_size 89; x_descenders 15; x_ascenders 30">
+      <span class='ocrx_word' id='word_1_7' title='bbox 372 1720 790 1795; x_wconf 85'>GYLDENDALSKE</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 807 1687 1147 1775; x_wconf 68'>BOGHANDEL</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 475 1791 1142 1865; baseline -0.016 -16; x_size 72; x_descenders 16; x_ascenders 12">
+      <span class='ocrx_word' id='word_1_9' title='bbox 475 1791 752 1864; x_wconf 90'>NORDISK</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 778 1794 1026 1865; x_wconf 91'>FORLAG</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1417 2177">
+    <p class='ocr_par' id='par_1_3' lang='nno-nor' title="bbox 0 0 1417 2177">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1417 2177; baseline 0 0; x_size 1088.5; x_descenders -544.25; x_ascenders 544.25">
+      <span class='ocrx_word' id='word_1_11' title='bbox 0 0 1417 2177; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

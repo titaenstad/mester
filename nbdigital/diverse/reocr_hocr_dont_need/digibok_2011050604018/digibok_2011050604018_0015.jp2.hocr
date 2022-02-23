@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.0.0' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/data/digibok_2011050604018/digibok_2011050604018_0015.jp2"; bbox 0 0 2129 3000; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 547 921 1425 1298">
+    <p class='ocr_par' id='par_1_1' lang='nno-nor' title="bbox 547 921 1425 1298">
+     <span class='ocr_line' id='line_1_1' title="bbox 974 921 1003 999; baseline 0 0; x_size 105.16666; x_descenders 26.291666; x_ascenders 26.291666">
+      <span class='ocrx_word' id='word_1_1' title='bbox 974 921 1003 999; x_wconf 93'>I</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 547 1069 1425 1159; baseline 0.014 -12; x_size 105.16666; x_descenders 26.291666; x_ascenders 26.291666">
+      <span class='ocrx_word' id='word_1_2' title='bbox 547 1069 690 1148; x_wconf 93'>ET</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 733 1072 1425 1159; x_wconf 90'>MISFOSTERS</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 723 1213 1253 1298; baseline 0.013 -6; x_size 105.16666; x_descenders 26.291666; x_ascenders 26.291666">
+      <span class='ocrx_word' id='word_1_4' title='bbox 723 1213 1253 1298; x_wconf 92'>HISTORIE</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2128 0 2129 3000">
+    <p class='ocr_par' id='par_1_2' lang='nno-nor' title="bbox 2128 0 2129 3000">
+     <span class='ocr_line' id='line_1_4' title="bbox 2128 0 2129 3000; baseline 0 0; x_size 1500; x_descenders -750; x_ascenders 750">
+      <span class='ocrx_word' id='word_1_5' title='bbox 2128 0 2129 3000; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

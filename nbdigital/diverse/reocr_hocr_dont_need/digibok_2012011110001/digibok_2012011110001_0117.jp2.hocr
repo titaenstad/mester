@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.0.0' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/data/digibok_2012011110001/digibok_2012011110001_0117.jp2"; bbox 0 0 1280 2064; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 403 43 1244 92">
+    <p class='ocr_par' id='par_1_1' lang='nno-nor' title="bbox 403 43 1244 92">
+     <span class='ocr_line' id='line_1_1' title="bbox 403 43 1244 92; baseline -0.001 -14; x_size 46; x_descenders 12; x_ascenders 11">
+      <span class='ocrx_word' id='word_1_1' title='bbox 403 43 541 92; x_wconf 18'> Wørfte</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 560 43 679 84; x_wconf 75'>Søndag</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 699 48 706 75; x_wconf 88'>i</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 727 44 845 77; x_wconf 8'>Åbvent</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 1112 44 1244 89; x_wconf 0'>g)</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 418 389 1228 437">
+    <p class='ocr_par' id='par_1_2' lang='nno-nor' title="bbox 418 389 1228 437">
+     <span class='ocr_caption' id='line_1_2' title="bbox 418 389 1228 437; baseline 0.002 -9; x_size 46; x_descenders 7; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_6' title='bbox 418 389 498 435; x_wconf 58'>(to-</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 517 399 555 429; x_wconf 63'>re</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 586 390 736 437; x_wconf 0'>Kott-ge,</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 810 401 857 429; x_wconf 23'>Da</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 927 400 989 429; x_wconf 23'> vids</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 1015 400 1088 434; x_wconf 73'>Søn,</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 1162 401 1228 430; x_wconf 82'>Min</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 322 532 324 563">
+    <p class='ocr_par' id='par_1_3' lang='nno-nor' title="bbox 322 532 324 563">
+     <span class='ocr_line' id='line_1_3' title="bbox 322 532 324 563; baseline 0 0; x_size 15.5; x_descenders -7.75; x_ascenders 7.75">
+      <span class='ocrx_word' id='word_1_13' title='bbox 322 532 324 563; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 252 1805 568 1840">
+    <p class='ocr_par' id='par_1_4' lang='nno-nor' title="bbox 252 1805 568 1840">
+     <span class='ocr_line' id='line_1_4' title="bbox 252 1805 568 1840; baseline -0.003 -5; x_size 34; x_descenders 6; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_14' title='bbox 252 1814 288 1835; x_wconf 65'>aa</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 307 1817 317 1833; x_wconf 37'>s</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 335 1806 387 1835; x_wconf 83'>ben</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 433 1812 466 1840; x_wconf 92'>og</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 497 1805 530 1834; x_wconf 89'>til</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 554 1817 568 1830; x_wconf 0'>=</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 56 93 1255 2004">
+    <p class='ocr_par' id='par_1_5' lang='nno-nor' title="bbox 56 93 1255 2004">
+     <span class='ocr_line' id='line_1_5' title="bbox 56 93 1255 2004; baseline 0 0; x_size 955.5; x_descenders -477.75; x_ascenders 477.75">
+      <span class='ocrx_word' id='word_1_20' title='bbox 56 93 1255 2004; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

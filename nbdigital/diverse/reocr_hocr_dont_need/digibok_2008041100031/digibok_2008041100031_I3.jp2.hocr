@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.0.0' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/data/digibok_2008041100031/digibok_2008041100031_I3.jp2"; bbox 0 0 1522 2332; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1266 0 1522 2210">
+    <p class='ocr_par' id='par_1_1' lang='nno-nor' title="bbox 1266 0 1522 2242">
+     <span class='ocr_line' id='line_1_1' title="bbox 1266 0 1522 2210; baseline 160.143 -33918.286; x_size 83; x_descenders 25; x_ascenders 14">
+      <span class='ocrx_word' id='word_1_1' title='bbox 1266 0 1522 163; x_wconf 0'>⁶</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 1465 206 1522 782; x_wconf 0'>pmg</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 1443 1109 1522 1332; x_wconf 0'>0⁷g1</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 1452 1401 1522 2051; x_wconf 0'> ....E⁶g</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 1485 2168 1522 2242; x_wconf 0'>¹</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1522 2332">
+    <p class='ocr_par' id='par_1_2' lang='nno-nor' title="bbox 0 0 1522 2332">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 1522 2332; x_size 761; x_descenders -380.5; x_ascenders 380.5">
+      <span class='ocrx_word' id='word_1_6' title='bbox 0 0 1522 2332; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

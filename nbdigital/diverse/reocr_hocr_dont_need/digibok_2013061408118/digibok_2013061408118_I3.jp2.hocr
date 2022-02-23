@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.0.0' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/data/digibok_2013061408118/digibok_2013061408118_I3.jp2"; bbox 0 0 1739 2768; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 0 1739 2768">
+    <p class='ocr_par' id='par_1_1' lang='nno-nor' title="bbox 0 0 1739 2768">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 0 1739 2768; x_size 869.5; x_descenders -434.75; x_ascenders 434.75">
+      <span class='ocrx_word' id='word_1_1' title='bbox 0 0 1739 2768; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 6 1277 72 1527">
+    <p class='ocr_par' id='par_1_2' lang='nno-nor' title="bbox 6 1277 72 1527">
+     <span class='ocr_caption' id='line_1_2' title="bbox 33 1284 72 1464; baseline -180 540; x_size 46.15942; x_descenders 11.15942; x_ascenders 11.666667">
+      <span class='ocrx_word' id='word_1_2' title='bbox 33 1284 72 1464; x_wconf 0'>⁶[⁶)</span>
+     </span>
+     <span class='ocr_caption' id='line_1_3' title="bbox 21 1279 32 1465; baseline -186 186; x_size 22.75; x_descenders 5.5; x_ascenders 5.75">
+      <span class='ocrx_word' id='word_1_3' title='bbox 23 1279 27 1287; x_wconf 0'>Cv⁶</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 21 1393 32 1465; x_wconf 0'>)</span>
+     </span>
+     <span class='ocr_caption' id='line_1_4' title="bbox 6 1277 21 1527; baseline 125 -500; x_size 22.75; x_descenders 5.5; x_ascenders 5.75">
+      <span class='ocrx_word' id='word_1_5' title='bbox 8 1277 15 1284; x_wconf 0'>⁶</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 6 1352 21 1527; x_wconf 0'>¹&quot;-</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

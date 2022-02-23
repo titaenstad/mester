@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.0.0' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/data/digibok_2012052505023/digibok_2012052505023_0053.jp2"; bbox 0 0 1882 2688; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 642 573 966 630">
+    <p class='ocr_par' id='par_1_1' lang='nno-nor' title="bbox 642 573 966 630">
+     <span class='ocr_line' id='line_1_1' title="bbox 642 573 966 630; baseline 0.006 -2; x_size 73.333336; x_descenders 18.333334; x_ascenders 18.333334">
+      <span class='ocrx_word' id='word_1_1' title='bbox 642 573 966 630; x_wconf 91'>TILLÆG</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 775 750 844 782">
+    <p class='ocr_par' id='par_1_2' lang='nno-nor' title="bbox 775 750 844 782">
+     <span class='ocr_line' id='line_1_2' title="bbox 775 750 844 782; baseline 0.043 -3; x_size 40.666668; x_descenders 10.166667; x_ascenders 10.166667">
+      <span class='ocrx_word' id='word_1_2' title='bbox 775 750 844 782; x_wconf 92'>TIL</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 217 899 1395 967">
+    <p class='ocr_par' id='par_1_3' lang='nno-nor' title="bbox 217 899 1395 967">
+     <span class='ocr_line' id='line_1_3' title="bbox 217 899 1395 967; baseline 0.002 -2; x_size 89.037041; x_descenders 22.25926; x_ascenders 22.25926">
+      <span class='ocrx_word' id='word_1_3' title='bbox 217 899 637 967; x_wconf 92'>ENGELSKE</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 689 900 935 967; x_wconf 92'>DIGTE</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 986 899 1086 967; x_wconf 93'>OG</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 1138 899 1395 967; x_wconf 91'>SANGE</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 461 1165 1145 1206">
+    <p class='ocr_par' id='par_1_4' lang='nno-nor' title="bbox 461 1165 1145 1206">
+     <span class='ocr_line' id='line_1_4' title="bbox 461 1165 1145 1206; baseline 0.007 -5; x_size 47.396824; x_descenders 6.3968253; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_7' title='bbox 461 1171 713 1203; x_wconf 92'>OVERSATTE</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 731 1171 787 1202; x_wconf 35'>aFr</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 813 1166 930 1206; x_wconf 92'>CHR.</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 957 1165 1145 1206; x_wconf 91'>COLLIN</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 404 1569 1200 1618">
+    <p class='ocr_par' id='par_1_5' lang='nno-nor' title="bbox 404 1569 1200 1618">
+     <span class='ocr_line' id='line_1_5' title="bbox 404 1569 1200 1618; baseline -0.001 -1; x_size 63.777779; x_descenders 15.944445; x_ascenders 15.944445">
+      <span class='ocrx_word' id='word_1_11' title='bbox 404 1569 547 1617; x_wconf 89'>DEN</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 590 1569 965 1618; x_wconf 91'>ENGELSKE</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 1007 1569 1200 1617; x_wconf 91'>TEXT</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 1878 0 1882 2649">
+    <p class='ocr_par' id='par_1_6' lang='nno-nor' title="bbox 1878 0 1882 2649">
+     <span class='ocr_line' id='line_1_6' title="bbox 1878 0 1882 2649; baseline 0 0; x_size 1324.5; x_descenders -662.25; x_ascenders 662.25">
+      <span class='ocrx_word' id='word_1_14' title='bbox 1878 0 1882 2649; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

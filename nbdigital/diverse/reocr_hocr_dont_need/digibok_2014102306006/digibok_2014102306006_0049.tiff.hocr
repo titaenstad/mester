@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.0.0' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/data/digibok_2014102306006_0049.tiff"; bbox 0 0 2086 3357; ppageno 0; scan_res 400 400'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 0 2086 1283">
+    <p class='ocr_par' id='par_1_1' lang='nno-nor' title="bbox 0 0 2086 1283">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 0 2086 1283; baseline 0 0; x_size 641.5; x_descenders -320.75; x_ascenders 320.75">
+      <span class='ocrx_word' id='word_1_1' title='bbox 0 0 2086 1283; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 977 1298 1079 1337">
+    <p class='ocr_par' id='par_1_2' lang='nno-nor' title="bbox 977 1298 1079 1337">
+     <span class='ocr_caption' id='line_1_2' title="bbox 977 1298 1079 1337; baseline 0 0; x_size 50.333332; x_descenders 12.583333; x_ascenders 12.583333">
+      <span class='ocrx_word' id='word_1_2' title='bbox 977 1298 1079 1337; x_wconf 93'>FRA</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 373 1410 1684 1546">
+    <p class='ocr_par' id='par_1_3' lang='nno-nor' title="bbox 373 1410 1684 1546">
+     <span class='ocr_caption' id='line_1_3' title="bbox 373 1410 1684 1468; baseline -0.007 -1; x_size 65.26667; x_descenders 16.316668; x_ascenders 16.316668">
+      <span class='ocrx_word' id='word_1_3' title='bbox 373 1416 749 1468; x_wconf 91'>BILLEDER</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 786 1412 940 1463; x_wconf 93'>FRA</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 975 1413 1138 1463; x_wconf 91'>DEN</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 1183 1411 1444 1462; x_wconf 91'>GAMLE</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 1488 1410 1684 1460; x_wconf 91'>STUE</span>
+     </span>
+     <span class='ocr_caption' id='line_1_4' title="bbox 984 1510 1072 1546; baseline 0 -3; x_size 65.26667; x_descenders 16.316668; x_ascenders 16.316668">
+      <span class='ocrx_word' id='word_1_8' title='bbox 984 1510 1072 1546; x_wconf 91'>1916</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 7 1431 24 3353">
+    <p class='ocr_par' id='par_1_4' lang='nno-nor' title="bbox 7 1431 24 3353">
+     <span class='ocr_line' id='line_1_5' title="bbox 7 1431 24 3353; baseline 0 0; x_size 961; x_descenders -480.5; x_ascenders 480.5">
+      <span class='ocrx_word' id='word_1_9' title='bbox 7 1431 24 3353; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 895 3345 2084 3355">
+    <p class='ocr_par' id='par_1_5' lang='nno-nor' title="bbox 895 3345 2084 3355">
+     <span class='ocr_line' id='line_1_6' title="bbox 895 3345 2084 3355; baseline 0 0; x_size 5; x_descenders -2.5; x_ascenders 2.5">
+      <span class='ocrx_word' id='word_1_10' title='bbox 895 3345 2084 3355; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

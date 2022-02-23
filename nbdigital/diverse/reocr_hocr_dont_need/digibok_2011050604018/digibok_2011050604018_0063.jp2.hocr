@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.0.0' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/data/digibok_2011050604018/digibok_2011050604018_0063.jp2"; bbox 0 0 2128 3000; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 425 934 1562 1309">
+    <p class='ocr_par' id='par_1_1' lang='nno-nor' title="bbox 425 934 1562 1309">
+     <span class='ocr_line' id='line_1_1' title="bbox 947 934 1059 1014; baseline 0.018 -2; x_size 104.61111; x_descenders 26.152779; x_ascenders 26.152779">
+      <span class='ocrx_word' id='word_1_1' title='bbox 947 934 1059 1014; x_wconf 92'>IV</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 425 1086 1562 1168; baseline 0.003 -4; x_size 104.61111; x_descenders 26.152779; x_ascenders 26.152779">
+      <span class='ocrx_word' id='word_1_2' title='bbox 425 1086 1562 1168; x_wconf 92'>TVILLINGMODERENS</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 823 1229 1177 1309; baseline -0.003 0; x_size 104.61111; x_descenders 26.152779; x_ascenders 26.152779">
+      <span class='ocrx_word' id='word_1_3' title='bbox 823 1229 1177 1309; x_wconf 82'>STRA</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 1118 1225 1176 1339; x_wconf 82'>F</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

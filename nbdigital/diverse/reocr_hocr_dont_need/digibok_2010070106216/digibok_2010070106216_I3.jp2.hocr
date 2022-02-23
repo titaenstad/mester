@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.0.0' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/data/digibok_2010070106216/digibok_2010070106216_I3.jp2"; bbox 0 0 1417 2213; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 236 1381 829 1428">
+    <p class='ocr_par' id='par_1_1' lang='nno-nor' title="bbox 236 1381 829 1428">
+     <span class='ocr_line' id='line_1_1' title="bbox 236 1381 829 1428; baseline -0.007 -10; x_size 46; x_descenders 11; x_ascenders 12">
+      <span class='ocrx_word' id='word_1_1' title='bbox 236 1395 351 1426; x_wconf 90'>mag</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 352 1377 377 1432; x_wconf 89'>.</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 397 1381 829 1428; x_wconf 0'>839.81Bjørnson</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 238 1470 1096 1545">
+    <p class='ocr_par' id='par_1_2' lang='nno-nor' title="bbox 238 1470 1096 1545">
+     <span class='ocr_line' id='line_1_2' title="bbox 238 1470 1095 1529; baseline -0.007 -8; x_size 41; x_descenders 9; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_4' title='bbox 238 1470 610 1529; x_wconf 91'>Gjems-Selmer</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 1094 1512 1095 1515; x_wconf 19'>j</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 473 1528 1096 1545; baseline -0.008 5; x_size 21.89394; x_descenders 4.8939395; x_ascenders 4.8939395">
+      <span class='ocrx_word' id='word_1_6' title='bbox 473 1538 476 1541; x_wconf 0'>⁶</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 1094 1528 1096 1545; x_wconf 30'>!</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 237 1572 1175 1636">
+    <p class='ocr_par' id='par_1_3' lang='nno-nor' title="bbox 237 1572 1175 1636">
+     <span class='ocr_caption' id='line_1_4' title="bbox 237 1572 1175 1636; baseline -0.005 -12; x_size 42; x_descenders 9; x_ascenders 11">
+      <span class='ocrx_word' id='word_1_8' title='bbox 237 1572 505 1636; x_wconf 92'>Kvinderne</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 533 1590 578 1622; x_wconf 80'>i</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 615 1589 888 1629; x_wconf 72'>Bjørnsond</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 925 1577 1175 1635; x_wconf 89'>diktning</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1096 1656 1099 1672">
+    <p class='ocr_par' id='par_1_4' lang='nno-nor' title="bbox 1096 1656 1099 1672">
+     <span class='ocr_line' id='line_1_5' title="bbox 1096 1656 1099 1672; baseline 0 0; x_size 22.666666; x_descenders 5.6666665; x_ascenders 5.6666665">
+      <span class='ocrx_word' id='word_1_12' title='bbox 1096 1656 1099 1672; x_wconf 67'>i</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 839 1668 1192 1680">
+    <p class='ocr_par' id='par_1_5' lang='nno-nor' title="bbox 839 1668 1192 1680">
+     <span class='ocr_line' id='line_1_6' title="bbox 839 1668 1192 1680; baseline 0 0; x_size 6; x_descenders -3; x_ascenders 3">
+      <span class='ocrx_word' id='word_1_13' title='bbox 839 1668 1192 1680; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1417 2213">
+    <p class='ocr_par' id='par_1_6' lang='nno-nor' title="bbox 0 0 1417 2213">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 0 1417 2213; baseline 0 19; x_size 1126.5; x_descenders -563.25; x_ascenders 563.25">
+      <span class='ocrx_word' id='word_1_14' title='bbox 0 0 1417 2213; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.0.0' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/data/digibok_2012011110001/digibok_2012011110001_0478.jp2"; bbox 0 0 1280 2064; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 354 38 936 78">
+    <p class='ocr_par' id='par_1_1' lang='nno-nor' title="bbox 354 38 936 78">
+     <span class='ocr_line' id='line_1_1' title="bbox 354 38 936 78; baseline 0.003 -8; x_size 37; x_descenders 6; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_1' title='bbox 354 39 390 70; x_wconf 92'>16</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 408 38 527 75; x_wconf 46'>Eunbdag</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 548 40 616 75; x_wconf 91'>efter</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 634 40 846 77; x_wconf 16'>Trefoldigheds.</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 864 42 936 78; x_wconf 47'>Ferft.</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 86 470 500 477">
+    <p class='ocr_par' id='par_1_2' lang='nno-nor' title="bbox 86 470 500 477">
+     <span class='ocr_line' id='line_1_2' title="bbox 86 470 500 477; x_size 207; x_descenders -103.5; x_ascenders 103.5">
+      <span class='ocrx_word' id='word_1_6' title='bbox 86 470 500 477; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 31 112 1256 2002">
+    <p class='ocr_par' id='par_1_3' lang='nno-nor' title="bbox 31 112 1256 2002">
+     <span class='ocr_line' id='line_1_3' title="bbox 31 112 1256 2002; x_size 612.5; x_descenders -306.25; x_ascenders 306.25">
+      <span class='ocrx_word' id='word_1_7' title='bbox 31 112 1256 2002; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.0.0' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/data/digibok_2010053106058/digibok_2010053106058_0039.jp2"; bbox 0 0 1873 2846; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 2334 1 2713">
+    <p class='ocr_par' id='par_1_1' lang='nno-nor' title="bbox 0 2334 1 2713">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 2334 1 2713; baseline 0 0; x_size 189.5; x_descenders -94.75; x_ascenders 94.75">
+      <span class='ocrx_word' id='word_1_1' title='bbox 0 2334 1 2713; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 541 1194 1219 1250">
+    <p class='ocr_par' id='par_1_2' lang='nno-nor' title="bbox 541 1194 1219 1250">
+     <span class='ocr_line' id='line_1_2' title="bbox 541 1194 1219 1250; baseline -0.001 -1; x_size 72; x_descenders 18; x_ascenders 18">
+      <span class='ocrx_word' id='word_1_2' title='bbox 541 1195 843 1250; x_wconf 92'>SOMMER</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 884 1195 988 1249; x_wconf 92'>OG</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 1029 1194 1219 1250; x_wconf 84'>HØST</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1872 0 1873 2846">
+    <p class='ocr_par' id='par_1_3' lang='nno-nor' title="bbox 1872 0 1873 2846">
+     <span class='ocr_line' id='line_1_3' title="bbox 1872 0 1873 2846; baseline 0 0; x_size 1423; x_descenders -711.5; x_ascenders 711.5">
+      <span class='ocrx_word' id='word_1_5' title='bbox 1872 0 1873 2846; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1861 2431 1866 2840">
+    <p class='ocr_par' id='par_1_4' lang='nno-nor' title="bbox 1861 2431 1866 2840">
+     <span class='ocr_line' id='line_1_4' title="bbox 1861 2431 1866 2840; baseline 0 0; x_size 204.5; x_descenders -102.25; x_ascenders 102.25">
+      <span class='ocrx_word' id='word_1_6' title='bbox 1861 2431 1866 2840; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

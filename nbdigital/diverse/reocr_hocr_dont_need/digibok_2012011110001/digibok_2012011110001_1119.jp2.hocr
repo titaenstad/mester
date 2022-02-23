@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.0.0' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/data/digibok_2012011110001/digibok_2012011110001_1119.jp2"; bbox 0 0 1312 2096; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 643 158 652 171">
+    <p class='ocr_par' id='par_1_1' lang='nno-nor' title="bbox 643 158 652 171">
+     <span class='ocr_line' id='line_1_1' title="bbox 643 158 652 171; baseline 0 0; x_size 17.333332; x_descenders 4.333333; x_ascenders 4.3333335">
+      <span class='ocrx_word' id='word_1_1' title='bbox 643 158 652 171; x_wconf 30'>O</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 181 213 1119 293">
+    <p class='ocr_par' id='par_1_2' lang='nno-nor' title="bbox 181 213 1119 293">
+     <span class='ocr_line' id='line_1_2' title="bbox 181 213 1119 293; baseline 0.012 -31; x_size 56.402596; x_descenders 7.4025974; x_ascenders 11">
+      <span class='ocrx_word' id='word_1_2' title='bbox 181 213 217 261; x_wconf 15'>g</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 477 225 819 266; x_wconf 92'>DØDSDAGE</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 846 214 894 297; x_wconf 44'>|</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 930 224 977 271; x_wconf 5'>§</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 1010 224 1049 293; x_wconf 36'>&amp;</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 1079 224 1119 272; x_wconf 12'>$*</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 218 368 1029 446">
+    <p class='ocr_par' id='par_1_3' lang='nno-nor' title="bbox 218 368 1029 446">
+     <span class='ocr_line' id='line_1_3' title="bbox 218 368 871 406; baseline 0.011 -11; x_size 36; x_descenders 9; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_8' title='bbox 218 368 321 405; x_wconf 87'>Salige</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 340 379 391 397; x_wconf 93'>ere</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 409 371 445 399; x_wconf 92'>de</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 467 371 563 406; x_wconf 92'>Døde,</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 581 381 642 401; x_wconf 92'>som</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 662 374 699 402; x_wconf 91'>dø</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 718 376 728 401; x_wconf 92'>i</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 747 375 871 402; x_wconf 92'>Herren.</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 744 409 1029 446; baseline 0.014 -11; x_size 37.5; x_descenders 9.5; x_ascenders 9.5">
+      <span class='ocrx_word' id='word_1_16' title='bbox 744 409 811 436; x_wconf 93'>Joh.</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 830 412 906 439; x_wconf 92'>Aab.</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 925 411 968 446; x_wconf 91'>14,</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 988 412 1029 439; x_wconf 88'>13.</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 605 461 667 491">
+    <p class='ocr_par' id='par_1_4' lang='nno-nor' title="bbox 605 461 667 491">
+     <span class='ocr_line' id='line_1_5' title="bbox 605 461 667 491; baseline 0.016 -1; x_size 36.666668; x_descenders 9.166667; x_ascenders 9.166667">
+      <span class='ocrx_word' id='word_1_20' title='bbox 605 461 667 491; x_wconf 69'>D</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

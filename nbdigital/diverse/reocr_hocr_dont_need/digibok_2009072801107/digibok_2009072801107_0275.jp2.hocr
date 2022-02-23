@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.0.0' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/data/digibok_2009072801107/digibok_2009072801107_0275.jp2"; bbox 0 0 1864 2937; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 419 1105 1197 1277">
+    <p class='ocr_par' id='par_1_1' lang='nno-nor' title="bbox 419 1105 1197 1277">
+     <span class='ocr_line' id='line_1_1' title="bbox 419 1105 1197 1165; baseline 0.003 -2; x_size 77.666664; x_descenders 19.416666; x_ascenders 19.416666">
+      <span class='ocrx_word' id='word_1_1' title='bbox 419 1105 584 1163; x_wconf 92'>DEN</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 637 1105 1008 1164; x_wconf 92'>HELLIGE</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 1057 1107 1197 1165; x_wconf 92'>ILD</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 748 1232 876 1277; baseline 0.008 -1; x_size 58.666668; x_descenders 14.666667; x_ascenders 14.666666">
+      <span class='ocrx_word' id='word_1_4' title='bbox 748 1232 876 1277; x_wconf 79'>1899</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

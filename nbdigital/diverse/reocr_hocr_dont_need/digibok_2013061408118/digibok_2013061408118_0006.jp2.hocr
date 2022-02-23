@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.0.0' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/data/digibok_2013061408118/digibok_2013061408118_0006.jp2"; bbox 0 0 1835 2841; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 342 1320 1598 1344">
+    <p class='ocr_par' id='par_1_1' lang='nno-nor' title="bbox 342 1320 1598 1344">
+     <span class='ocr_line' id='line_1_1' title="bbox 342 1320 1598 1344; baseline -0.018 0; x_size 31.25; x_descenders 7.8125; x_ascenders 7.8125">
+      <span class='ocrx_word' id='word_1_1' title='bbox 342 1320 1598 1344; x_wconf 0'>(%%%%%%%wmmmm</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 519 1364 1417 1450">
+    <p class='ocr_par' id='par_1_2' lang='nno-nor' title="bbox 519 1364 1417 1450">
+     <span class='ocr_line' id='line_1_2' title="bbox 519 1364 1417 1411; baseline -0.018 -5; x_size 40; x_descenders 7; x_ascenders 14">
+      <span class='ocrx_word' id='word_1_2' title='bbox 519 1375 760 1411; x_wconf 92'>Copyrigthed</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 774 1375 869 1401; x_wconf 92'>1910</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 882 1373 930 1405; x_wconf 93'>by</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 944 1364 1064 1398; x_wconf 92'>Laura</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 1077 1367 1227 1400; x_wconf 92'>Ringdal</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 1242 1367 1417 1397; x_wconf 92'>Bratager</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 732 1413 1211 1450; baseline -0.019 -4; x_size 31; x_descenders 5; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_8' title='bbox 732 1416 980 1450; x_wconf 91'>Minneapolis,</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 995 1413 1211 1443; x_wconf 91'>Minnesota,</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 348 1476 1602 1501">
+    <p class='ocr_par' id='par_1_3' lang='nno-nor' title="bbox 348 1476 1602 1501">
+     <span class='ocr_line' id='line_1_4' title="bbox 348 1476 1602 1501; baseline -0.018 0; x_size 32.5; x_descenders 8.125; x_ascenders 8.125">
+      <span class='ocrx_word' id='word_1_10' title='bbox 344 1462 538 1505; x_wconf 0'>%%</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 348 1476 1602 1501; x_wconf 0'>w(i((ø%%%2%[J€6%666æ66Q(([/%244Q(.(</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1660 0 1835 2841">
+    <p class='ocr_par' id='par_1_4' lang='nno-nor' title="bbox 1660 0 1835 2841">
+     <span class='ocr_line' id='line_1_5' title="bbox 1660 0 1835 2841; baseline 0 0; x_size 1420.5; x_descenders -710.25; x_ascenders 710.25">
+      <span class='ocrx_word' id='word_1_12' title='bbox 1660 0 1835 2841; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

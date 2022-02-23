@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.0.0' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/data/digibok_2009072801107/digibok_2009072801107_C2.jp2"; bbox 0 0 276 2333; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 100 36 248 2269">
+    <p class='ocr_par' id='par_1_1' lang='nno-nor' title="bbox 91 36 248 2269">
+     <span class='ocr_line' id='line_1_1' title="bbox 100 36 248 2269; baseline -131.353 262.706; x_size 165.45375; x_descenders 10.453745; x_ascenders 42">
+      <span class='ocrx_word' id='word_1_1' title='bbox 113 36 236 874; x_wconf 57'>.Drachmann:</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 121 973 230 1267; x_wconf 89'>Poetiske</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 91 1285 248 2209; x_wconf 62'>Skriften</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 87 2040 276 2265; x_wconf 0'>U.</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

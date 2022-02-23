@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.0.0' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/data/digibok_2010070205055/digibok_2010070205055_0004.jp2"; bbox 0 0 2168 2857; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 559 11 893 13">
+    <p class='ocr_par' id='par_1_1' lang='nno-nor' title="bbox 559 11 893 13">
+     <span class='ocr_line' id='line_1_1' title="bbox 559 11 893 13; baseline 0 0; x_size 1; x_descenders -0.5; x_ascenders 0.5">
+      <span class='ocrx_word' id='word_1_1' title='bbox 559 11 893 13; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 1618 2 2220">
+    <p class='ocr_par' id='par_1_2' lang='nno-nor' title="bbox 0 1618 2 2220">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 1618 2 2220; baseline 0 0; x_size 301; x_descenders -150.5; x_ascenders 150.5">
+      <span class='ocrx_word' id='word_1_2' title='bbox 0 1618 2 2220; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 743 1128 1599 1183">
+    <p class='ocr_par' id='par_1_3' lang='nno-nor' title="bbox 743 1128 1599 1183">
+     <span class='ocr_line' id='line_1_3' title="bbox 743 1128 1599 1183; baseline -0.012 -9; x_size 50; x_descenders 11; x_ascenders 11">
+      <span class='ocrx_word' id='word_1_3' title='bbox 743 1134 920 1183; x_wconf 89'>Omslag</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 937 1142 989 1182; x_wconf 91'>og</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 1000 1133 1206 1181; x_wconf 92'>vignetter</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 1224 1130 1271 1168; x_wconf 92'>af</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 1287 1130 1402 1167; x_wconf 89'>Hans</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 1419 1128 1599 1165; x_wconf 92'>TEGNER</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 803 2312 1540 2347">
+    <p class='ocr_par' id='par_1_4' lang='nno-nor' title="bbox 803 2312 1540 2347">
+     <span class='ocr_line' id='line_1_4' title="bbox 803 2312 1540 2347; baseline -0.011 0; x_size 34.377777; x_descenders 5.3777776; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_9' title='bbox 803 2318 1027 2347; x_wconf 63'>KøpenmHavn.</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 1046 2316 1166 2345; x_wconf 1'>Taryrkt</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 1185 2321 1251 2344; x_wconf 36'>mos</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 1271 2312 1307 2342; x_wconf 89'>F.</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 1328 2312 1366 2341; x_wconf 92'>E.</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 1387 2312 1540 2341; x_wconf 40'>Bonprnc</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.0.0' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/data/digibok_2011121308005/digibok_2011121308005_0013.jp2"; bbox 0 0 2301 3641; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 72 2098 2122">
+    <p class='ocr_par' id='par_1_1' lang='nno-nor' title="bbox 0 72 2098 2122">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 72 2098 2122; baseline 0 0; x_size 1025; x_descenders -512.5; x_ascenders 512.5">
+      <span class='ocrx_word' id='word_1_1' title='bbox 0 72 2098 2122; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 581 2252 1408 2369">
+    <p class='ocr_par' id='par_1_2' lang='nno-nor' title="bbox 581 2252 1408 2369">
+     <span class='ocr_caption' id='line_1_2' title="bbox 581 2252 1408 2369; baseline -0.004 -31; x_size 97.380951; x_descenders 12.380953; x_ascenders 33">
+      <span class='ocrx_word' id='word_1_2' title='bbox 581 2258 791 2338; x_wconf 92'>Den</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 840 2252 1138 2338; x_wconf 92'>anden</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 1185 2254 1408 2369; x_wconf 92'>Sang</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 71 2482 1933 2687">
+    <p class='ocr_par' id='par_1_3' lang='nno-nor' title="bbox 71 2482 1933 2687">
+     <span class='ocr_caption' id='line_1_3' title="bbox 71 2482 1933 2687; baseline -0.002 -59; x_size 166.37572; x_descenders 21.375723; x_ascenders 59">
+      <span class='ocrx_word' id='word_1_5' title='bbox 71 2483 623 2687; x_wconf 92'>Helligt</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 680 2483 1144 2630; x_wconf 92'>vorde</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 1201 2482 1423 2628; x_wconf 93'>dit</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 1645 2539 1933 2627; x_wconf 93'>Navn</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

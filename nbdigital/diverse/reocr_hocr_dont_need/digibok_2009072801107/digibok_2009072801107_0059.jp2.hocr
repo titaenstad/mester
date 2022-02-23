@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.0.0' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/data/digibok_2009072801107/digibok_2009072801107_0059.jp2"; bbox 0 0 1856 2937; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 0 933 12">
+    <p class='ocr_par' id='par_1_1' lang='nno-nor' title="bbox 0 0 933 12">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 0 933 12; baseline 0 2925; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_1' title='bbox 0 0 933 12; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 82 7 819">
+    <p class='ocr_par' id='par_1_2' lang='nno-nor' title="bbox 0 82 7 819">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 82 7 819; baseline 0 0; x_size 368.5; x_descenders -184.25; x_ascenders 184.25">
+      <span class='ocrx_word' id='word_1_2' title='bbox 0 82 7 819; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 933 0 1853 9">
+    <p class='ocr_par' id='par_1_3' lang='nno-nor' title="bbox 933 0 1853 9">
+     <span class='ocr_line' id='line_1_3' title="bbox 933 0 1853 9; baseline 0 0; x_size 9; x_descenders -4.5; x_ascenders 4.5">
+      <span class='ocrx_word' id='word_1_3' title='bbox 933 0 1853 9; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 292 175 1364 225">
+    <p class='ocr_par' id='par_1_4' lang='nno-nor' title="bbox 292 175 1364 225">
+     <span class='ocr_line' id='line_1_4' title="bbox 292 175 1364 225; baseline -0.013 0; x_size 50.242424; x_descenders 12.560606; x_ascenders 12.560606">
+      <span class='ocrx_word' id='word_1_4' title='bbox 292 186 469 225; x_wconf 92'>ØSTEN</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 485 184 592 223; x_wconf 88'>FOR</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 605 183 711 221; x_wconf 88'>SOL</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 727 181 803 220; x_wconf 91'>OG</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 828 179 1033 218; x_wconf 92'>VESTEN</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 1048 178 1154 215; x_wconf 93'>FOR</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 1168 175 1364 213; x_wconf 50'>MAANE</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 278 304 1422 765">
+    <p class='ocr_par' id='par_1_5' lang='nno-nor' title="bbox 278 304 1193 363">
+     <span class='ocr_line' id='line_1_5' title="bbox 278 304 1193 363; baseline -0.012 -10; x_size 49; x_descenders 10; x_ascenders 13">
+      <span class='ocrx_word' id='word_1_11' title='bbox 278 316 471 363; x_wconf 92'>Igennem</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 499 311 607 351; x_wconf 93'>Skov</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 636 322 687 359; x_wconf 93'>og</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 716 309 824 347; x_wconf 93'>Krat.</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 856 307 942 346; x_wconf 92'>Her</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 970 306 1081 354; x_wconf 92'>jages</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 1108 304 1193 343; x_wconf 92'>selv</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_6' lang='nno-nor' title="bbox 278 363 1270 413">
+     <span class='ocr_line' id='line_1_6' title="bbox 278 363 1270 413; baseline -0.012 -1; x_size 53; x_descenders 10; x_ascenders 16">
+      <span class='ocrx_word' id='word_1_18' title='bbox 278 373 368 411; x_wconf 92'>Han</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 394 373 432 410; x_wconf 92'>af</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 456 366 516 410; x_wconf 92'>sin</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 541 371 685 408; x_wconf 92'>Dame.</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 713 367 847 406; x_wconf 92'>Hvem</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 870 367 948 405; x_wconf 92'>kan</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 973 365 1064 413; x_wconf 90'>sligt</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 1089 363 1270 402; x_wconf 90'>forstaa</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 1250 359 1273 420; x_wconf 90'>?</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_7' lang='nno-nor' title="bbox 278 422 1239 474">
+     <span class='ocr_line' id='line_1_7' title="bbox 278 422 1239 474; baseline -0.011 -3; x_size 51; x_descenders 12; x_ascenders 13">
+      <span class='ocrx_word' id='word_1_27' title='bbox 278 432 370 471; x_wconf 92'>Han</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 397 444 439 469; x_wconf 92'>er</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 468 442 517 469; x_wconf 93'>en</span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 548 428 842 467; x_wconf 92'>Riddersmand</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 873 425 934 464; x_wconf 92'>fra</span>
+      <span class='ocrx_word' id='word_1_32' title='bbox 962 424 1046 474; x_wconf 93'>Top</span>
+      <span class='ocrx_word' id='word_1_33' title='bbox 1075 423 1117 462; x_wconf 92'>til</span>
+      <span class='ocrx_word' id='word_1_34' title='bbox 1148 422 1239 466; x_wconf 92'>Taa,</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_8' lang='nno-nor' title="bbox 279 480 1417 651">
+     <span class='ocr_line' id='line_1_8' title="bbox 279 480 1417 536; baseline -0.012 -6; x_size 50; x_descenders 11; x_ascenders 13">
+      <span class='ocrx_word' id='word_1_35' title='bbox 279 491 364 530; x_wconf 93'>Har</span>
+      <span class='ocrx_word' id='word_1_36' title='bbox 390 490 485 528; x_wconf 92'>Mod</span>
+      <span class='ocrx_word' id='word_1_37' title='bbox 512 488 522 527; x_wconf 90'>i</span>
+      <span class='ocrx_word' id='word_1_38' title='bbox 552 489 685 536; x_wconf 90'>Bryst,</span>
+      <span class='ocrx_word' id='word_1_39' title='bbox 716 487 817 524; x_wconf 93'>hans</span>
+      <span class='ocrx_word' id='word_1_40' title='bbox 845 484 1013 523; x_wconf 92'>Pilskud</span>
+      <span class='ocrx_word' id='word_1_41' title='bbox 1043 482 1167 530; x_wconf 91'>aldrig</span>
+      <span class='ocrx_word' id='word_1_42' title='bbox 1196 480 1333 527; x_wconf 90'>fejler;</span>
+      <span class='ocrx_word' id='word_1_43' title='bbox 1361 501 1417 504; x_wconf 44'>—</span>
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 280 538 1387 591; baseline -0.013 -2; x_size 48; x_descenders 10; x_ascenders 12">
+      <span class='ocrx_word' id='word_1_44' title='bbox 280 550 375 590; x_wconf 92'>Selv</span>
+      <span class='ocrx_word' id='word_1_45' title='bbox 402 561 444 587; x_wconf 92'>er</span>
+      <span class='ocrx_word' id='word_1_46' title='bbox 470 548 547 586; x_wconf 92'>han</span>
+      <span class='ocrx_word' id='word_1_47' title='bbox 576 545 762 585; x_wconf 91'>anskudt.</span>
+      <span class='ocrx_word' id='word_1_48' title='bbox 794 544 884 591; x_wconf 92'>Hej,</span>
+      <span class='ocrx_word' id='word_1_49' title='bbox 915 544 1016 581; x_wconf 93'>hvor</span>
+      <span class='ocrx_word' id='word_1_50' title='bbox 1045 541 1200 579; x_wconf 92'>Hesten</span>
+      <span class='ocrx_word' id='word_1_51' title='bbox 1229 538 1387 586; x_wconf 92'>stejler</span>
+      <span class='ocrx_word' id='word_1_52' title='bbox 1372 534 1389 596; x_wconf 92'>!</span>
+     </span>
+     <span class='ocr_line' id='line_1_10' title="bbox 279 600 1179 651; baseline -0.011 -4; x_size 49; x_descenders 10; x_ascenders 12">
+      <span class='ocrx_word' id='word_1_53' title='bbox 279 609 371 647; x_wconf 93'>Han</span>
+      <span class='ocrx_word' id='word_1_54' title='bbox 394 608 447 646; x_wconf 93'>vil</span>
+      <span class='ocrx_word' id='word_1_55' title='bbox 472 607 550 646; x_wconf 93'>nok</span>
+      <span class='ocrx_word' id='word_1_56' title='bbox 575 605 660 644; x_wconf 93'>ride</span>
+      <span class='ocrx_word' id='word_1_57' title='bbox 686 604 747 642; x_wconf 92'>fra</span>
+      <span class='ocrx_word' id='word_1_58' title='bbox 771 603 831 651; x_wconf 92'>sig</span>
+      <span class='ocrx_word' id='word_1_59' title='bbox 855 602 942 641; x_wconf 93'>selv</span>
+      <span class='ocrx_word' id='word_1_60' title='bbox 968 612 1017 649; x_wconf 92'>og</span>
+      <span class='ocrx_word' id='word_1_61' title='bbox 1041 600 1179 638; x_wconf 92'>Tiden.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_9' lang='nno-nor' title="bbox 279 656 1422 765">
+     <span class='ocr_line' id='line_1_11' title="bbox 279 656 1422 716; baseline -0.011 -10; x_size 51; x_descenders 11; x_ascenders 13">
+      <span class='ocrx_word' id='word_1_62' title='bbox 279 669 358 706; x_wconf 92'>Det</span>
+      <span class='ocrx_word' id='word_1_63' title='bbox 380 678 474 716; x_wconf 90'>gaar</span>
+      <span class='ocrx_word' id='word_1_64' title='bbox 496 665 545 713; x_wconf 93'>ej.</span>
+      <span class='ocrx_word' id='word_1_65' title='bbox 570 664 684 703; x_wconf 91'>Tæm</span>
+      <span class='ocrx_word' id='word_1_66' title='bbox 708 662 785 711; x_wconf 93'>Dig</span>
+      <span class='ocrx_word' id='word_1_67' title='bbox 807 662 893 701; x_wconf 92'>selv</span>
+      <span class='ocrx_word' id='word_1_68' title='bbox 918 671 968 708; x_wconf 93'>og</span>
+      <span class='ocrx_word' id='word_1_69' title='bbox 992 671 1085 709; x_wconf 93'>spor</span>
+      <span class='ocrx_word' id='word_1_70' title='bbox 1109 658 1143 705; x_wconf 91'>ej</span>
+      <span class='ocrx_word' id='word_1_71' title='bbox 1169 656 1340 695; x_wconf 91'>Hesten.</span>
+      <span class='ocrx_word' id='word_1_72' title='bbox 1365 678 1422 680; x_wconf 70'>—</span>
+     </span>
+     <span class='ocr_line' id='line_1_12' title="bbox 281 716 1271 765; baseline -0.012 1; x_size 49; x_descenders 10; x_ascenders 12">
+      <span class='ocrx_word' id='word_1_73' title='bbox 281 727 376 765; x_wconf 92'>Man</span>
+      <span class='ocrx_word' id='word_1_74' title='bbox 406 737 472 764; x_wconf 92'>ser</span>
+      <span class='ocrx_word' id='word_1_75' title='bbox 501 726 588 764; x_wconf 92'>det:</span>
+      <span class='ocrx_word' id='word_1_76' title='bbox 621 724 686 762; x_wconf 91'>Du</span>
+      <span class='ocrx_word' id='word_1_77' title='bbox 718 734 761 761; x_wconf 93'>er</span>
+      <span class='ocrx_word' id='word_1_78' title='bbox 792 733 841 760; x_wconf 93'>en</span>
+      <span class='ocrx_word' id='word_1_79' title='bbox 874 720 1092 759; x_wconf 91'>forsmaaet</span>
+      <span class='ocrx_word' id='word_1_80' title='bbox 1124 716 1271 765; x_wconf 89'>Bejler.</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 283 834 1352 2067">
+    <p class='ocr_par' id='par_1_10' lang='nno-nor' title="bbox 283 834 1331 1004">
+     <span class='ocr_line' id='line_1_13' title="bbox 283 834 1273 891; baseline -0.012 -7; x_size 45; x_descenders 7; x_ascenders 12">
+      <span class='ocrx_word' id='word_1_81' title='bbox 283 844 370 883; x_wconf 92'>Her</span>
+      <span class='ocrx_word' id='word_1_82' title='bbox 395 846 537 891; x_wconf 92'>drager</span>
+      <span class='ocrx_word' id='word_1_83' title='bbox 562 854 654 880; x_wconf 93'>man</span>
+      <span class='ocrx_word' id='word_1_84' title='bbox 681 841 691 878; x_wconf 92'>i</span>
+      <span class='ocrx_word' id='word_1_85' title='bbox 719 839 885 887; x_wconf 92'>Leding,</span>
+      <span class='ocrx_word' id='word_1_86' title='bbox 914 838 987 875; x_wconf 92'>her</span>
+      <span class='ocrx_word' id='word_1_87' title='bbox 1013 848 1105 875; x_wconf 92'>man</span>
+      <span class='ocrx_word' id='word_1_88' title='bbox 1132 834 1273 882; x_wconf 92'>sejler</span>
+      <span class='ocrx_word' id='word_1_89' title='bbox 1254 830 1275 886; x_wconf 93'>;</span>
+     </span>
+     <span class='ocr_line' id='line_1_14' title="bbox 284 892 1331 946; baseline -0.012 -3; x_size 47; x_descenders 8; x_ascenders 13">
+      <span class='ocrx_word' id='word_1_90' title='bbox 284 903 370 942; x_wconf 92'>Her</span>
+      <span class='ocrx_word' id='word_1_91' title='bbox 398 902 520 941; x_wconf 92'>fisker</span>
+      <span class='ocrx_word' id='word_1_92' title='bbox 545 913 650 946; x_wconf 90'>man,</span>
+      <span class='ocrx_word' id='word_1_93' title='bbox 681 900 753 938; x_wconf 92'>her</span>
+      <span class='ocrx_word' id='word_1_94' title='bbox 782 898 878 936; x_wconf 91'>flaar</span>
+      <span class='ocrx_word' id='word_1_95' title='bbox 906 908 999 935; x_wconf 91'>man</span>
+      <span class='ocrx_word' id='word_1_96' title='bbox 1030 895 1194 933; x_wconf 92'>Oksens</span>
+      <span class='ocrx_word' id='word_1_97' title='bbox 1224 892 1331 931; x_wconf 91'>Hud.</span>
+     </span>
+     <span class='ocr_line' id='line_1_15' title="bbox 283 955 1048 1004; baseline -0.012 -2; x_size 49; x_descenders 9; x_ascenders 14">
+      <span class='ocrx_word' id='word_1_98' title='bbox 283 962 370 1001; x_wconf 92'>Her</span>
+      <span class='ocrx_word' id='word_1_99' title='bbox 398 962 531 1002; x_wconf 92'>driver</span>
+      <span class='ocrx_word' id='word_1_100' title='bbox 561 958 797 999; x_wconf 92'>Patriarken</span>
+      <span class='ocrx_word' id='word_1_101' title='bbox 828 956 965 1004; x_wconf 92'>Hagar</span>
+      <span class='ocrx_word' id='word_1_102' title='bbox 996 955 1048 993; x_wconf 92'>ud</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_11' lang='nno-nor' title="bbox 284 1014 1191 1065">
+     <span class='ocr_line' id='line_1_16' title="bbox 284 1014 1191 1065; baseline -0.011 -5; x_size 46; x_descenders 7; x_ascenders 12">
+      <span class='ocrx_word' id='word_1_103' title='bbox 284 1023 297 1060; x_wconf 93'>I</span>
+      <span class='ocrx_word' id='word_1_104' title='bbox 324 1021 506 1065; x_wconf 91'>Ørknen,</span>
+      <span class='ocrx_word' id='word_1_105' title='bbox 534 1019 705 1058; x_wconf 92'>medens</span>
+      <span class='ocrx_word' id='word_1_106' title='bbox 731 1016 829 1056; x_wconf 93'>Sara</span>
+      <span class='ocrx_word' id='word_1_107' title='bbox 854 1014 1108 1058; x_wconf 67'>triumferer</span>
+      <span class='ocrx_word' id='word_1_108' title='bbox 1106 1010 1125 1069; x_wconf 49'>;</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_12' lang='nno-nor' title="bbox 285 1074 1161 1125">
+     <span class='ocr_line' id='line_1_17' title="bbox 285 1074 1161 1125; baseline -0.01 -7; x_size 48; x_descenders 9; x_ascenders 13">
+      <span class='ocrx_word' id='word_1_109' title='bbox 285 1081 298 1118; x_wconf 89'>I</span>
+      <span class='ocrx_word' id='word_1_110' title='bbox 329 1079 428 1125; x_wconf 92'>Telt,</span>
+      <span class='ocrx_word' id='word_1_111' title='bbox 476 1079 477 1116; x_wconf 92'>i</span>
+      <span class='ocrx_word' id='word_1_112' title='bbox 502 1077 593 1115; x_wconf 92'>Hus</span>
+      <span class='ocrx_word' id='word_1_113' title='bbox 622 1077 701 1115; x_wconf 92'>den</span>
+      <span class='ocrx_word' id='word_1_114' title='bbox 731 1074 955 1113; x_wconf 91'>Stærkeste</span>
+      <span class='ocrx_word' id='word_1_115' title='bbox 986 1083 1161 1119; x_wconf 90'>regerer.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_13' lang='nno-nor' title="bbox 284 1131 1105 1187">
+     <span class='ocr_line' id='line_1_18' title="bbox 284 1131 1105 1187; baseline -0.012 -9; x_size 46; x_descenders 7; x_ascenders 13">
+      <span class='ocrx_word' id='word_1_116' title='bbox 284 1139 370 1178; x_wconf 91'>Her</span>
+      <span class='ocrx_word' id='word_1_117' title='bbox 397 1138 544 1187; x_wconf 92'>synder</span>
+      <span class='ocrx_word' id='word_1_118' title='bbox 572 1136 716 1180; x_wconf 92'>David,</span>
+      <span class='ocrx_word' id='word_1_119' title='bbox 743 1135 815 1172; x_wconf 92'>her</span>
+      <span class='ocrx_word' id='word_1_120' title='bbox 844 1133 1030 1172; x_wconf 91'>Susanna</span>
+      <span class='ocrx_word' id='word_1_121' title='bbox 1057 1131 1105 1178; x_wconf 92'>ej.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_14' lang='nno-nor' title="bbox 286 1187 1277 1299">
+     <span class='ocr_line' id='line_1_19' title="bbox 286 1187 1277 1243; baseline -0.012 -6; x_size 49; x_descenders 10; x_ascenders 13">
+      <span class='ocrx_word' id='word_1_122' title='bbox 286 1198 372 1237; x_wconf 92'>Her</span>
+      <span class='ocrx_word' id='word_1_123' title='bbox 399 1197 510 1236; x_wconf 91'>leder</span>
+      <span class='ocrx_word' id='word_1_124' title='bbox 538 1195 748 1243; x_wconf 91'>Stjernens</span>
+      <span class='ocrx_word' id='word_1_125' title='bbox 778 1192 876 1231; x_wconf 93'>Skin</span>
+      <span class='ocrx_word' id='word_1_126' title='bbox 902 1198 963 1230; x_wconf 91'>tre</span>
+      <span class='ocrx_word' id='word_1_127' title='bbox 993 1190 1178 1237; x_wconf 91'>Kongers</span>
+      <span class='ocrx_word' id='word_1_128' title='bbox 1205 1187 1277 1235; x_wconf 91'>Vej</span>
+     </span>
+     <span class='ocr_line' id='line_1_20' title="bbox 286 1248 1199 1299; baseline -0.012 -3; x_size 49; x_descenders 10; x_ascenders 12">
+      <span class='ocrx_word' id='word_1_129' title='bbox 286 1257 379 1295; x_wconf 92'>Hen</span>
+      <span class='ocrx_word' id='word_1_130' title='bbox 406 1256 448 1295; x_wconf 92'>til</span>
+      <span class='ocrx_word' id='word_1_131' title='bbox 475 1267 525 1294; x_wconf 91'>en</span>
+      <span class='ocrx_word' id='word_1_132' title='bbox 552 1254 708 1299; x_wconf 90'>Moder,</span>
+      <span class='ocrx_word' id='word_1_133' title='bbox 739 1263 826 1291; x_wconf 92'>som</span>
+      <span class='ocrx_word' id='word_1_134' title='bbox 851 1251 924 1289; x_wconf 92'>har</span>
+      <span class='ocrx_word' id='word_1_135' title='bbox 952 1249 1064 1288; x_wconf 92'>redet</span>
+      <span class='ocrx_word' id='word_1_136' title='bbox 1092 1248 1199 1295; x_wconf 92'>Seng</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_15' lang='nno-nor' title="bbox 287 1308 1166 1365">
+     <span class='ocr_line' id='line_1_21' title="bbox 287 1308 1166 1365; baseline -0.013 -10; x_size 49; x_descenders 10; x_ascenders 12">
+      <span class='ocrx_word' id='word_1_137' title='bbox 287 1317 301 1355; x_wconf 93'>I</span>
+      <span class='ocrx_word' id='word_1_138' title='bbox 331 1315 523 1365; x_wconf 92'>Krybben</span>
+      <span class='ocrx_word' id='word_1_139' title='bbox 551 1313 612 1352; x_wconf 93'>for</span>
+      <span class='ocrx_word' id='word_1_140' title='bbox 639 1324 690 1351; x_wconf 92'>en</span>
+      <span class='ocrx_word' id='word_1_141' title='bbox 719 1311 839 1355; x_wconf 92'>liden,</span>
+      <span class='ocrx_word' id='word_1_142' title='bbox 866 1309 988 1357; x_wconf 92'>dejlig</span>
+      <span class='ocrx_word' id='word_1_143' title='bbox 1015 1308 1166 1355; x_wconf 92'>Dreng,</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_16' lang='nno-nor' title="bbox 287 1365 1306 1590">
+     <span class='ocr_line' id='line_1_22' title="bbox 287 1365 1306 1422; baseline -0.012 -8; x_size 49; x_descenders 10; x_ascenders 12">
+      <span class='ocrx_word' id='word_1_144' title='bbox 287 1374 393 1413; x_wconf 92'>Hvis</span>
+      <span class='ocrx_word' id='word_1_145' title='bbox 419 1373 524 1422; x_wconf 92'>Øjne</span>
+      <span class='ocrx_word' id='word_1_146' title='bbox 551 1373 638 1421; x_wconf 92'>lyse</span>
+      <span class='ocrx_word' id='word_1_147' title='bbox 667 1371 753 1410; x_wconf 93'>selv</span>
+      <span class='ocrx_word' id='word_1_148' title='bbox 782 1381 869 1408; x_wconf 92'>som</span>
+      <span class='ocrx_word' id='word_1_149' title='bbox 897 1367 1086 1406; x_wconf 92'>Himlens</span>
+      <span class='ocrx_word' id='word_1_150' title='bbox 1115 1365 1306 1413; x_wconf 83'>Stjerner.</span>
+     </span>
+     <span class='ocr_line' id='line_1_23' title="bbox 288 1423 1249 1478; baseline -0.012 -5; x_size 46; x_descenders 7; x_ascenders 13">
+      <span class='ocrx_word' id='word_1_151' title='bbox 288 1433 375 1472; x_wconf 92'>Her</span>
+      <span class='ocrx_word' id='word_1_152' title='bbox 400 1433 535 1471; x_wconf 92'>sidder</span>
+      <span class='ocrx_word' id='word_1_153' title='bbox 561 1432 767 1478; x_wconf 91'>Drengen,</span>
+      <span class='ocrx_word' id='word_1_154' title='bbox 797 1428 940 1466; x_wconf 93'>vokset</span>
+      <span class='ocrx_word' id='word_1_155' title='bbox 966 1438 1016 1473; x_wconf 93'>op</span>
+      <span class='ocrx_word' id='word_1_156' title='bbox 1045 1425 1085 1464; x_wconf 92'>til</span>
+      <span class='ocrx_word' id='word_1_157' title='bbox 1114 1423 1249 1468; x_wconf 92'>Mand,</span>
+     </span>
+     <span class='ocr_line' id='line_1_24' title="bbox 287 1483 1278 1539; baseline -0.011 -8; x_size 48; x_descenders 10; x_ascenders 12">
+      <span class='ocrx_word' id='word_1_158' title='bbox 287 1493 399 1537; x_wconf 92'>Mild,</span>
+      <span class='ocrx_word' id='word_1_159' title='bbox 426 1492 518 1539; x_wconf 93'>klog</span>
+      <span class='ocrx_word' id='word_1_160' title='bbox 542 1502 592 1538; x_wconf 93'>og</span>
+      <span class='ocrx_word' id='word_1_161' title='bbox 615 1489 717 1528; x_wconf 92'>skøn</span>
+      <span class='ocrx_word' id='word_1_162' title='bbox 742 1487 919 1526; x_wconf 91'>imellem</span>
+      <span class='ocrx_word' id='word_1_163' title='bbox 942 1485 1089 1524; x_wconf 92'>tvende</span>
+      <span class='ocrx_word' id='word_1_164' title='bbox 1113 1483 1278 1526; x_wconf 89'>Terner,</span>
+     </span>
+     <span class='ocr_line' id='line_1_25' title="bbox 289 1543 1194 1590; baseline -0.012 0; x_size 47.718102; x_descenders 9.7181034; x_ascenders 12">
+      <span class='ocrx_word' id='word_1_165' title='bbox 289 1550 445 1590; x_wconf 91'>Hvoraf</span>
+      <span class='ocrx_word' id='word_1_166' title='bbox 472 1550 548 1588; x_wconf 91'>den</span>
+      <span class='ocrx_word' id='word_1_167' title='bbox 576 1560 653 1587; x_wconf 92'>ene</span>
+      <span class='ocrx_word' id='word_1_168' title='bbox 681 1547 845 1590; x_wconf 92'>skøtter,</span>
+      <span class='ocrx_word' id='word_1_169' title='bbox 875 1544 980 1583; x_wconf 92'>hvad</span>
+      <span class='ocrx_word' id='word_1_170' title='bbox 1008 1544 1089 1581; x_wconf 92'>hun</span>
+      <span class='ocrx_word' id='word_1_171' title='bbox 1118 1543 1194 1580; x_wconf 93'>kan</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_17' lang='nno-nor' title="bbox 290 1600 1308 1717">
+     <span class='ocr_line' id='line_1_26' title="bbox 290 1600 1308 1655; baseline -0.013 -6; x_size 49; x_descenders 11; x_ascenders 11">
+      <span class='ocrx_word' id='word_1_172' title='bbox 290 1611 303 1649; x_wconf 92'>I</span>
+      <span class='ocrx_word' id='word_1_173' title='bbox 331 1610 475 1653; x_wconf 92'>Huset,</span>
+      <span class='ocrx_word' id='word_1_174' title='bbox 502 1619 618 1647; x_wconf 92'>mens</span>
+      <span class='ocrx_word' id='word_1_175' title='bbox 642 1607 725 1645; x_wconf 92'>hun</span>
+      <span class='ocrx_word' id='word_1_176' title='bbox 750 1617 823 1655; x_wconf 92'>paa</span>
+      <span class='ocrx_word' id='word_1_177' title='bbox 847 1606 925 1644; x_wconf 92'>den</span>
+      <span class='ocrx_word' id='word_1_178' title='bbox 951 1603 1081 1641; x_wconf 93'>anden</span>
+      <span class='ocrx_word' id='word_1_179' title='bbox 1107 1600 1308 1644; x_wconf 91'>skænder,</span>
+     </span>
+     <span class='ocr_line' id='line_1_27' title="bbox 290 1660 1165 1717; baseline -0.013 -9; x_size 49; x_descenders 11; x_ascenders 11">
+      <span class='ocrx_word' id='word_1_180' title='bbox 290 1669 385 1708; x_wconf 91'>Som</span>
+      <span class='ocrx_word' id='word_1_181' title='bbox 413 1668 538 1717; x_wconf 92'>gyder</span>
+      <span class='ocrx_word' id='word_1_182' title='bbox 566 1677 664 1705; x_wconf 92'>over</span>
+      <span class='ocrx_word' id='word_1_183' title='bbox 695 1664 895 1703; x_wconf 92'>Mandens</span>
+      <span class='ocrx_word' id='word_1_184' title='bbox 921 1673 1053 1709; x_wconf 92'>nøgne</span>
+      <span class='ocrx_word' id='word_1_185' title='bbox 1084 1660 1165 1698; x_wconf 93'>Fod</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_18' lang='nno-nor' title="bbox 290 1718 1279 1833">
+     <span class='ocr_line' id='line_1_28' title="bbox 290 1718 1279 1766; baseline -0.011 0; x_size 47.718102; x_descenders 9.7181034; x_ascenders 12">
+      <span class='ocrx_word' id='word_1_186' title='bbox 290 1729 350 1766; x_wconf 93'>En</span>
+      <span class='ocrx_word' id='word_1_187' title='bbox 384 1727 545 1765; x_wconf 92'>kostbar</span>
+      <span class='ocrx_word' id='word_1_188' title='bbox 580 1725 700 1764; x_wconf 92'>Salve</span>
+      <span class='ocrx_word' id='word_1_189' title='bbox 734 1723 897 1761; x_wconf 92'>mellem</span>
+      <span class='ocrx_word' id='word_1_190' title='bbox 931 1720 1052 1758; x_wconf 91'>hvide</span>
+      <span class='ocrx_word' id='word_1_191' title='bbox 1087 1718 1279 1757; x_wconf 89'>Hænder.</span>
+     </span>
+     <span class='ocr_line' id='line_1_29' title="bbox 290 1778 1223 1833; baseline -0.012 -8; x_size 49; x_descenders 11; x_ascenders 12">
+      <span class='ocrx_word' id='word_1_192' title='bbox 290 1787 377 1825; x_wconf 93'>Her</span>
+      <span class='ocrx_word' id='word_1_193' title='bbox 402 1786 569 1833; x_wconf 92'>hænger</span>
+      <span class='ocrx_word' id='word_1_194' title='bbox 597 1783 788 1826; x_wconf 92'>Manden,</span>
+      <span class='ocrx_word' id='word_1_195' title='bbox 818 1780 951 1829; x_wconf 78'>naglet</span>
+      <span class='ocrx_word' id='word_1_196' title='bbox 978 1779 1020 1817; x_wconf 92'>til</span>
+      <span class='ocrx_word' id='word_1_197' title='bbox 1048 1785 1086 1816; x_wconf 91'>et</span>
+      <span class='ocrx_word' id='word_1_198' title='bbox 1112 1778 1223 1822; x_wconf 92'>Træ</span>
+      <span class='ocrx_word' id='word_1_199' title='bbox 1207 1774 1228 1837; x_wconf 89'>;</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_19' lang='nno-nor' title="bbox 291 1837 1197 1887">
+     <span class='ocr_line' id='line_1_30' title="bbox 291 1837 1197 1887; baseline -0.012 -2; x_size 50; x_descenders 11; x_ascenders 13">
+      <span class='ocrx_word' id='word_1_200' title='bbox 291 1846 339 1885; x_wconf 93'>Et</span>
+      <span class='ocrx_word' id='word_1_201' title='bbox 364 1845 467 1883; x_wconf 91'>Kors</span>
+      <span class='ocrx_word' id='word_1_202' title='bbox 491 1844 569 1882; x_wconf 93'>han</span>
+      <span class='ocrx_word' id='word_1_203' title='bbox 594 1844 759 1887; x_wconf 92'>danner,</span>
+      <span class='ocrx_word' id='word_1_204' title='bbox 786 1851 872 1879; x_wconf 92'>som</span>
+      <span class='ocrx_word' id='word_1_205' title='bbox 896 1838 1064 1887; x_wconf 93'>Tapetet</span>
+      <span class='ocrx_word' id='word_1_206' title='bbox 1087 1837 1197 1876; x_wconf 92'>deler</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_20' lang='nno-nor' title="bbox 292 1896 1118 1943">
+     <span class='ocr_line' id='line_1_31' title="bbox 292 1896 1118 1943; baseline -0.013 1; x_size 48.718102; x_descenders 9.7181034; x_ascenders 13">
+      <span class='ocrx_word' id='word_1_207' title='bbox 292 1906 306 1943; x_wconf 93'>I</span>
+      <span class='ocrx_word' id='word_1_208' title='bbox 332 1904 478 1943; x_wconf 93'>tvende</span>
+      <span class='ocrx_word' id='word_1_209' title='bbox 506 1902 652 1941; x_wconf 90'>Felter.</span>
+      <span class='ocrx_word' id='word_1_210' title='bbox 681 1901 762 1939; x_wconf 93'>Paa</span>
+      <span class='ocrx_word' id='word_1_211' title='bbox 787 1899 853 1938; x_wconf 92'>det</span>
+      <span class='ocrx_word' id='word_1_212' title='bbox 879 1910 955 1936; x_wconf 92'>ene</span>
+      <span class='ocrx_word' id='word_1_213' title='bbox 983 1896 1118 1935; x_wconf 92'>skeler</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_21' lang='nno-nor' title="bbox 292 1954 1352 2067">
+     <span class='ocr_line' id='line_1_32' title="bbox 292 1954 1352 2006; baseline -0.012 -3; x_size 50; x_descenders 11; x_ascenders 12">
+      <span class='ocrx_word' id='word_1_214' title='bbox 292 1964 352 2003; x_wconf 92'>En</span>
+      <span class='ocrx_word' id='word_1_215' title='bbox 378 1961 577 2002; x_wconf 92'>skummel</span>
+      <span class='ocrx_word' id='word_1_216' title='bbox 606 1960 758 2005; x_wconf 92'>Præst;</span>
+      <span class='ocrx_word' id='word_1_217' title='bbox 786 1969 879 1996; x_wconf 92'>men</span>
+      <span class='ocrx_word' id='word_1_218' title='bbox 906 1968 981 2006; x_wconf 92'>paa</span>
+      <span class='ocrx_word' id='word_1_219' title='bbox 1009 1956 1076 1994; x_wconf 92'>det</span>
+      <span class='ocrx_word' id='word_1_220' title='bbox 1102 1954 1220 1994; x_wconf 92'>andet</span>
+      <span class='ocrx_word' id='word_1_221' title='bbox 1246 1959 1352 1991; x_wconf 92'>staar</span>
+     </span>
+     <span class='ocr_line' id='line_1_33' title="bbox 293 2013 1289 2067; baseline -0.012 -5; x_size 51; x_descenders 11; x_ascenders 13">
+      <span class='ocrx_word' id='word_1_222' title='bbox 293 2024 353 2062; x_wconf 93'>En</span>
+      <span class='ocrx_word' id='word_1_223' title='bbox 380 2022 535 2066; x_wconf 93'>Moder,</span>
+      <span class='ocrx_word' id='word_1_224' title='bbox 564 2031 652 2059; x_wconf 92'>som</span>
+      <span class='ocrx_word' id='word_1_225' title='bbox 680 2018 741 2067; x_wconf 92'>sig</span>
+      <span class='ocrx_word' id='word_1_226' title='bbox 768 2017 865 2057; x_wconf 92'>vildt</span>
+      <span class='ocrx_word' id='word_1_227' title='bbox 893 2017 954 2055; x_wconf 92'>for</span>
+      <span class='ocrx_word' id='word_1_228' title='bbox 984 2015 1146 2064; x_wconf 93'>Brystet</span>
+      <span class='ocrx_word' id='word_1_229' title='bbox 1172 2013 1289 2051; x_wconf 92'>slaar.</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 295 2130 1430 2478">
+    <p class='ocr_par' id='par_1_22' lang='nno-nor' title="bbox 295 2130 1344 2248">
+     <span class='ocr_line' id='line_1_34' title="bbox 295 2130 1344 2189; baseline -0.012 -9; x_size 50; x_descenders 11; x_ascenders 13">
+      <span class='ocrx_word' id='word_1_230' title='bbox 295 2141 372 2180; x_wconf 91'>Saa</span>
+      <span class='ocrx_word' id='word_1_231' title='bbox 398 2151 492 2189; x_wconf 93'>gaar</span>
+      <span class='ocrx_word' id='word_1_232' title='bbox 516 2150 566 2178; x_wconf 93'>en</span>
+      <span class='ocrx_word' id='word_1_233' title='bbox 596 2137 678 2186; x_wconf 92'>Sky</span>
+      <span class='ocrx_word' id='word_1_234' title='bbox 707 2137 768 2175; x_wconf 92'>for</span>
+      <span class='ocrx_word' id='word_1_235' title='bbox 793 2136 980 2173; x_wconf 91'>Maanen.</span>
+      <span class='ocrx_word' id='word_1_236' title='bbox 1012 2133 1073 2171; x_wconf 91'>Da</span>
+      <span class='ocrx_word' id='word_1_237' title='bbox 1101 2133 1178 2170; x_wconf 91'>den</span>
+      <span class='ocrx_word' id='word_1_238' title='bbox 1206 2130 1344 2169; x_wconf 92'>smiler</span>
+     </span>
+     <span class='ocr_line' id='line_1_35' title="bbox 296 2190 1229 2248; baseline -0.013 -9; x_size 49; x_descenders 10; x_ascenders 13">
+      <span class='ocrx_word' id='word_1_239' title='bbox 296 2201 444 2248; x_wconf 92'>Paany,</span>
+      <span class='ocrx_word' id='word_1_240' title='bbox 476 2198 575 2237; x_wconf 92'>dens</span>
+      <span class='ocrx_word' id='word_1_241' title='bbox 606 2196 683 2244; x_wconf 92'>Øje</span>
+      <span class='ocrx_word' id='word_1_242' title='bbox 713 2197 804 2234; x_wconf 93'>med</span>
+      <span class='ocrx_word' id='word_1_243' title='bbox 834 2206 884 2232; x_wconf 92'>en</span>
+      <span class='ocrx_word' id='word_1_244' title='bbox 915 2192 1070 2232; x_wconf 93'>Stirren</span>
+      <span class='ocrx_word' id='word_1_245' title='bbox 1100 2190 1229 2229; x_wconf 92'>hviler</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_23' lang='nno-nor' title="bbox 296 2247 1430 2364">
+     <span class='ocr_line' id='line_1_36' title="bbox 296 2247 1430 2305; baseline -0.012 -7; x_size 48; x_descenders 9; x_ascenders 13">
+      <span class='ocrx_word' id='word_1_246' title='bbox 296 2260 377 2298; x_wconf 49'>Paa</span>
+      <span class='ocrx_word' id='word_1_247' title='bbox 401 2257 518 2305; x_wconf 49'> ja</span>
+      <span class='ocrx_word' id='word_1_248' title='bbox 546 2256 651 2295; x_wconf 93'>hvad</span>
+      <span class='ocrx_word' id='word_1_249' title='bbox 679 2267 723 2294; x_wconf 93'>er</span>
+      <span class='ocrx_word' id='word_1_250' title='bbox 750 2254 848 2293; x_wconf 92'>det?</span>
+      <span class='ocrx_word' id='word_1_251' title='bbox 877 2252 991 2291; x_wconf 91'>Staar</span>
+      <span class='ocrx_word' id='word_1_252' title='bbox 1019 2252 1089 2290; x_wconf 93'>der</span>
+      <span class='ocrx_word' id='word_1_253' title='bbox 1117 2250 1151 2296; x_wconf 92'>ej</span>
+      <span class='ocrx_word' id='word_1_254' title='bbox 1180 2261 1230 2287; x_wconf 92'>en</span>
+      <span class='ocrx_word' id='word_1_255' title='bbox 1259 2247 1430 2291; x_wconf 92'>Kvinde,</span>
+     </span>
+     <span class='ocr_line' id='line_1_37' title="bbox 296 2309 1233 2364; baseline -0.013 -7; x_size 47; x_descenders 9; x_ascenders 12">
+      <span class='ocrx_word' id='word_1_256' title='bbox 296 2319 356 2357; x_wconf 92'>En</span>
+      <span class='ocrx_word' id='word_1_257' title='bbox 379 2317 508 2364; x_wconf 92'>herlig</span>
+      <span class='ocrx_word' id='word_1_258' title='bbox 533 2315 702 2361; x_wconf 92'>voksen,</span>
+      <span class='ocrx_word' id='word_1_259' title='bbox 732 2313 770 2352; x_wconf 92'>af</span>
+      <span class='ocrx_word' id='word_1_260' title='bbox 795 2324 844 2351; x_wconf 93'>en</span>
+      <span class='ocrx_word' id='word_1_261' title='bbox 872 2312 1080 2349; x_wconf 93'>Kunstner</span>
+      <span class='ocrx_word' id='word_1_262' title='bbox 1106 2309 1233 2352; x_wconf 91'>skabt,</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_24' lang='nno-nor' title="bbox 296 2368 1119 2426">
+     <span class='ocr_line' id='line_1_38' title="bbox 296 2368 1119 2426; baseline -0.011 -11; x_size 50; x_descenders 11; x_ascenders 13">
+      <span class='ocrx_word' id='word_1_263' title='bbox 296 2378 361 2426; x_wconf 92'>Og</span>
+      <span class='ocrx_word' id='word_1_264' title='bbox 387 2387 508 2426; x_wconf 92'>synes</span>
+      <span class='ocrx_word' id='word_1_265' title='bbox 534 2375 545 2413; x_wconf 91'>i</span>
+      <span class='ocrx_word' id='word_1_266' title='bbox 572 2381 612 2412; x_wconf 91'>et</span>
+      <span class='ocrx_word' id='word_1_267' title='bbox 637 2373 721 2422; x_wconf 93'>Syn</span>
+      <span class='ocrx_word' id='word_1_268' title='bbox 748 2384 816 2411; x_wconf 93'>saa</span>
+      <span class='ocrx_word' id='word_1_269' title='bbox 843 2370 996 2420; x_wconf 92'>ganske</span>
+      <span class='ocrx_word' id='word_1_270' title='bbox 1024 2368 1119 2413; x_wconf 90'>tabt,</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_25' lang='nno-nor' title="bbox 296 2426 1236 2478">
+     <span class='ocr_line' id='line_1_39' title="bbox 296 2426 1236 2478; baseline -0.012 -3; x_size 49; x_descenders 10; x_ascenders 13">
+      <span class='ocrx_word' id='word_1_271' title='bbox 296 2437 347 2475; x_wconf 92'>At</span>
+      <span class='ocrx_word' id='word_1_272' title='bbox 373 2436 454 2474; x_wconf 93'>hun</span>
+      <span class='ocrx_word' id='word_1_273' title='bbox 483 2435 542 2472; x_wconf 93'>for</span>
+      <span class='ocrx_word' id='word_1_274' title='bbox 569 2433 688 2472; x_wconf 92'>andet</span>
+      <span class='ocrx_word' id='word_1_275' title='bbox 715 2432 749 2478; x_wconf 92'>ej</span>
+      <span class='ocrx_word' id='word_1_276' title='bbox 777 2431 847 2468; x_wconf 92'>har</span>
+      <span class='ocrx_word' id='word_1_277' title='bbox 874 2429 977 2468; x_wconf 93'>Sans</span>
+      <span class='ocrx_word' id='word_1_278' title='bbox 1004 2440 1054 2476; x_wconf 92'>og</span>
+      <span class='ocrx_word' id='word_1_279' title='bbox 1081 2426 1236 2466; x_wconf 79'>Sinde?7</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_8' title="bbox 1447 174 1500 211">
+    <p class='ocr_par' id='par_1_26' lang='nno-nor' title="bbox 1447 174 1500 211">
+     <span class='ocr_line' id='line_1_40' title="bbox 1447 174 1500 211; baseline -0.019 0; x_size 49.333332; x_descenders 12.333333; x_ascenders 12.333333">
+      <span class='ocrx_word' id='word_1_280' title='bbox 1447 174 1500 211; x_wconf 92'>59</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_9' title="bbox 1834 573 1856 2910">
+    <p class='ocr_par' id='par_1_27' lang='nno-nor' title="bbox 1834 573 1856 2910">
+     <span class='ocr_line' id='line_1_41' title="bbox 1834 573 1856 2910; baseline 0 0; x_size 1168.5; x_descenders -584.25; x_ascenders 584.25">
+      <span class='ocrx_word' id='word_1_281' title='bbox 1834 573 1856 2910; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

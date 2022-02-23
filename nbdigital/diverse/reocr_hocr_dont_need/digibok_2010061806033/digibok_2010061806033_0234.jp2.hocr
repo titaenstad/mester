@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.0.0' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/data/digibok_2010061806033/digibok_2010061806033_0234.jp2"; bbox 0 0 1878 2929; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1579 0 1763 20">
+    <p class='ocr_par' id='par_1_1' lang='nno-nor' title="bbox 1579 0 1763 20">
+     <span class='ocr_line' id='line_1_1' title="bbox 1579 0 1763 20; baseline 0 2909; x_size 26.25; x_descenders 6.5625; x_ascenders 6.5625">
+      <span class='ocrx_word' id='word_1_1' title='bbox 1579 0 1763 20; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1876 0 1878 2929">
+    <p class='ocr_par' id='par_1_2' lang='nno-nor' title="bbox 1876 0 1878 2929">
+     <span class='ocr_line' id='line_1_2' title="bbox 1876 0 1878 2929; baseline 0 0; x_size 1464.5; x_descenders -732.25; x_ascenders 732.25">
+      <span class='ocrx_word' id='word_1_2' title='bbox 1876 0 1878 2929; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

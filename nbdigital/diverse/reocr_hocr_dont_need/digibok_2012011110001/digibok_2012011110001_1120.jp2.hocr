@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.0.0' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/data/digibok_2012011110001/digibok_2012011110001_1120.jp2"; bbox 0 0 1312 2096; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 58 189 1192 357">
+    <p class='ocr_par' id='par_1_1' lang='nno-nor' title="bbox 58 189 1197 358">
+     <span class='ocr_line' id='line_1_1' title="bbox 58 189 1192 357; baseline -0.001 -94; x_size 52.76923; x_descenders 13.192307; x_ascenders 13.192307">
+      <span class='ocrx_word' id='word_1_1' title='bbox 58 229 62 232; x_wconf 90'>]</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 221 220 258 269; x_wconf 0'>$</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 309 217 996 294; x_wconf 92'>FAMILIE-MINDEDAGE</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 1051 219 1088 268; x_wconf 0'>O</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 1163 189 1192 357; x_wconf 81'>/</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 220 312 1108 479">
+    <p class='ocr_par' id='par_1_2' lang='nno-nor' title="bbox 240 310 1108 451">
+     <span class='ocr_line' id='line_1_2' title="bbox 507 312 1059 340; baseline 0.002 -7; x_size 44.179489; x_descenders 7; x_ascenders 12.179487">
+      <span class='ocrx_word' id='word_1_6' title='bbox 507 312 512 317; x_wconf 17'>Q</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 1054 335 1059 340; x_wconf 45'>;</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 258 379 1108 416; baseline 0 -8; x_size 37; x_descenders 9; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_8' title='bbox 258 381 297 409; x_wconf 93'>Vi</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 318 381 397 416; x_wconf 92'>vide,</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 416 382 447 408; x_wconf 92'>at</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 465 380 567 416; x_wconf 91'>Alting</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 586 380 683 415; x_wconf 9'>tjoener</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 700 379 766 407; x_wconf 91'>dem</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 782 380 817 407; x_wconf 92'>til</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 835 380 928 415; x_wconf 92'>Gode,</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 946 389 1008 408; x_wconf 92'>som</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 1026 381 1108 408; x_wconf 75'>elsko</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 220 408 981 455; baseline 0.003 -14.054; x_size 38.5; x_descenders 9.5; x_ascenders 9.5">
+      <span class='ocrx_word' id='word_1_18' title='bbox 220 408 266 455; x_wconf 90'>ud,</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 856 416 938 445; x_wconf 90'>Rom.</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 953 416 981 451; x_wconf 91'>8,</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

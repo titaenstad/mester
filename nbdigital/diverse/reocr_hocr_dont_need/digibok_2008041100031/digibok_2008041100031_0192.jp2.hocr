@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.0.0' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/data/digibok_2008041100031/digibok_2008041100031_0192.jp2"; bbox 0 0 1880 2976; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 1413 3 2083">
+    <p class='ocr_par' id='par_1_1' lang='nno-nor' title="bbox 0 1413 3 2083">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 1413 3 2083; baseline 0 0; x_size 335; x_descenders -167.5; x_ascenders 167.5">
+      <span class='ocrx_word' id='word_1_1' title='bbox 0 1413 3 2083; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 384 266 1656 609">
+    <p class='ocr_par' id='par_1_2' lang='nno-nor' title="bbox 384 266 1656 609">
+     <span class='ocr_line' id='line_1_2' title="bbox 385 266 733 313; baseline 0.003 -10; x_size 47; x_descenders 10; x_ascenders 14">
+      <span class='ocrx_word' id='word_1_2' title='bbox 385 266 450 303; x_wconf 90'>Av</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 484 266 733 313; x_wconf 91'>Nyaarsvers</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 384 325 689 364; baseline 0.007 -2; x_size 48.103203; x_descenders 9.8947372; x_ascenders 13.863636">
+      <span class='ocrx_word' id='word_1_4' title='bbox 384 325 689 364; x_wconf 0'>TiøRIBu</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 385 386 1656 433; baseline 0.003 -11; x_size 47; x_descenders 9; x_ascenders 14">
+      <span class='ocrx_word' id='word_1_5' title='bbox 385 386 1553 433; x_wconf 0'>KierlighedfogfSmørrebrød¹nnTE</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 1590 391 1656 427; x_wconf 92'>186</span>
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 385 445 1655 492; baseline 0.002 -9; x_size 46; x_descenders 9; x_ascenders 13">
+      <span class='ocrx_word' id='word_1_7' title='bbox 385 445 522 483; x_wconf 93'>Under</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 545 446 758 492; x_wconf 92'>Digterens</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 781 447 961 489; x_wconf 92'>Portrait,</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 984 447 1142 484; x_wconf 92'>skrevet</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 1165 461 1212 484; x_wconf 92'>av</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 1235 448 1325 485; x_wconf 92'>ham</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 1349 449 1432 486; x_wconf 91'>selv</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 1463 481 1553 490; x_wconf 91'>....</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 1590 450 1655 487; x_wconf 92'>186</span>
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 385 506 1163 553; baseline 0.005 -12; x_size 47; x_descenders 10; x_ascenders 13">
+      <span class='ocrx_word' id='word_1_16' title='bbox 385 506 595 551; x_wconf 91'>Digterens</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 625 506 853 544; x_wconf 91'>Gravskrift</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 877 519 971 544; x_wconf 92'>over</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 998 509 1054 553; x_wconf 92'>sig</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 1080 507 1163 545; x_wconf 93'>selv</span>
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 386 565 1655 609; baseline 0.002 -6; x_size 47.348145; x_descenders 9.3481436; x_ascenders 15">
+      <span class='ocrx_word' id='word_1_21' title='bbox 386 565 660 603; x_wconf 15'>CGravskrifter</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 722 597 782 606; x_wconf 0'>⁷.</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 839 561 887 620; x_wconf 0'>⁷0¹]</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 913 598 941 606; x_wconf 0'>0</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 964 598 1152 607; x_wconf 0'>00.¹0⁰⁷</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 1172 597 1554 609; x_wconf 0'>0gg⁷0⁶</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 1590 570 1655 607; x_wconf 92'>187</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

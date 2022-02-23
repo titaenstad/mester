@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.0.0' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/data/digibok_2011121308005/digibok_2011121308005_0051.jp2"; bbox 0 0 2301 3641; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 126 2080 2174">
+    <p class='ocr_par' id='par_1_1' lang='nno-nor' title="bbox 0 126 2080 2174">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 126 2080 2174; baseline 0 0; x_size 1024; x_descenders -512; x_ascenders 512">
+      <span class='ocrx_word' id='word_1_1' title='bbox 0 126 2080 2174; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 597 2340 1371 2456">
+    <p class='ocr_par' id='par_1_2' lang='nno-nor' title="bbox 597 2340 1372 2456">
+     <span class='ocr_caption' id='line_1_2' title="bbox 597 2340 1371 2456; baseline 0.003 -37; x_size 91.405945; x_descenders 9.405941; x_ascenders 32">
+      <span class='ocrx_word' id='word_1_2' title='bbox 597 2340 803 2421; x_wconf 88'>Den</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 855 2341 1100 2422; x_wconf 88'>siette</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 1150 2341 1371 2456; x_wconf 92'>Sang</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 205 2550 1846 2935">
+    <p class='ocr_par' id='par_1_3' lang='nno-nor' title="bbox 205 2550 1846 2935">
+     <span class='ocr_line' id='line_1_3' title="bbox 205 2550 1846 2714; baseline -0.005 -15; x_size 172; x_descenders 26; x_ascenders 59">
+      <span class='ocrx_word' id='word_1_5' title='bbox 205 2554 738 2701; x_wconf 92'>Forlad</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 794 2613 948 2701; x_wconf 93'>os</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 1005 2610 1277 2700; x_wconf 92'>vor</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 1350 2550 1846 2757; x_wconf 91'>Skyld,</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 213 2786 1338 2935; baseline -0.002 -1; x_size 165.38286; x_descenders 20.382856; x_ascenders 58">
+      <span class='ocrx_word' id='word_1_9' title='bbox 213 2846 532 2935; x_wconf 92'>som</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 582 2793 732 2934; x_wconf 93'>vi</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 792 2786 1338 2933; x_wconf 90'>forlade</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 212 3025 1438 3230">
+    <p class='ocr_par' id='par_1_4' lang='nno-nor' title="bbox 212 3024 1438 3230">
+     <span class='ocr_line' id='line_1_5' title="bbox 212 3025 1438 3230; baseline -0.003 -58; x_size 166.36687; x_descenders 22.366863; x_ascenders 60">
+      <span class='ocrx_word' id='word_1_12' title='bbox 212 3081 560 3172; x_wconf 93'>vore</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 616 3025 1438 3230; x_wconf 92'>Skyldnere</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 254 3440 264 3558">
+    <p class='ocr_par' id='par_1_5' lang='nno-nor' title="bbox 254 3507 260 3558">
+     <span class='ocr_line' id='line_1_6' title="bbox 254 3507 260 3558; baseline 0 0; x_size 68; x_descenders 17; x_ascenders 17">
+      <span class='ocrx_word' id='word_1_14' title='bbox 254 3507 260 3558; x_wconf 86'>]</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

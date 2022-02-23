@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.0.0' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/data/digibok_2010070205055/digibok_2010070205055_0023.jp2"; bbox 0 0 2152 2858; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 36 7 517 11">
+    <p class='ocr_par' id='par_1_1' lang='nno-nor' title="bbox 36 7 517 11">
+     <span class='ocr_line' id='line_1_1' title="bbox 36 7 517 11; baseline 0 0; x_size 2; x_descenders -1; x_ascenders 1">
+      <span class='ocrx_word' id='word_1_1' title='bbox 36 7 517 11; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 679 5 1435 9">
+    <p class='ocr_par' id='par_1_2' lang='nno-nor' title="bbox 679 5 1435 9">
+     <span class='ocr_line' id='line_1_2' title="bbox 679 5 1435 9; baseline 0 0; x_size 2; x_descenders -1; x_ascenders 1">
+      <span class='ocrx_word' id='word_1_2' title='bbox 679 5 1435 9; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 25 319 31 708">
+    <p class='ocr_par' id='par_1_3' lang='nno-nor' title="bbox 25 319 31 708">
+     <span class='ocr_line' id='line_1_3' title="bbox 25 319 31 708; baseline 0 0; x_size 194.5; x_descenders -97.25; x_ascenders 97.25">
+      <span class='ocrx_word' id='word_1_3' title='bbox 25 319 31 708; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 422 372 1616 2178">
+    <p class='ocr_par' id='par_1_4' lang='nno-nor' title="bbox 422 372 1616 2178">
+     <span class='ocr_line' id='line_1_4' title="bbox 422 372 1616 2178; baseline 0 0; x_size 903; x_descenders -451.5; x_ascenders 451.5">
+      <span class='ocrx_word' id='word_1_4' title='bbox 422 372 1616 2178; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 748 2207 1340 2272">
+    <p class='ocr_par' id='par_1_5' lang='nno-nor' title="bbox 748 2207 1340 2272">
+     <span class='ocr_caption' id='line_1_5' title="bbox 748 2207 1340 2272; baseline -0.015 -11; x_size 61; x_descenders 11; x_ascenders 13">
+      <span class='ocrx_word' id='word_1_5' title='bbox 748 2223 860 2272; x_wconf 91'>Tysk</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 884 2207 1131 2259; x_wconf 92'>kobberstik</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 1149 2218 1211 2255; x_wconf 92'>fra</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 1237 2216 1340 2254; x_wconf 92'>1618.</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 791 2277 1311 2312">
+    <p class='ocr_par' id='par_1_6' lang='nno-nor' title="bbox 791 2277 1311 2312">
+     <span class='ocr_caption' id='line_1_6' title="bbox 791 2277 1311 2312; baseline -0.013 -6; x_size 31; x_descenders 6; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_9' title='bbox 791 2280 954 2312; x_wconf 92'>(Augsburg.</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 972 2279 1017 2304; x_wconf 93'>W.</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 1034 2278 1064 2303; x_wconf 92'>P.</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 1079 2277 1311 2304; x_wconf 92'>Zimmermann.)</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 1608 4 2117 10">
+    <p class='ocr_par' id='par_1_7' lang='nno-nor' title="bbox 1608 4 2117 10">
+     <span class='ocr_line' id='line_1_7' title="bbox 1608 4 2117 10; baseline 0 0; x_size 3; x_descenders -1.5; x_ascenders 1.5">
+      <span class='ocrx_word' id='word_1_13' title='bbox 1608 4 2117 10; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

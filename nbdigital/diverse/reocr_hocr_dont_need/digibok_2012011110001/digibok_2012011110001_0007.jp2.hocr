@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.0.0' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/data/digibok_2012011110001/digibok_2012011110001_0007.jp2"; bbox 0 0 1280 2016; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 328 708 959 817">
+    <p class='ocr_par' id='par_1_1' lang='nno-nor' title="bbox 328 708 959 817">
+     <span class='ocr_line' id='line_1_1' title="bbox 328 708 959 817; baseline 0.024 -33; x_size 97; x_descenders 18; x_ascenders 32">
+      <span class='ocrx_word' id='word_1_1' title='bbox 328 708 621 800; x_wconf 0'>midh</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 674 715 959 817; x_wconf 32'>almeo</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 454 841 831 885">
+    <p class='ocr_par' id='par_1_2' lang='nno-nor' title="bbox 454 841 831 885">
+     <span class='ocr_line' id='line_1_2' title="bbox 454 841 831 885; baseline 0.024 -9; x_size 44.403507; x_descenders 5.4035087; x_ascenders 11">
+      <span class='ocrx_word' id='word_1_3' title='bbox 454 841 548 878; x_wconf 71'>med</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 584 841 831 885; x_wconf 61'>Melodier.</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 695 1151 1221 1297">
+    <p class='ocr_par' id='par_1_3' lang='nno-nor' title="bbox 695 1151 1221 1297">
+     <span class='ocr_line' id='line_1_3' title="bbox 695 1151 1221 1213; baseline 0.03 -26; x_size 36; x_descenders 7; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_5' title='bbox 695 1160 782 1188; x_wconf 91'>Øiber</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 800 1164 903 1197; x_wconf 90'>Herren</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 925 1167 997 1201; x_wconf 10'>fans</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 1018 1170 1118 1200; x_wconf 29'>Navn3</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 1134 1151 1221 1213; x_wconf 37'>Are;</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 695 1207 1220 1258; baseline 0.027 -23; x_size 36; x_descenders 7; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_10' title='bbox 695 1207 808 1237; x_wconf 3'>ålbeder</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 828 1210 932 1245; x_wconf 89'>Herren</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 952 1215 961 1242; x_wconf 88'>i</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 981 1215 1060 1251; x_wconf 37'>fellig</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 1082 1213 1220 1258; x_wconf 14'>Frybdelije.</span>
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 856 1258 1150 1297; baseline 0.027 -11; x_size 34.875; x_descenders 6.875; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_15' title='bbox 856 1258 930 1288; x_wconf 87'>Dav.</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 949 1261 1042 1291; x_wconf 27'>Eali.</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 1062 1264 1106 1297; x_wconf 88'>29,</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 1123 1265 1150 1294; x_wconf 92'>2,</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

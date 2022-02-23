@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.0.0' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/data/digibok_2008041100031/digibok_2008041100031_0005.jp2"; bbox 0 0 1840 2944; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 338 0 1094 2">
+    <p class='ocr_par' id='par_1_1' lang='nno-nor' title="bbox 338 0 1094 2">
+     <span class='ocr_line' id='line_1_1' title="bbox 338 0 1094 2; baseline 0 0; x_size 1; x_descenders -0.5; x_ascenders 0.5">
+      <span class='ocrx_word' id='word_1_1' title='bbox 338 0 1094 2; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 133 615 1614 828">
+    <p class='ocr_par' id='par_1_2' lang='nno-nor' title="bbox 133 615 1614 828">
+     <span class='ocr_line' id='line_1_2' title="bbox 133 615 1614 698; baseline 0.016 -22; x_size 86.5; x_descenders 22.5; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_2' title='bbox 133 615 726 684; x_wconf 91'>KIERLIGHED</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 784 624 1062 689; x_wconf 89'>UDEN</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 1114 627 1614 698; x_wconf 92'>STRØMPER</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 329 768 1413 828; baseline 0.015 -16; x_size 86.5; x_descenders 22.5; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_5' title='bbox 329 768 416 813; x_wconf 87'>ET</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 455 769 877 818; x_wconf 15'>SØRGESPIL</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 915 776 934 819; x_wconf 83'>I</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 974 777 1117 822; x_wconf 81'>EEM</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 1159 780 1413 828; x_wconf 50'>OPTOG</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 417 976 1291 1902">
+    <p class='ocr_par' id='par_1_3' lang='nno-nor' title="bbox 417 976 1291 1902">
+     <span class='ocr_line' id='line_1_4' title="bbox 417 976 1291 1902; baseline 0 1042; x_size 249.33334; x_descenders 62.333336; x_ascenders 62.333328">
+      <span class='ocrx_word' id='word_1_10' title='bbox 417 976 1291 1902; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1839 1538 1840 2937">
+    <p class='ocr_par' id='par_1_4' lang='nno-nor' title="bbox 1839 1538 1840 2937">
+     <span class='ocr_line' id='line_1_5' title="bbox 1839 1538 1840 2937; baseline 0 0; x_size 699.5; x_descenders -349.75; x_ascenders 349.75">
+      <span class='ocrx_word' id='word_1_11' title='bbox 1839 1538 1840 2937; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.0.0' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/data/digibok_2011050604018/digibok_2011050604018_0123.jp2"; bbox 0 0 2144 3009; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 771 969 1212 1021">
+    <p class='ocr_par' id='par_1_1' lang='nno-nor' title="bbox 771 969 1212 1021">
+     <span class='ocr_line' id='line_1_1' title="bbox 771 969 1212 1021; baseline 0.011 -5; x_size 63.25; x_descenders 15.8125; x_ascenders 15.8125">
+      <span class='ocrx_word' id='word_1_1' title='bbox 771 969 1212 1021; x_wconf 71'>BIBLIOG</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 1053 965 1119 1039; x_wconf 71'>RA</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 1146 965 1216 1039; x_wconf 78'>FI</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 383 1079 1596 1247">
+    <p class='ocr_par' id='par_1_2' lang='nno-nor' title="bbox 383 1079 1596 1247">
+     <span class='ocr_line' id='line_1_2' title="bbox 435 1079 1596 1144; baseline 0.012 -29; x_size 46; x_descenders 10; x_ascenders 12">
+      <span class='ocrx_word' id='word_1_4' title='bbox 435 1079 649 1118; x_wconf 90'>Nærmere</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 664 1082 933 1130; x_wconf 91'>oplysninger</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 948 1097 1014 1121; x_wconf 93'>om</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 1031 1087 1111 1144; x_wconf 91'>den</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 1128 1088 1174 1124; x_wconf 91'>til</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 1197 1089 1332 1126; x_wconf 92'>denne</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 1348 1091 1596 1139; x_wconf 92'>afhandling</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 384 1137 1594 1194; baseline 0.012 -21; x_size 46; x_descenders 10; x_ascenders 11">
+      <span class='ocrx_word' id='word_1_11' title='bbox 384 1137 608 1184; x_wconf 89'>benyttede</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 628 1141 834 1178; x_wconf 92'>litteratur</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 854 1143 987 1180; x_wconf 92'>findes</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 1008 1145 1019 1180; x_wconf 92'>i</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 1054 1146 1073 1180; x_wconf 64'>Å</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 1079 1145 1230 1194; x_wconf 64'>rbøger</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 1244 1148 1315 1194; x_wconf 92'>for</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 1326 1150 1490 1186; x_wconf 92'>nordisk</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 1510 1152 1594 1188; x_wconf 91'>old-</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 383 1197 1020 1247; baseline 0.011 -15; x_size 47; x_descenders 11; x_ascenders 12">
+      <span class='ocrx_word' id='word_1_20' title='bbox 383 1197 621 1245; x_wconf 92'>kyndighed</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 641 1211 688 1246; x_wconf 91'>og</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 707 1200 884 1247; x_wconf 91'>historie,</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 911 1203 1020 1239; x_wconf 90'>1905.</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

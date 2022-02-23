@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.0.0' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/data/digibok_2010070106216/digibok_2010070106216_0004.jp2"; bbox 0 0 1710 2708; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 331 1110 1432 1227">
+    <p class='ocr_par' id='par_1_1' lang='nno-nor' title="bbox 331 1110 1432 1227">
+     <span class='ocr_line' id='line_1_1' title="bbox 331 1110 1432 1164; baseline 0.005 -17; x_size 48; x_descenders 11; x_ascenders 12">
+      <span class='ocrx_word' id='word_1_1' title='bbox 331 1110 565 1148; x_wconf 84'>Udkommer</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 592 1112 771 1160; x_wconf 90'>samtidig</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 791 1111 852 1162; x_wconf 92'>på</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 883 1113 1020 1150; x_wconf 91'>Albert</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 1045 1114 1237 1152; x_wconf 79'>Bonniers</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 1269 1116 1432 1164; x_wconf 67'>Forlag,</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 760 1188 986 1227; baseline 0 0; x_size 50.176468; x_descenders 11.17647; x_ascenders 14">
+      <span class='ocrx_word' id='word_1_7' title='bbox 760 1188 986 1227; x_wconf 89'>Stockholm.</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1708 0 1710 2708">
+    <p class='ocr_par' id='par_1_2' lang='nno-nor' title="bbox 1708 0 1710 2708">
+     <span class='ocr_line' id='line_1_3' title="bbox 1708 0 1710 2708; baseline 0 0; x_size 1354; x_descenders -677; x_ascenders 677">
+      <span class='ocrx_word' id='word_1_8' title='bbox 1708 0 1710 2708; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.0.0' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/data/digibok_2006120500055/digibok_2006120500055_0100.jp2"; bbox 0 0 1944 3008; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 661 343 1641 608">
+    <p class='ocr_par' id='par_1_1' lang='nno-nor' title="bbox 661 343 1641 608">
+     <span class='ocr_line' id='line_1_1' title="bbox 663 343 1437 406; baseline 0.006 -16; x_size 62; x_descenders 14; x_ascenders 18">
+      <span class='ocrx_word' id='word_1_1' title='bbox 663 343 742 405; x_wconf 92'>Og</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 768 345 904 405; x_wconf 93'>ingen</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 932 346 1003 406; x_wconf 93'>sig</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 1027 346 1150 394; x_wconf 91'>vilde</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 1179 346 1437 404; x_wconf 92'>forbarme,</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 761 413 1641 477; baseline 0.007 -18; x_size 61; x_descenders 14; x_ascenders 18">
+      <span class='ocrx_word' id='word_1_6' title='bbox 761 430 878 460; x_wconf 92'>naar</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 900 413 1036 461; x_wconf 92'>slemt</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 1055 414 1146 461; x_wconf 92'>han</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 1169 415 1180 461; x_wconf 92'>i</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 1206 415 1358 463; x_wconf 92'>faldet</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 1380 415 1452 477; x_wconf 92'>sig</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 1472 417 1641 474; x_wconf 91'>stødte.</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 762 479 1576 544; baseline 0.007 -19; x_size 62; x_descenders 14; x_ascenders 19">
+      <span class='ocrx_word' id='word_1_13' title='bbox 762 479 877 527; x_wconf 92'>Han</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 897 481 973 528; x_wconf 91'>laa</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 996 482 1078 529; x_wconf 92'>der</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 1101 481 1313 543; x_wconf 92'>forsaget</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 1334 501 1398 544; x_wconf 92'>og</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 1415 484 1576 543; x_wconf 92'>blødte</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 661 549 1439 608; baseline 0.005 -14; x_size 60; x_descenders 13; x_ascenders 17">
+      <span class='ocrx_word' id='word_1_19' title='bbox 661 564 725 607; x_wconf 93'>og</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 749 549 952 595; x_wconf 92'>savnede</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 977 566 1104 597; x_wconf 93'>mors</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 1129 550 1268 608; x_wconf 92'>bløde</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 1295 568 1439 598; x_wconf 92'>arme.</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 453 2535 543 2582">
+    <p class='ocr_par' id='par_1_2' lang='nno-nor' title="bbox 453 2535 543 2582">
+     <span class='ocr_line' id='line_1_5' title="bbox 453 2535 543 2582; baseline 0.011 -1; x_size 62; x_descenders 15.5; x_ascenders 15.5">
+      <span class='ocrx_word' id='word_1_24' title='bbox 453 2535 543 2582; x_wconf 90'>100</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

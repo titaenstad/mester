@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.0.0' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/data/digibok_2012011110001/digibok_2012011110001_1097.jp2"; bbox 0 0 1312 2096; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 203 58 1224 111">
+    <p class='ocr_par' id='par_1_1' lang='nno-nor' title="bbox 203 58 1224 111">
+     <span class='ocr_line' id='line_1_1' title="bbox 203 58 1224 111; baseline 0.016 -24; x_size 37; x_descenders 7; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_1' title='bbox 203 58 283 94; x_wconf 63'>Rort</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 305 54 425 107; x_wconf 84'>Overfigt</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 444 69 507 91; x_wconf 91'>over</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 526 62 555 92; x_wconf 91'>be</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 574 65 660 101; x_wconf 74'>norfte</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 679 64 922 103; x_wconf 34'>Mirtebygningers</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 940 66 1064 111; x_wconf 34'>Htiftorte.</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 1174 73 1224 103; x_wconf 92'>161</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 57 178 1250 1960">
+    <p class='ocr_par' id='par_1_2' lang='nno-nor' title="bbox 57 178 1250 1960">
+     <span class='ocr_line' id='line_1_2' title="bbox 57 178 1250 1960; baseline 0 0; x_size 891; x_descenders -445.5; x_ascenders 445.5">
+      <span class='ocrx_word' id='word_1_9' title='bbox 57 178 1250 1960; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 452 1987 805 2023">
+    <p class='ocr_par' id='par_1_3' lang='nno-nor' title="bbox 452 1987 805 2023">
+     <span class='ocr_caption' id='line_1_3' title="bbox 452 1987 805 2023; baseline 0.003 -8; x_size 40; x_descenders 11; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_10' title='bbox 452 1988 551 2023; x_wconf 92'>Portal</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 571 1988 614 2023; x_wconf 87'>fra</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 632 1987 704 2023; x_wconf 92'>Flaa</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 724 1988 805 2016; x_wconf 62'>irke.</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

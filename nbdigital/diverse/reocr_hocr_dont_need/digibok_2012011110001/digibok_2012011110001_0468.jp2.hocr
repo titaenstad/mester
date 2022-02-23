@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.0.0' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "/data/digibok_2012011110001/digibok_2012011110001_0468.jp2"; bbox 0 0 1280 2064; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 367 58 947 101">
+    <p class='ocr_par' id='par_1_1' lang='nno-nor' title="bbox 367 58 947 101">
+     <span class='ocr_line' id='line_1_1' title="bbox 367 58 947 101; baseline 0.014 -14; x_size 39; x_descenders 8; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_1' title='bbox 367 58 403 88; x_wconf 93'>15</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 421 59 537 96; x_wconf 39'>Eonbdag</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 559 61 627 101; x_wconf 89'>efter</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 646 62 857 101; x_wconf 20'>Treforldigheds</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 877 64 947 101; x_wconf 21'>Feft.</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 59 56 116 86">
+    <p class='ocr_par' id='par_1_2' lang='nno-nor' title="bbox 59 56 116 86">
+     <span class='ocr_line' id='line_1_2' title="bbox 59 56 116 86; baseline 0.018 -1; x_size 39.333332; x_descenders 9.833333; x_ascenders 9.833333">
+      <span class='ocrx_word' id='word_1_6' title='bbox 59 56 116 86; x_wconf 85'>448</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 30 111 1267 1501">
+    <p class='ocr_par' id='par_1_3' lang='nno-nor' title="bbox 30 111 1267 1501">
+     <span class='ocr_line' id='line_1_3' title="bbox 30 111 1267 1501; x_size 618.5; x_descenders -309.25; x_ascenders 309.25">
+      <span class='ocrx_word' id='word_1_7' title='bbox 30 111 1267 1501; x_wconf 95'> </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 817 0 1983">
+    <p class='ocr_par' id='par_1_4' lang='nno-nor' title="bbox 0 817 0 1983">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 817 0 1983; baseline -583 -271095; x_size 571.66669; x_descenders 142.91667; x_ascenders 142.91667">
+      <span class='ocrx_word' id='word_1_8' title='bbox 0 817 0 1983; x_wconf 95'>   </span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 880 1572 1207 1605">
+    <p class='ocr_par' id='par_1_5' lang='nno-nor' title="bbox 880 1572 1207 1605">
+     <span class='ocr_line' id='line_1_5' title="bbox 880 1572 1207 1605; baseline 0.012 -4; x_size 35.377777; x_descenders 5.3777776; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_9' title='bbox 880 1572 965 1602; x_wconf 26'>ubdb.</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 983 1572 1028 1602; x_wconf 85'>M.</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 1046 1573 1207 1605; x_wconf 6'>Lindernan.</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
