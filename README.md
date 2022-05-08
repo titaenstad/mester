@@ -25,7 +25,7 @@ Code for rhyme generation:
 --> [rhyme_modelling/Rhyme_generation.ipynb](rhyme_modelling/Rhyme_generation.ipynb)
 
 ### Chapter "Poetry generation"
-Code for poetry generation models:
+Code for poetry generation models:  
 --> [poetry_generation/Simple_lstm.ipynb](poetry_generation/Simple_lstm.ipynb)  
 
 Code for splitting generated stanzas into forms:  
