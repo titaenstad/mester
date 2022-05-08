@@ -3,22 +3,26 @@
 ## Code and corresponding chapters
 ### Chapter "Creating a corpus of rhyme scheme annotated Norwegian poetry" 
 Code for extracting poetry:  
---> nbdigital/Extract poetry (and compare re-OCR batches).ipynb
+--> [nbdigital/Extract_poetry_and_compare_re-OCR_batches.ipynb](nbdigital/Extract_poetry_and_compare_re-OCR_batches.ipynb)
 
 ### Chapter "Rhyme pair collection"
-Code for plotting rhyme pair graphs, clustering and and merging buckets:  
---> rhyme_modelling/  
-    Plot whole rhyme pair graphs graphtool.ipynb  
-    Rhyme pair graphs.ipynb  
-    Merge wiktionary and NoRSC-buckets.ipynb  
+Code for plotting rhyme pair graphs:  
+--> [rhyme_modelling/Plot_whole_rhyme_pair_graphs_graphtool.ipynb](rhyme_modelling/Plot_whole_rhyme_pair_graphs_graphtool.ipynb)
+--> [rhyme_modelling/Rhyme_pair_graphs.ipynb](rhyme_modelling/Rhyme_pair_graphs.ipynb)
+
+Code for clustering:  
+--> [rhyme_modelling/Rhyme_pair_graphs.ipynb](rhyme_modelling/Rhyme_pair_graphs.ipynb)
+
+Code for merging buckets:  
+--> [rhyme_modelling/Merge_wiktionary_and_NoRSC-buckets.ipynb](rhyme_modelling/Merge_wiktionary_and_NoRSC-buckets.ipynb)
     
     
 ### Chapter "Rhyme modelling"
 Code for rhyme detection:  
---> rhyme_modelling/Siamese lstm rhyme detection.ipynb
+--> [rhyme_modelling/Siamese_lstm_rhyme_detection.ipynb](rhyme_modelling/Siamese_lstm_rhyme_detection.ipynb)
 
 Code for rhyme generation:  
---> Rhyme generation.ipynb
+--> [rhyme_modelling/Rhyme_generation.ipynb](rhyme_modelling/Rhyme_generation.ipynb)
 
 ### Chapter "Poetry generation"
 Code for poetry generation models:
