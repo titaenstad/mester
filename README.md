@@ -7,7 +7,7 @@ Code for extracting poetry:
 
 ### Chapter "Rhyme pair collection"
 Code for plotting rhyme pair graphs:  
---> [rhyme_modelling/Plot_whole_rhyme_pair_graphs_graphtool.ipynb](rhyme_modelling/Plot_whole_rhyme_pair_graphs_graphtool.ipynb)
+--> [rhyme_modelling/Plot_whole_rhyme_pair_graphs_graphtool.ipynb](rhyme_modelling/Plot_whole_rhyme_pair_graphs_graphtool.ipynb)  
 --> [rhyme_modelling/Rhyme_pair_graphs.ipynb](rhyme_modelling/Rhyme_pair_graphs.ipynb)
 
 Code for clustering:  
@@ -26,11 +26,11 @@ Code for rhyme generation:
 
 ### Chapter "Poetry generation"
 Code for poetry generation models:
---> poetry_generation/Simple lstm.ipynb
+--> [poetry_generation/Simple_lstm.ipynb](poetry_generation/Simple_lstm.ipynb)  
 
 Code for splitting generated stanzas into forms:  
---> poetry_generation/Stanza annotation.ipynb
+--> [poetry_generation/Stanza_annotation.ipynb](poetry_generation/Stanza_annotation.ipynb)  
 
 ### Chapter "Evaluation"
-Code for analyzing human evaluation
---> poetry_generation/Analyze annotation data.ipynb
+Code for analyzing human evaluation  
+--> [poetry_generation/Analyze_annotation_data.ipynb](poetry_generation/Analyze_annotation_data.ipynb)
