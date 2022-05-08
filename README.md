@@ -1,4 +1,4 @@
-# Repo for work with my masters thesis
+# Repo for the work from my master's thesis
 
 ## Code and corresponding chapters
 ### Chapter "Creating a corpus of rhyme scheme annotated Norwegian poetry" 
