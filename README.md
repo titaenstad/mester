@@ -7,10 +7,10 @@ Code for extracting poetry:
 
 ### Chapter "Rhyme pair collection"
 Code for plotting rhyme pair graphs, clustering and and merging buckets:  
---> rhyme_modelling/
-    Plot whole rhyme pair graphs graphtool.ipynb
-    Rhyme pair graphs.ipynb
-    Merge wiktionary and NoRSC-buckets.ipynb
+--> rhyme_modelling/  
+    Plot whole rhyme pair graphs graphtool.ipynb  
+    Rhyme pair graphs.ipynb  
+    Merge wiktionary and NoRSC-buckets.ipynb  
     
     
 ### Chapter "Rhyme modelling"
