@@ -1,7 +1,11 @@
 # Repo for the work from my master's thesis
 
 ## Thesis 
-The pdf for the thesis is [Master_Thesis_Tita.pdf](Master_Thesis_Tita.pdf)
+Pdf for the thesis:  
+--> [Master_Thesis_Tita.pdf](Master_Thesis_Tita.pdf)  
+
+Latex files:  
+--> [Masteroppgave.zip](Masteroppgave.zip)  
 
 ## Code and corresponding chapters
 ### Chapter "Creating a corpus of rhyme scheme annotated Norwegian poetry" 
